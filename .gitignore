@@ -1,0 +1,37 @@
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# Claude Code
+.claude
+app/CLAUDE.md
+# Claude Code
+.cursor
+AGENTS.md
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Private dev notes
+DEV.md
+
+# Scratch / temp files
+tmp/
