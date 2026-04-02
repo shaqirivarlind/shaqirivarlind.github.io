@@ -1,0 +1,90 @@
+{
+  "fullName": "Arlind Shaqiri",
+  "firstName": "Arlind",
+  "lastName": "Shaqiri",
+  "role": "Fullstack Software Engineer",
+  "tagline": "I design and build scalable, user-focused web applications with modern JavaScript and TypeScript frameworks. My main focus is SPA product development, with strong experience across Vue, Nuxt, React, Angular, APIs, and fullstack delivery.",
+  "bio": "Focused on building performant, accessible products across web, mobile, and desktop platforms while delivering measurable business outcomes for enterprise and startup teams.",
+  "profileNote": "Open to frontend lead roles, freelance product engagements, and cross-functional collaboration on ambitious digital products.",
+  "location": "Prishtina, Kosovo",
+  "email": "shaqirivarlind@gmail.com",
+  "phone": "+383 45 215 213",
+  "websiteUrl": "https://shaqirivarlind.github.io",
+  "coreSkills": [
+    "typescript",
+    "vue",
+    "nuxt",
+    "angular",
+    "react",
+    "ionic",
+    "flutter",
+    "sass"
+  ],
+  "otherCompetencies": [
+    "Design Systems",
+    "Responsive Web Development",
+    "Mobile App Delivery",
+    "Agile Team Collaboration",
+    "CMS Solutions"
+  ],
+  "socialLinks": [
+    {
+      "label": "LinkedIn",
+      "platform": "linkedin",
+      "href": "https://linkedin.com/in/arlind-shaqiri"
+    },
+    {
+      "label": "GitHub",
+      "platform": "github",
+      "href": "https://github.com/shaqirivarlind"
+    },
+    {
+      "label": "GitLab",
+      "platform": "gitlab",
+      "href": "https://gitlab.com/arlindshaqiri"
+    },
+    {
+      "label": "Email",
+      "platform": "email",
+      "href": "mailto:shaqirivarlind@gmail.com"
+    }
+  ],
+  "contacts": [
+    {
+      "label": "Location",
+      "value": "Prishtina, Kosovo, 10000",
+      "href": "#contact"
+    },
+    {
+      "label": "Phone",
+      "value": "+383 45 215 213",
+      "href": "tel:+38345215213"
+    },
+    {
+      "label": "Email",
+      "value": "shaqirivarlind@gmail.com",
+      "href": "mailto:shaqirivarlind@gmail.com"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "linkedin.com/in/arlind-shaqiri",
+      "href": "https://linkedin.com/in/arlind-shaqiri"
+    },
+    {
+      "label": "GitHub",
+      "value": "github.com/shaqirivarlind",
+      "href": "https://github.com/shaqirivarlind"
+    },
+    {
+      "label": "GitLab",
+      "value": "gitlab.com/arlindshaqiri",
+      "href": "https://gitlab.com/arlindshaqiri"
+    },
+    {
+      "label": "References",
+      "value": "Available on request",
+      "href": "#contact"
+    }
+  ]
+}
+

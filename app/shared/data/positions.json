@@ -1,0 +1,209 @@
+[
+  {
+    "id": "af303651-72dc-4fa9-8533-46a67fca0e0b",
+    "experienceId": "99123aff-8a63-4bbc-9af5-6ed1815e6ed5",
+    "role": "Frontend Engineer",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2024-09",
+    "endDate": null,
+    "locationType": "hybrid",
+    "location": "Hybrid / Prishtina, Kosovo",
+    "description": "Placed by Ritech International AG at Trackforce (Canada), delivering frontend solutions for a workforce management platform.",
+    "highlights": [
+      "Contracted via Ritech International AG and placed at Trackforce (Canada)",
+      "Delivering frontend features for an enterprise workforce management platform",
+      "Collaborating with distributed international teams"
+    ],
+    "stack": [
+      "angular",
+      "typescript",
+      "rest-apis"
+    ],
+    "projectIds": [],
+    "clientIds": [
+      "1a905643-27bf-4aea-acd4-f52d36b1b3d2"
+    ]
+  },
+  {
+    "id": "d291f00b-2386-4f66-90ae-0577dc5ba8fa",
+    "experienceId": "2671f482-db87-43f0-9413-799037973d42",
+    "role": "Software Engineer (Frontend Lead)",
+    "employmentType": "full-time",
+    "workType": "product",
+    "startDate": "2021-11",
+    "endDate": "2024-08",
+    "locationType": "remote",
+    "location": "Remote / Germany",
+    "description": "Led frontend architecture and delivery in Vue/Nuxt ecosystems, including Electron desktop solutions, cross-team collaboration, and agile planning.",
+    "highlights": [
+      "Built core product features in Vue/Nuxt and desktop extensions in Electron",
+      "Delivered customizable AI-oriented product flows (amberAI) for enterprise clients including Deutsche Telekom and Deutsche Bahn",
+      "Contributed to architecture decisions for reusable UI patterns and stable state management",
+      "Built backend endpoints using Express.js to support frontend applications",
+      "Drove agile development through sprint planning and execution"
+    ],
+    "stack": [
+      "vue",
+      "nuxt",
+      "vuex",
+      "electron",
+      "express",
+      "typescript"
+    ],
+    "projectIds": [
+      "1626a285-3162-4482-b57d-92c43bff1038"
+    ],
+    "clientIds": []
+  },
+  {
+    "id": "98fe53e0-971d-4aa1-bb6a-34357c8561c3",
+    "experienceId": "9af21fd2-ee17-4ac6-8f6c-dbff111adff7",
+    "role": "Lead Frontend Developer",
+    "employmentType": "full-time",
+    "workType": "mixed",
+    "startDate": "2021-06",
+    "endDate": "2021-10",
+    "locationType": "remote",
+    "location": "Remote / Switzerland",
+    "description": "Built scalable Angular/Ionic app modules for Swiss clients and contributed to high-volume event platform workflows.",
+    "highlights": [
+      "Led the frontend development team in building complex Angular-based web and mobile applications (Ionic) for Swiss clients",
+      "Oversaw development of the jamatu.com app — a feature-rich event management and ticketing platform",
+      "Contributed to backend development to ensure seamless integration and optimization",
+      "Optimized application performance and prioritized user experience"
+    ],
+    "stack": [
+      "angular",
+      "ionic",
+      "typescript",
+      "rest-apis"
+    ],
+    "projectIds": [
+      "60f1175e-cdbc-450f-8ce1-03b8df43b450"
+    ],
+    "clientIds": [
+      "0ddc3b17-ffb9-48c6-a640-5e0b3859eff2"
+    ]
+  },
+  {
+    "id": "0a0d0de5-9e3a-40a5-b6e0-00c56e12814a",
+    "experienceId": "46e2c24b-59c5-4dfe-9236-c1135294c4cb",
+    "role": "Mobile App Developer",
+    "employmentType": "part-time",
+    "workType": "product",
+    "startDate": "2021-04",
+    "endDate": "2022-01",
+    "locationType": "remote",
+    "location": "Remote / Switzerland",
+    "description": "Delivered mobile features with Ionic/Flutter including GPS, push notifications, authentication, and in-app purchase flows for the Swiss market.",
+    "highlights": [
+      "Developed cross-platform mobile applications for the Swiss market using Ionic and Flutter",
+      "Built the Zurich Marathon app and a cycling app with GPS tracking, authentication, push notifications, and in-app purchases",
+      "Utilized Capacitor, Firebase, and native platform APIs for enhanced app functionality"
+    ],
+    "stack": [
+      "ionic",
+      "flutter",
+      "capacitor",
+      "firebase"
+    ],
+    "projectIds": [
+      "131f3f9c-5589-4289-9ac6-402dd33c232c"
+    ],
+    "clientIds": []
+  },
+  {
+    "id": "8bce4a11-825b-4972-a4c0-45926ce25264",
+    "experienceId": "473178c8-cdf3-45fb-bfb2-82d476c0f199",
+    "role": "Frontend Web App Developer",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2020-10",
+    "endDate": "2021-07",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Developed and maintained complex Angular-based web and mobile applications for clients in Germany, Switzerland, and Canada.",
+    "highlights": [
+      "Built a large-scale car registration system for clients in Germany, Switzerland, and Canada",
+      "Collaborated with design and backend teams to create a complex, multi-app platform",
+      "Optimized application performance and user experience",
+      "Utilized HTML, CSS, Angular, Ionic, Angular Material, and Git"
+    ],
+    "stack": [
+      "angular",
+      "ionic",
+      "typescript"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "296b3459-710a-4028-a7d4-dae7bfc62c1d",
+    "experienceId": "5e523b16-d6c5-4612-81c9-8a16a3428825",
+    "role": "Fullstack Web Developer",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2020-02",
+    "endDate": "2021-02",
+    "locationType": "remote",
+    "location": "Remote / Vienna, Austria",
+    "description": "Developed and maintained WordPress-based websites for clients across various industries.",
+    "highlights": [
+      "Developed and maintained WordPress-based websites for clients in various industries",
+      "Implemented custom WordPress themes and plugins to meet specific project requirements",
+      "Collaborated with a cross-functional team to deliver high-quality web solutions"
+    ],
+    "stack": [
+      "php",
+      "sass"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "ba9a920d-a9cc-4525-b58d-85d6ebed78f5",
+    "experienceId": "ce3a6a46-df0d-4ec0-8078-b129af08b40e",
+    "role": "Fullstack Web Developer",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2018-09",
+    "endDate": "2020-02",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Developed Craft CMS-based websites for Swiss clients and built an internal client management dashboard.",
+    "highlights": [
+      "Developed and maintained Craft CMS-based websites for Swiss clients",
+      "Created custom templates and plugins to extend Craft CMS functionality",
+      "Managed website hosting and deployment processes",
+      "Built an internal client management dashboard using AngularJS to streamline operations"
+    ],
+    "stack": [
+      "php",
+      "sass"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "ac7e94d7-6973-4d4c-9c8d-6887d3c0e99a",
+    "experienceId": "8692f067-a34a-4317-b754-0506a434d985",
+    "role": "Frontend Web Developer",
+    "employmentType": "freelance",
+    "workType": "outsource",
+    "startDate": "2017-07",
+    "endDate": "2018-09",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Provided freelance web development services to clients, building responsive and user-friendly websites.",
+    "highlights": [
+      "Provided freelance web development services to clients",
+      "Built responsive and user-friendly websites using HTML, CSS, JavaScript, and jQuery"
+    ],
+    "stack": [
+      "sass"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  }
+]

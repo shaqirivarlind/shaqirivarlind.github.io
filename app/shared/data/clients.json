@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1a905643-27bf-4aea-acd4-f52d36b1b3d2",
+    "positionId": "af303651-72dc-4fa9-8533-46a67fca0e0b",
+    "companyId": "34ecec0d-c45f-4797-92ba-00f28a81bdd2",
+    "projectIds": [
+      "f2a91b1f-6f5b-46cd-89f7-2a8debf2b781"
+    ]
+  },
+  {
+    "id": "0ddc3b17-ffb9-48c6-a640-5e0b3859eff2",
+    "positionId": "98fe53e0-971d-4aa1-bb6a-34357c8561c3",
+    "companyId": "1ef432c9-a39d-4bb0-b900-1c966c6cc019",
+    "projectIds": [
+      "57ddec43-681c-4e73-907a-b6ee47b382fa"
+    ]
+  }
+]

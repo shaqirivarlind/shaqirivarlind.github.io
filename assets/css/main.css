@@ -1,0 +1,21 @@
+:root {
+  --font-primary: 'sofia-pro', 'Sofia Pro', 'Avenir Next', 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-primary) !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+section {
+  scroll-margin-top: 5rem;
+}
+
+.v-app-bar {
+  backdrop-filter: blur(12px) !important;
+}

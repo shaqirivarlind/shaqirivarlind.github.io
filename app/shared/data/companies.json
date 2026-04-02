@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ab84d958-9366-47a5-bea1-2ed2a7a95355",
+    "name": "Ritech International AG",
+    "url": "https://ritech.ch",
+    "logoSrc": "/images/partners/companies/ritech_logo.png"
+  },
+  {
+    "id": "bff665ef-4b49-476c-8cdc-10fd9e73f567",
+    "name": "ambeRoad Tech GmbH",
+    "url": "https://amberoad.de",
+    "logoSrc": "/images/partners/companies/booming.svg"
+  },
+  {
+    "id": "4fdfb428-2460-4943-a4b9-46b7c151c8cf",
+    "name": "Intes GmbH",
+    "logoSrc": "/images/partners/companies/booming.svg"
+  },
+  {
+    "id": "8949b7e9-dbab-4813-86b2-182d3fa5440e",
+    "name": "IRTECH GmbH",
+    "logoSrc": "/images/partners/companies/booming.svg"
+  },
+  {
+    "id": "243d8256-dd2d-40b6-8730-725f719c76cc",
+    "name": "LinkPlus IT",
+    "logoSrc": "/images/partners/companies/booming.svg"
+  },
+  {
+    "id": "e4aa5ad2-324f-46cc-bd07-9fffdc77d200",
+    "name": "Opoware",
+    "logoSrc": "/images/partners/companies/booming.svg"
+  },
+  {
+    "id": "1ad33fb8-5001-4edf-9030-de772bd05b65",
+    "name": "Dukes LLC",
+    "logoSrc": "/images/partners/companies/booming.svg"
+  },
+  {
+    "id": "bca35088-90a4-41e8-9ef9-ef1fa64af1cd",
+    "name": "Freelance"
+  },
+  {
+    "id": "34ecec0d-c45f-4797-92ba-00f28a81bdd2",
+    "name": "Trackforce",
+    "url": "https://trackforce.com"
+  },
+  {
+    "id": "1ef432c9-a39d-4bb0-b900-1c966c6cc019",
+    "name": "can not recall it atm - insurence company"
+  },
+  {
+    "name": "test",
+    "id": "a0d650e2-7425-45cc-988a-e87ac7c6ef1f"
+  },
+  {
+    "name": "test 1",
+    "id": "2f5a8076-94bd-49e4-8378-3b8d3b2818c5"
+  }
+]

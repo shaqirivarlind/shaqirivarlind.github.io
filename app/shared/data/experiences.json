@@ -1,0 +1,58 @@
+[
+  {
+    "id": "99123aff-8a63-4bbc-9af5-6ed1815e6ed5",
+    "companyId": "ab84d958-9366-47a5-bea1-2ed2a7a95355",
+    "positionIds": [
+      "af303651-72dc-4fa9-8533-46a67fca0e0b"
+    ]
+  },
+  {
+    "id": "2671f482-db87-43f0-9413-799037973d42",
+    "companyId": "bff665ef-4b49-476c-8cdc-10fd9e73f567",
+    "positionIds": [
+      "d291f00b-2386-4f66-90ae-0577dc5ba8fa"
+    ]
+  },
+  {
+    "id": "9af21fd2-ee17-4ac6-8f6c-dbff111adff7",
+    "companyId": "4fdfb428-2460-4943-a4b9-46b7c151c8cf",
+    "positionIds": [
+      "98fe53e0-971d-4aa1-bb6a-34357c8561c3"
+    ]
+  },
+  {
+    "id": "46e2c24b-59c5-4dfe-9236-c1135294c4cb",
+    "companyId": "8949b7e9-dbab-4813-86b2-182d3fa5440e",
+    "positionIds": [
+      "0a0d0de5-9e3a-40a5-b6e0-00c56e12814a"
+    ]
+  },
+  {
+    "id": "473178c8-cdf3-45fb-bfb2-82d476c0f199",
+    "companyId": "243d8256-dd2d-40b6-8730-725f719c76cc",
+    "positionIds": [
+      "8bce4a11-825b-4972-a4c0-45926ce25264"
+    ]
+  },
+  {
+    "id": "5e523b16-d6c5-4612-81c9-8a16a3428825",
+    "companyId": "e4aa5ad2-324f-46cc-bd07-9fffdc77d200",
+    "positionIds": [
+      "296b3459-710a-4028-a7d4-dae7bfc62c1d"
+    ]
+  },
+  {
+    "id": "ce3a6a46-df0d-4ec0-8078-b129af08b40e",
+    "companyId": "1ad33fb8-5001-4edf-9030-de772bd05b65",
+    "positionIds": [
+      "ba9a920d-a9cc-4525-b58d-85d6ebed78f5"
+    ]
+  },
+  {
+    "id": "8692f067-a34a-4317-b754-0506a434d985",
+    "companyId": "bca35088-90a4-41e8-9ef9-ef1fa64af1cd",
+    "positionIds": [
+      "ac7e94d7-6973-4d4c-9c8d-6887d3c0e99a"
+    ]
+  }
+]

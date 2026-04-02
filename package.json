@@ -1,0 +1,36 @@
+{
+  "name": "shaqirivarlind-github-io",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "deploy": "nuxt generate && gh-pages -d .output/public",
+    "deploy:upload": "gh-pages -d .output/public"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vee-validate/zod": "^4.15.1",
+    "@vueuse/core": "^14.2.1",
+    "countries-list": "^3.3.0",
+    "nuxt": "^4.4.2",
+    "slugify": "^1.6.8",
+    "vee-validate": "^4.15.1",
+    "vue": "^3.5.30",
+    "vue-router": "^5.0.4",
+    "vuetify": "^4.0.4",
+    "vuetify-nuxt-module": "^0.19.5",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@vue/language-core": "^3.2.6",
+    "gh-pages": "^6.3.0"
+  },
+  "overrides": {
+    "glob": "^13.0.0"
+  }
+}
