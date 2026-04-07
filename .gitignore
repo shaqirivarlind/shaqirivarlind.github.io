@@ -42,3 +42,6 @@ app/pages/admin/
 
 # Local notes about admin (keep private)
 app/README.md
+
+# Generated static DB snapshots for GitHub Pages
+public/db/

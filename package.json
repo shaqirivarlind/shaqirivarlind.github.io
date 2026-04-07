@@ -5,10 +5,10 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "generate": "node scripts/sync-public-db.mjs && nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "nuxt generate && gh-pages -d .output/public",
+    "deploy": "node scripts/sync-public-db.mjs && nuxt generate && gh-pages -d .output/public",
     "deploy:upload": "gh-pages -d .output/public"
   },
   "dependencies": {
