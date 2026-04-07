@@ -47,4 +47,12 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/',
   },
+
+  /**
+   * Admin is local-only. Prevent `/admin/**` from being prerendered/deployed
+   * when running `nuxt generate` (GitHub Pages).
+   */
+  routeRules: {
+    '/admin/**': { prerender: false },
+  },
 })
