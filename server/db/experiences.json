@@ -1,0 +1,87 @@
+[
+  {
+    "id": "exp-demo-studio",
+    "companyId": "c-demo-studio",
+    "positionIds": [
+      "pos-demo-studio-mixed"
+    ]
+  },
+  {
+    "id": "exp-ritech",
+    "companyId": "c-ritech",
+    "positionIds": [
+      "pos-ritech-trackforce",
+      "pos-ritech-ai-product"
+    ]
+  },
+  {
+    "id": "exp-amberoad",
+    "companyId": "c-amberoad",
+    "positionIds": [
+      "pos-amberoad-fe",
+      "pos-amberoad-fe-lead",
+      "pos-amberoad-tech-lead"
+    ]
+  },
+  {
+    "id": "exp-intes",
+    "companyId": "c-intes",
+    "positionIds": [
+      "pos-intes-consulting",
+      "pos-intes-lead"
+    ]
+  },
+  {
+    "id": "exp-irtech",
+    "companyId": "c-irtech",
+    "positionIds": [
+      "pos-irtech-part-time",
+      "pos-irtech-full-time"
+    ]
+  },
+  {
+    "id": "exp-linkplus",
+    "companyId": "c-linkplus",
+    "positionIds": [
+      "pos-linkplus-outsourcing"
+    ]
+  },
+  {
+    "id": "exp-opoware",
+    "companyId": "c-opoware",
+    "positionIds": [
+      "pos-opoware-part-time"
+    ]
+  },
+  {
+    "id": "exp-dukes",
+    "companyId": "c-dukes",
+    "positionIds": [
+      "pos-dukes-full-time"
+    ]
+  },
+  {
+    "id": "exp-freelance",
+    "companyId": "c-freelance",
+    "positionIds": [
+      "pos-freelance-web",
+      "pos-freelance-maintenance",
+      "pos-freelance-short-contract"
+    ]
+  },
+  {
+    "id": "exp-blueecom",
+    "companyId": "c-blueecom",
+    "positionIds": [
+      "pos-blueecom-ecom"
+    ]
+  },
+  {
+    "id": "exp-early-startup",
+    "companyId": "c-early-startup",
+    "positionIds": [
+      "pos-startup-intern",
+      "pos-startup-engineer"
+    ]
+  }
+]

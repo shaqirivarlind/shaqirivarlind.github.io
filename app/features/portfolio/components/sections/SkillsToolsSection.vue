@@ -1,29 +1,38 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
-import { skillsCatalog } from '~/shared/data/skills'
-import type { ShownSkillsOnHome } from '~/shared/types'
+import { computed, ref, watch } from 'vue'
+import { storeToRefs } from 'pinia'
+import type { ShownSkillsOnHome, Skill } from '~/shared/types'
 import { SHOWN_SKILLS_ON_HOME, SHOWN_SKILLS_ON_HOME_LABEL } from '~/shared/constants'
 
-const { portfolio } = usePortfolio()
+const projectsStore = useProjectsStore()
+const skillsStore = useSkillsStore()
 
-const usedSkillIds = computed(() => {
-  const set = new Set<string>()
-  for (const project of portfolio.projects) {
-    for (const id of (project.stack ?? [])) set.add(String(id))
-  }
-  return set
+const { allSkills } = storeToRefs(projectsStore)
+const { skills } = storeToRefs(skillsStore)
+
+/** Skill rows for ids that appear on any project stack (catalog lookup by id). */
+const usedSkillsCatalog = computed((): Skill[] => {
+  const byId = new Map(skills.value.map((s) => [s.id, s] as const))
+  return allSkills.value.map((id) => byId.get(id)).filter((s): s is Skill => s != null)
 })
 
-const usedSkillsCatalog = computed(() =>
-  skillsCatalog.filter((skill) => usedSkillIds.value.has(skill.id)),
-)
-
-const categories = computed(() => {
-  const present = new Set<string>(usedSkillsCatalog.value.map((s) => s.category))
+const categories = computed((): ShownSkillsOnHome[] => {
+  const present = new Set(usedSkillsCatalog.value.map((s) => s.category))
   return SHOWN_SKILLS_ON_HOME.filter((cat) => present.has(cat))
 })
 
-const activeCategory = ref<ShownSkillsOnHome>(categories.value[0] ?? 'web')
+const activeCategory = ref<ShownSkillsOnHome>('web')
+
+watch(
+  categories,
+  (cats) => {
+    if (cats.length === 0) return
+    if (!cats.includes(activeCategory.value)) {
+      activeCategory.value = cats[0]!
+    }
+  },
+  { immediate: true },
+)
 
 const filteredSkills = computed(() =>
   [...usedSkillsCatalog.value]
@@ -32,15 +41,8 @@ const filteredSkills = computed(() =>
     .slice(0, 16),
 )
 
-const skillAbbreviations: Record<string, string> = {
-  Angular: 'A', Vue: 'V', React: 'R', TypeScript: 'TS', Nuxt: 'N',
-  Node: 'N', Redux: 'Rx', Ionic: 'Io', Laravel: 'Lr',
-  Figma: 'Fg', Adobe: 'XD', Photoshop: 'Ps', Illustrator: 'Ai',
-}
-
-const iconForSkill = (label: string) => {
-  const match = Object.keys(skillAbbreviations).find((key) => label.includes(key))
-  return match ? skillAbbreviations[match] : label.slice(0, 2).toUpperCase()
+function iconForSkill(label: string): string {
+  return label.trim().charAt(0).toUpperCase()
 }
 
 const skillIcons = import.meta.glob('../../assets/icons/skills/*.svg', {
@@ -57,7 +59,13 @@ const iconSrcById = Object.fromEntries(
 </script>
 
 <template>
-  <v-sheet id="skills-tools" tag="section" border="t" color="background">
+  <v-sheet
+    v-if="usedSkillsCatalog.length"
+    id="skills-tools"
+    tag="section"
+    border="t"
+    color="background"
+  >
     <v-container class="py-16 py-md-24">
       <div class="text-center mx-auto mb-10" style="max-width: 640px">
         <h2 class="text-h4 text-md-h3 font-weight-black text-high-emphasis">
@@ -68,6 +76,7 @@ const iconSrcById = Object.fromEntries(
         </p>
 
         <v-btn-toggle
+          v-if="categories.length"
           v-model="activeCategory"
           mandatory
           rounded="pill"

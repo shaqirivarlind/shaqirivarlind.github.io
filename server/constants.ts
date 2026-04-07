@@ -1,15 +1,46 @@
 import { join } from 'node:path'
 
+const db = (filename: string) => join(process.cwd(), 'server', 'db', filename)
+
+export const DB_PATHS = {
+  companies: db('companies.json'),
+  experiences: db('experiences.json'),
+  positions: db('positions.json'),
+  clients: db('clients.json'),
+  projects: db('projects.json'),
+  skills: db('skills.json'),
+  person: db('person.json'),
+  education: db('education.json'),
+  certificates: db('certificates.json'),
+  capabilities: db('capabilities.json'),
+} as const
+
+export enum UploadKinds {
+  COMPANY = 'company',
+  PROJECT = 'project',
+  PARTNER = 'partner',
+}
+
 export const ALLOWED_TYPES = ['image/svg+xml', 'image/png', 'image/jpeg', 'image/webp']
 export const ALLOWED_EXTS = ['.svg', '.png', '.jpg', '.jpeg', '.webp']
-export const UPLOAD_DIR_PROJECTS = join(process.cwd(), 'public/images/projects')
-export const UPLOAD_DIR_COMPANIES = join(process.cwd(), 'public/images/partners/companies')
 
-export const ADMIN_DATA_PATHS = {
-  companies: join(process.cwd(), 'app/shared/data/companies.json'),
-  experiences: join(process.cwd(), 'app/shared/data/experiences.json'),
-  positions: join(process.cwd(), 'app/shared/data/positions.json'),
-  clients: join(process.cwd(), 'app/shared/data/clients.json'),
-  projects: join(process.cwd(), 'app/shared/data/projects.json'),
-  skills: join(process.cwd(), 'app/shared/data/skills.json'),
-} as const
+export const IMAGES_DIR = join(process.cwd(), 'public', 'images')
+
+const uploadDirCompany = join(IMAGES_DIR, 'companies')
+const uploadDirProject = join(IMAGES_DIR, 'projects')
+const uploadDirPartners = join(IMAGES_DIR, 'partners')
+
+export const UPLOAD_BY_KIND: Record<UploadKinds, { dir: string; urlPrefix: string }> = {
+  [UploadKinds.COMPANY]: {
+    dir:       uploadDirCompany,
+    urlPrefix: '/images/companies',
+  },
+  [UploadKinds.PROJECT]: {
+    dir:       uploadDirProject,
+    urlPrefix: '/images/projects',
+  },
+  [UploadKinds.PARTNER]: {
+    dir:       uploadDirPartners,
+    urlPrefix: '/images/partners',
+  },
+}

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "prj-trackforce-platform",
+    "slug": "trackforce-workforce-platform",
+    "name": "Trackforce Workforce Management Platform",
+    "product": "Enterprise workforce management platform",
+    "description": "Frontend delivery on an enterprise workforce platform via Ritech placement.",
+    "overview": "Shipped features and fixes in a distributed team; improved reliability and user-facing workflows.",
+    "highlights": [
+      "Delivered scheduling and incident workflow improvements used by thousands of daily active users",
+      "Improved UI stability and reduced regressions via better shared components and QA support"
+    ],
+    "images": [],
+    "stack": [
+      "angular",
+      "typescript",
+      "rest-apis"
+    ],
+    "startDate": "2024-09",
+    "endDate": "2025-03",
+    "demoUrl": "https://trackforce.com",
+    "featured": true
+  },
+  {
+    "id": "prj-ritech-ai",
+    "slug": "ritech-ai-product",
+    "name": "Ritech AI Product",
+    "product": "AI-assisted internal + customer workflows",
+    "description": "In-house AI product at Ritech (owned product work).",
+    "overview": "Built reviewer and audit workflows; focused on clarity, resilience, and UX for long-running tasks.",
+    "highlights": [
+      "Built AI review UX with audit-friendly patterns (history, diffs, approvals)",
+      "Improved error handling and retries for long-running jobs"
+    ],
+    "images": [],
+    "stack": [
+      "vue",
+      "nuxt",
+      "typescript",
+      "vuetify"
+    ],
+    "startDate": "2025-03",
+    "endDate": null,
+    "featured": true
+  },
+  {
+    "id": "prj-amberai-suite",
+    "slug": "amberai-suite",
+    "name": "amberAI Platform + Desktop Suite",
+    "product": "AI platform and Electron desktop suite",
+    "description": "Product platform work across web + desktop surfaces at ambeRoad.",
+    "overview": "Owned frontend delivery; improved architecture, performance, and developer experience.",
+    "highlights": [
+      "Delivered product modules in Vue/Nuxt and desktop features in Electron",
+      "Improved release stability by tightening CI checks and regression coverage"
+    ],
+    "images": [],
+    "stack": [
+      "vue",
+      "nuxt",
+      "electron",
+      "typescript"
+    ],
+    "startDate": "2021-11",
+    "endDate": "2025-09",
+    "demoUrl": "https://amberoad.de",
+    "featured": true
+  },
+  {
+    "id": "prj-jamatu",
+    "slug": "jamatu-platform",
+    "name": "Jamatu Platform",
+    "product": "Event management & ticketing platform",
+    "description": "Led frontend delivery for event workflows and operational tooling.",
+    "overview": "Built Angular/Ionic modules focused on reliability, responsive UX, and modularity.",
+    "highlights": [
+      "Delivered booking and payment workflows; improved usability across high-traffic journeys"
+    ],
+    "images": [],
+    "stack": [
+      "angular",
+      "ionic",
+      "typescript",
+      "rest-apis"
+    ],
+    "startDate": "2021-06",
+    "endDate": "2022-03",
+    "demoUrl": "https://jamatu.com",
+    "featured": true
+  },
+  {
+    "id": "prj-insurance-portal",
+    "slug": "insurance-portal",
+    "name": "Insurance Customer Portal (NDA)",
+    "product": "Customer self-service portal",
+    "description": "Client portal work (NDA) focused on forms and policy workflows.",
+    "overview": "Delivered UX improvements and reliability fixes while collaborating with backend teams.",
+    "highlights": [
+      "Improved completion rate for complex forms by simplifying validation and error states"
+    ],
+    "images": [],
+    "stack": [
+      "angular",
+      "typescript"
+    ],
+    "startDate": "2022-04",
+    "endDate": "2022-10",
+    "featured": false
+  },
+  {
+    "id": "prj-public-sector-forms",
+    "slug": "public-sector-forms",
+    "name": "Public Sector Forms Suite (NDA)",
+    "product": "Citizen-facing forms & admin tools",
+    "description": "Led delivery for a forms + approvals suite (NDA), balancing UX, accessibility, and performance.",
+    "overview": "Shipped multiple modules with strong accessibility and maintainability focus.",
+    "highlights": [
+      "Introduced reusable form patterns and improved accessibility across key flows"
+    ],
+    "images": [],
+    "stack": [
+      "angular",
+      "typescript",
+      "rest-apis"
+    ],
+    "startDate": "2022-10",
+    "endDate": "2023-06",
+    "featured": false
+  },
+  {
+    "id": "prj-northwind-b2b",
+    "slug": "northwind-b2b-portal",
+    "name": "Northwind B2B Order Portal",
+    "product": "Wholesale ordering portal",
+    "description": "Client delivery (demo) with incremental migration to modern UI patterns.",
+    "overview": "Improved performance and UX while shipping new B2B workflows.",
+    "highlights": [
+      "Incremental migration strategy and performance improvements on critical pages"
+    ],
+    "images": [],
+    "stack": [
+      "vue",
+      "typescript",
+      "rest-apis"
+    ],
+    "startDate": "2023-03",
+    "endDate": "2024-05",
+    "demoUrl": "https://northwind.example",
+    "featured": true
+  },
+  {
+    "id": "prj-retail-mobile",
+    "slug": "retail-mobile-app",
+    "name": "Retail Mobile App (NDA)",
+    "product": "Mobile app for field operations",
+    "description": "Client mobile app enhancements (NDA) focused on offline-first workflows.",
+    "overview": "Improved sync reliability and improved UX for field operators.",
+    "highlights": [
+      "Improved offline sync robustness and reduced duplicate submissions"
+    ],
+    "images": [],
+    "stack": [
+      "ionic",
+      "typescript"
+    ],
+    "startDate": "2020-10",
+    "endDate": "2021-06",
+    "featured": false
+  },
+  {
+    "id": "prj-retail-admin",
+    "slug": "retail-admin-tools",
+    "name": "Retail Admin Tools (NDA)",
+    "product": "Admin dashboard & reporting",
+    "description": "Admin tooling for the same retail client (NDA).",
+    "overview": "Built management screens and reports used by ops teams.",
+    "highlights": [
+      "Delivered admin workflows with consistent table/form patterns"
+    ],
+    "images": [],
+    "stack": [
+      "angular",
+      "typescript"
+    ],
+    "startDate": "2021-01",
+    "endDate": "2021-09",
+    "featured": false
+  },
+  {
+    "id": "prj-startup-mvp",
+    "slug": "startup-mvp",
+    "name": "Startup MVP",
+    "product": "Seed-stage product MVP",
+    "description": "Built MVP features quickly with strong UX and iteration loops.",
+    "overview": "Shipped core flows end-to-end and improved time-to-ship via reusable patterns.",
+    "highlights": [
+      "Shipped MVP in 8 weeks and iterated weekly based on user feedback"
+    ],
+    "images": [],
+    "stack": [
+      "vue",
+      "typescript"
+    ],
+    "startDate": "2019-03",
+    "endDate": "2019-12",
+    "featured": false
+  }
+]

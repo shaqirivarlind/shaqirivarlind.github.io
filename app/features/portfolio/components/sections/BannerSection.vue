@@ -1,28 +1,32 @@
 <script setup lang="ts">
-const { portfolio } = usePortfolio()
+import { storeToRefs } from 'pinia'
+import profileImage from '../../../../../assets/images/profile_image.png'
+
+const personStore = usePersonStore()
+const { person } = storeToRefs(personStore)
 </script>
 
 <template>
   <section id="top">
-    <v-container>
+    <v-container v-if="person">
       <v-row align="center" class="py-12 py-md-20">
         <v-col cols="12" md="7">
           <p class="text-headline-small mb-4">
-            <span class="text-medium-emphasis">Hi there, I'm {{ portfolio.person.firstName }}</span> 👋
+            <span class="text-medium-emphasis">Hi there, I'm {{ person.firstName }}</span> 👋
           </p>
           <h1 class="text-headline-large font-weight-black text-high-emphasis">
-            {{ portfolio.person.role }}
+            {{ person.role }}
           </h1>
           <p class="text-headline-small text-medium-emphasis mt-6">
-            {{ portfolio.person.tagline }}
+            {{ person.tagline }}
           </p>
         </v-col>
 
         <v-col cols="12" md="5" class="d-flex justify-center justify-md-end">
           <div style="position: relative; max-width: 320px; width: 100%">
             <v-img
-              :src="portfolio.person.profileImage"
-              :alt="`${portfolio.person.fullName} profile`"
+              :src="profileImage"
+              :alt="`${person.fullName} profile`"
             />
             <div class="profile-fade" />
           </div>

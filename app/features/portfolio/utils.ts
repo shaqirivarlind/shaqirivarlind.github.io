@@ -1,4 +1,29 @@
-import type { Company, Experience, Project, ResolvedExperience, ResolvedPosition } from './types'
+import type { PositionRow } from '~/shared/types'
+import type { Company } from '~/shared/shared.types'
+import type { Experience, Project, ResolvedExperience, ResolvedPosition } from './types'
+
+/** Resolve `positionIds` (experience row order) against loaded position rows. */
+export function orderedPositionsByIds(
+  positions: readonly PositionRow[],
+  positionIds: readonly string[],
+): PositionRow[] {
+  const byId = new Map(positions.map((p) => [p.id, p] as const))
+  return positionIds
+    .map((id) => byId.get(id))
+    .filter((p): p is PositionRow => p != null)
+}
+
+export function latestPositionRow(positions: readonly PositionRow[]): PositionRow | undefined {
+  return positions.length ? positions[positions.length - 1] : undefined
+}
+
+export function experienceStartDateRows(positions: readonly PositionRow[]): string {
+  return positions[0]?.startDate ?? ''
+}
+
+export function experienceEndDateRows(positions: readonly PositionRow[]): string | null {
+  return latestPositionRow(positions)?.endDate ?? null
+}
 
 export function resolveExperiences(experiences: Experience[], companies: Company[]): ResolvedExperience[] {
   const companyById = new Map(companies.map((company) => [company.id, company]))

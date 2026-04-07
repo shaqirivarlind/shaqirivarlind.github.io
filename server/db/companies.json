@@ -1,0 +1,85 @@
+[
+  {
+    "id": "c-ritech",
+    "name": "Ritech International AG",
+    "url": "https://ritech.ch"
+  },
+  {
+    "id": "c-amberoad",
+    "name": "ambeRoad Tech GmbH",
+    "url": "https://amberoad.de"
+  },
+  {
+    "id": "c-intes",
+    "name": "Intes GmbH"
+  },
+  {
+    "id": "c-irtech",
+    "name": "IRTECH GmbH"
+  },
+  {
+    "id": "c-linkplus",
+    "name": "LinkPlus IT"
+  },
+  {
+    "id": "c-opoware",
+    "name": "Opoware"
+  },
+  {
+    "id": "c-dukes",
+    "name": "Dukes LLC"
+  },
+  {
+    "id": "c-freelance",
+    "name": "Freelance / Self-employed"
+  },
+  {
+    "id": "c-blueecom",
+    "name": "BlueEcom"
+  },
+  {
+    "id": "c-trackforce",
+    "name": "Trackforce",
+    "url": "https://trackforce.com"
+  },
+  {
+    "id": "c-insurance-unknown",
+    "name": "Insurance company (name TBD)"
+  },
+  {
+    "id": "c-northwind",
+    "name": "Northwind Commerce GmbH",
+    "url": "https://northwind.example"
+  },
+  {
+    "id": "c-swiss-retail-client",
+    "name": "Swiss Retail Client (NDA)"
+  },
+  {
+    "id": "c-demo-studio",
+    "name": "Demo Full-Stack Studio AG",
+    "url": "https://example-studio.example"
+  },
+  {
+    "id": "c-early-startup",
+    "name": "Early-stage Startup (Seed)",
+    "url": "https://example-startup.example"
+  },
+  {
+    "id": "c-public-sector-client",
+    "name": "Public Sector Client (NDA)"
+  },
+  {
+    "id": "c-63db56bd-c21d-4e97-80d6-d937833fbe70",
+    "name": "test"
+  },
+  {
+    "id": "c-cd347db2-4eac-4c81-b382-bd48d6c2c451",
+    "name": "tests 2"
+  },
+  {
+    "id": "c-b3146b55-54df-42af-9208-9815538bbd24",
+    "name": "test 3",
+    "logoSrc": "/images/companies/1775566297781-608973d3-baron-logo.png"
+  }
+]

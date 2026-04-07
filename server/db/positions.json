@@ -1,0 +1,466 @@
+[
+  {
+    "id": "pos-demo-studio-mixed",
+    "experienceId": "exp-demo-studio",
+    "role": "Senior Frontend Engineer (mixed: product + client delivery)",
+    "employmentType": "contract",
+    "workType": "mixed",
+    "startDate": "2023-01",
+    "endDate": "2024-06",
+    "locationType": "hybrid",
+    "location": "Hybrid — Zürich CH / Prishtina XK (reference)",
+    "description": "Reference mixed role: internal product work plus a dedicated client engagement, with measurable outcomes and strong ownership.",
+    "highlights": [
+      "Owned design system + app shell used across 3 internal teams; reduced UI duplication by ~30%",
+      "Client delivery: shipped B2B workflows and improved LCP by ~20% on top pages",
+      "Set up regression checks + release checklist to reduce production incidents"
+    ],
+    "stack": [
+      "vue",
+      "nuxt",
+      "typescript",
+      "sass",
+      "rest-apis"
+    ],
+    "projectIds": [
+      "prj-northwind-b2b"
+    ],
+    "clientIds": [
+      "cl-demo-northwind"
+    ]
+  },
+  {
+    "id": "pos-ritech-trackforce",
+    "experienceId": "exp-ritech",
+    "role": "Frontend Engineer (client placement)",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2024-09",
+    "endDate": "2025-03",
+    "locationType": "hybrid",
+    "location": "Hybrid / Prishtina, Kosovo",
+    "description": "Placed by Ritech at Trackforce (Canada) to deliver frontend features for a workforce management platform.",
+    "highlights": [
+      "Shipped scheduling and incident workflow improvements for an enterprise platform",
+      "Improved UI stability by standardizing shared components and tightening QA feedback loops"
+    ],
+    "stack": [
+      "angular",
+      "typescript",
+      "rest-apis"
+    ],
+    "projectIds": [
+      "prj-trackforce-platform"
+    ],
+    "clientIds": [
+      "cl-ritech-trackforce"
+    ]
+  },
+  {
+    "id": "pos-ritech-ai-product",
+    "experienceId": "exp-ritech",
+    "role": "Frontend Engineer (AI product)",
+    "employmentType": "full-time",
+    "workType": "product",
+    "startDate": "2025-03",
+    "endDate": null,
+    "locationType": "hybrid",
+    "location": "Hybrid / Prishtina, Kosovo",
+    "description": "Moved from client delivery to Ritech’s owned AI product, building reviewer workflows and audit-friendly UI.",
+    "highlights": [
+      "Built AI review workflows (history, approvals, diffs) with clear error states and retries",
+      "Improved UX for long-running tasks and reduced support escalations via better feedback patterns"
+    ],
+    "stack": [
+      "vue",
+      "nuxt",
+      "typescript",
+      "vuetify"
+    ],
+    "projectIds": [
+      "prj-ritech-ai"
+    ],
+    "clientIds": []
+  },
+  {
+    "id": "pos-amberoad-fe",
+    "experienceId": "exp-amberoad",
+    "role": "Software Engineer (Frontend)",
+    "employmentType": "full-time",
+    "workType": "product",
+    "startDate": "2021-11",
+    "endDate": "2023-03",
+    "locationType": "remote",
+    "location": "Remote / Germany",
+    "description": "Joined the product team and delivered core UI features while establishing frontend patterns for a growing codebase.",
+    "highlights": [
+      "Shipped core workflows and improved UI performance on large views",
+      "Improved cross-team integration by aligning API contracts and error handling patterns"
+    ],
+    "stack": [
+      "vue",
+      "nuxt",
+      "typescript"
+    ],
+    "projectIds": [
+      "prj-amberai-suite"
+    ],
+    "clientIds": []
+  },
+  {
+    "id": "pos-amberoad-fe-lead",
+    "experienceId": "exp-amberoad",
+    "role": "Software Engineer (Frontend Lead)",
+    "employmentType": "full-time",
+    "workType": "product",
+    "startDate": "2023-03",
+    "endDate": "2024-08",
+    "locationType": "remote",
+    "location": "Remote / Germany",
+    "description": "Led frontend delivery for product modules and desktop surfaces; improved architecture and release stability.",
+    "highlights": [
+      "Led delivery across web + desktop surfaces and improved release stability",
+      "Improved maintainability by standardizing patterns for state, forms, and error handling"
+    ],
+    "stack": [
+      "vue",
+      "nuxt",
+      "electron",
+      "typescript"
+    ],
+    "projectIds": [
+      "prj-amberai-suite"
+    ],
+    "clientIds": []
+  },
+  {
+    "id": "pos-amberoad-tech-lead",
+    "experienceId": "exp-amberoad",
+    "role": "Frontend Tech Lead",
+    "employmentType": "full-time",
+    "workType": "product",
+    "startDate": "2024-08",
+    "endDate": "2025-09",
+    "locationType": "remote",
+    "location": "Remote / Germany",
+    "description": "Promotion track: mentored engineers, drove architecture decisions, and aligned delivery across squads.",
+    "highlights": [
+      "Mentored engineers and improved delivery throughput via clearer ownership and review standards",
+      "Reduced duplicated UI work by introducing shared components and guidelines"
+    ],
+    "stack": [
+      "vue",
+      "nuxt",
+      "typescript",
+      "electron"
+    ],
+    "projectIds": [
+      "prj-amberai-suite"
+    ],
+    "clientIds": []
+  },
+  {
+    "id": "pos-intes-consulting",
+    "experienceId": "exp-intes",
+    "role": "Frontend Developer (consulting)",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2021-06",
+    "endDate": "2022-03",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Consulting delivery across Angular/Ionic modules for multiple clients.",
+    "highlights": [
+      "Delivered Jamatu platform modules and improved usability across key journeys",
+      "Improved reliability by standardizing shared UI patterns and validation"
+    ],
+    "stack": [
+      "angular",
+      "ionic",
+      "typescript",
+      "rest-apis"
+    ],
+    "projectIds": [
+      "prj-jamatu"
+    ],
+    "clientIds": [
+      "cl-intes-insurance"
+    ]
+  },
+  {
+    "id": "pos-intes-lead",
+    "experienceId": "exp-intes",
+    "role": "Lead Frontend Developer",
+    "employmentType": "full-time",
+    "workType": "mixed",
+    "startDate": "2022-03",
+    "endDate": "2023-06",
+    "locationType": "hybrid",
+    "location": "Hybrid / Prishtina, Kosovo",
+    "description": "Led frontend delivery and supported two parallel tracks (internal platform + client delivery).",
+    "highlights": [
+      "Led delivery for a forms + approvals suite with strong accessibility focus",
+      "Improved delivery predictability by tightening planning and review cadence"
+    ],
+    "stack": [
+      "angular",
+      "typescript",
+      "rest-apis"
+    ],
+    "projectIds": [
+      "prj-public-sector-forms"
+    ],
+    "clientIds": [
+      "cl-intes-public-sector"
+    ]
+  },
+  {
+    "id": "pos-irtech-part-time",
+    "experienceId": "exp-irtech",
+    "role": "Mobile Developer (part-time)",
+    "employmentType": "part-time",
+    "workType": "product",
+    "startDate": "2021-04",
+    "endDate": "2022-01",
+    "locationType": "remote",
+    "location": "Remote / Switzerland",
+    "description": "Part-time role shipping mobile features with cross-platform tooling.",
+    "highlights": [
+      "Delivered GPS, authentication, notifications, and purchase flows with stable UX"
+    ],
+    "stack": [
+      "ionic",
+      "flutter",
+      "capacitor",
+      "firebase"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-irtech-full-time",
+    "experienceId": "exp-irtech",
+    "role": "Mobile Developer",
+    "employmentType": "full-time",
+    "workType": "product",
+    "startDate": "2022-01",
+    "endDate": "2022-09",
+    "locationType": "remote",
+    "location": "Remote / Switzerland",
+    "description": "Converted from part-time to full-time to ship a major release and stabilize performance.",
+    "highlights": [
+      "Shipped a major release and improved stability through focused performance work"
+    ],
+    "stack": [
+      "ionic",
+      "capacitor",
+      "firebase"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-linkplus-outsourcing",
+    "experienceId": "exp-linkplus",
+    "role": "Frontend Web App Developer",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2020-10",
+    "endDate": "2021-09",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Client-focused delivery across web + mobile modules with frequent releases.",
+    "highlights": [
+      "Delivered features for multiple client modules and improved UI consistency via shared patterns"
+    ],
+    "stack": [
+      "angular",
+      "ionic",
+      "typescript"
+    ],
+    "projectIds": [],
+    "clientIds": [
+      "cl-linkplus-swiss-retail"
+    ]
+  },
+  {
+    "id": "pos-opoware-part-time",
+    "experienceId": "exp-opoware",
+    "role": "Fullstack Web Developer",
+    "employmentType": "part-time",
+    "workType": "outsource",
+    "startDate": "2020-02",
+    "endDate": "2021-02",
+    "locationType": "remote",
+    "location": "Remote / Vienna, Austria",
+    "description": "Part-time delivery: maintained and extended CMS-based sites for multiple clients.",
+    "highlights": [
+      "Delivered small feature batches and improved content workflows for client sites"
+    ],
+    "stack": [
+      "php",
+      "sass"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-dukes-full-time",
+    "experienceId": "exp-dukes",
+    "role": "Fullstack Web Developer",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2018-09",
+    "endDate": "2020-02",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Delivered CMS sites and internal tooling while owning deployments and reliability.",
+    "highlights": [
+      "Built internal dashboard features and improved delivery speed via reusable templates"
+    ],
+    "stack": [
+      "php",
+      "sass",
+      "javascript"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-freelance-web",
+    "experienceId": "exp-freelance",
+    "role": "Freelance Web Developer",
+    "employmentType": "freelance",
+    "workType": "outsource",
+    "startDate": "2017-07",
+    "endDate": "2018-09",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Freelance delivery for small businesses: landing pages, CMS sites, and performance fixes.",
+    "highlights": [
+      "Delivered responsive sites and improved perceived performance through simple optimizations"
+    ],
+    "stack": [
+      "html",
+      "css",
+      "javascript",
+      "sass"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-freelance-maintenance",
+    "experienceId": "exp-freelance",
+    "role": "Freelance (maintenance + small contracts)",
+    "employmentType": "part-time",
+    "workType": "outsource",
+    "startDate": "2018-09",
+    "endDate": "2019-02",
+    "locationType": "remote",
+    "location": "Remote / Kosovo",
+    "description": "Maintenance-focused phase while transitioning to the next full-time role.",
+    "highlights": [
+      "Handled maintenance, content changes, and small feature requests; improved reliability via backups and deploy steps"
+    ],
+    "stack": [
+      "php",
+      "javascript",
+      "css"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-freelance-short-contract",
+    "experienceId": "exp-freelance",
+    "role": "Short contract (2 months)",
+    "employmentType": "contract",
+    "workType": "outsource",
+    "startDate": "2019-01",
+    "endDate": "2019-03",
+    "locationType": "remote",
+    "location": "Remote / Kosovo",
+    "description": "Short contract engagement to deliver a feature batch and hand over documentation.",
+    "highlights": [
+      "Delivered a feature batch on a tight timeline and documented handover to the client team"
+    ],
+    "stack": [
+      "javascript",
+      "html",
+      "css"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-blueecom-ecom",
+    "experienceId": "exp-blueecom",
+    "role": "Frontend Web Developer (e-commerce)",
+    "employmentType": "full-time",
+    "workType": "outsource",
+    "startDate": "2020-05",
+    "endDate": "2020-09",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "E-commerce delivery focused on Shopify theme customization and performance improvements.",
+    "highlights": [
+      "Delivered responsive storefront improvements and improved performance for key shopping flows"
+    ],
+    "stack": [
+      "shopify",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "projectIds": [],
+    "clientIds": []
+  },
+  {
+    "id": "pos-startup-intern",
+    "experienceId": "exp-early-startup",
+    "role": "Software Engineering Intern",
+    "employmentType": "part-time",
+    "workType": "product",
+    "startDate": "2018-06",
+    "endDate": "2019-03",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Internship on a seed-stage product; shipped small features and learned modern development workflows.",
+    "highlights": [
+      "Shipped small features end-to-end and improved confidence through code reviews and pairing"
+    ],
+    "stack": [
+      "javascript",
+      "html",
+      "css"
+    ],
+    "projectIds": [
+      "prj-startup-mvp"
+    ],
+    "clientIds": []
+  },
+  {
+    "id": "pos-startup-engineer",
+    "experienceId": "exp-early-startup",
+    "role": "Frontend Engineer",
+    "employmentType": "full-time",
+    "workType": "product",
+    "startDate": "2019-03",
+    "endDate": "2019-12",
+    "locationType": "onsite",
+    "location": "Prishtina, Kosovo",
+    "description": "Full-time role after internship; shipped MVP features and improved UX through fast feedback loops.",
+    "highlights": [
+      "Shipped MVP features quickly and iterated weekly based on user feedback"
+    ],
+    "stack": [
+      "vue",
+      "typescript"
+    ],
+    "projectIds": [
+      "prj-startup-mvp"
+    ],
+    "clientIds": []
+  }
+]

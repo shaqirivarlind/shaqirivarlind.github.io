@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cl-ritech-trackforce",
+    "positionId": "pos-ritech-trackforce",
+    "companyId": "c-trackforce",
+    "projectIds": [
+      "prj-trackforce-platform"
+    ]
+  },
+  {
+    "id": "cl-intes-insurance",
+    "positionId": "pos-intes-consulting",
+    "companyId": "c-insurance-unknown",
+    "projectIds": [
+      "prj-insurance-portal"
+    ]
+  },
+  {
+    "id": "cl-demo-northwind",
+    "positionId": "pos-demo-studio-mixed",
+    "companyId": "c-northwind",
+    "projectIds": [
+      "prj-northwind-b2b"
+    ]
+  },
+  {
+    "id": "cl-intes-public-sector",
+    "positionId": "pos-intes-lead",
+    "companyId": "c-public-sector-client",
+    "projectIds": [
+      "prj-public-sector-forms"
+    ]
+  },
+  {
+    "id": "cl-linkplus-swiss-retail",
+    "positionId": "pos-linkplus-outsourcing",
+    "companyId": "c-swiss-retail-client",
+    "projectIds": [
+      "prj-retail-mobile",
+      "prj-retail-admin"
+    ]
+  }
+]

@@ -1,49 +1,100 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
+import { storeToRefs } from 'pinia'
 import { AppTheme } from '~/shared/constants'
+import { portfolioConfig } from '~/features/portfolio/constants'
 
-const { portfolio } = usePortfolio()
+const personStore = usePersonStore()
+const { person } = storeToRefs(personStore)
 const { currentTheme, toggleTheme } = useAppTheme()
 
-// Computed nav items
+const mobileOpen = ref(false)
+
 const computedNavItems = computed(() =>
-  portfolio.config.navItems.map((item) => ({
-    ...item,
-    isHash: item.href.startsWith('/#'),
+  portfolioConfig.navItems.map((item) => ({
+    label: item.label,
+    key: item.href,
     to: item.href.startsWith('/#') ? undefined : item.href,
     href: item.href.startsWith('/#') ? item.href : undefined,
-  }))
+  })),
+)
+
+// ✅ computed theme icon
+const themeIcon = computed(() =>
+  currentTheme.value === AppTheme.DARK
+    ? 'mdi-weather-sunny'
+    : 'mdi-weather-night',
 )
 </script>
 
 <template>
-  <v-app-bar flat :elevation="0" scroll-behavior="elevate" height="64">
-    <v-container class="d-flex align-center">
-      <v-app-bar-title>
-        <NuxtLink to="/" class="text-decoration-none font-weight-black text-h4 text-high-emphasis">
-          {{ portfolio.person.firstName }} <span class="d-none d-sm-inline">{{ portfolio.person.lastName }}</span>
-        </NuxtLink>
-      </v-app-bar-title>
-
-      <div class="d-none d-md-flex align-center ml-auto">
+  <div v-if="person">
+    <v-app-bar flat height="64">
+      
+      <!-- ✅ keep alignment -->
+      <v-container class="d-flex align-center h-100">
+        
+        <!-- Mobile menu button -->
         <v-btn
-          v-for="item in computedNavItems"
-          :key="item.href"
+          class="d-md-none"
+          icon="mdi-menu"
           variant="text"
-          class="text-medium-emphasis text-title-medium"
-          :to="item.to"
-          :href="item.href"
-        >
-          {{ item.label }}
-        </v-btn>
+          @click="mobileOpen = !mobileOpen"
+        />
 
+        <!-- Title -->
+        <v-app-bar-title>
+          <NuxtLink
+            to="/"
+            class="text-decoration-none text-high-emphasis font-weight-bold hover:text-primary"
+          >
+            {{ person.firstName }} {{ person.lastName }}
+          </NuxtLink>
+        </v-app-bar-title>
+
+        <!-- Desktop nav -->
+        <div class="d-none d-md-flex align-center">
+          <v-btn
+            v-for="item in computedNavItems"
+            :key="item.key"
+            variant="text"
+            :to="item.to"
+            :href="item.href"
+          >
+            {{ item.label }}
+          </v-btn>
+
+          <v-btn
+            :icon="themeIcon"
+            variant="text"
+            @click="toggleTheme"
+          />
+        </div>
+
+        <!-- Mobile theme -->
         <v-btn
-          :icon="currentTheme === AppTheme.DARK ? 'mdi-weather-sunny' : 'mdi-weather-night'"
+          class="d-md-none"
+          :icon="themeIcon"
           variant="text"
-          class="ml-2"
           @click="toggleTheme"
         />
-      </div>
-    </v-container>
-  </v-app-bar>
+      </v-container>
+    </v-app-bar>
+
+    <v-navigation-drawer
+      v-model="mobileOpen"
+      temporary
+      location="start"
+    >
+      <v-list nav>
+        <v-list-item
+          v-for="item in computedNavItems"
+          :key="item.key"
+          :title="item.label"
+          :to="item.to"
+          :href="item.href"
+        />
+      </v-list>
+    </v-navigation-drawer>
+  </div>
 </template>

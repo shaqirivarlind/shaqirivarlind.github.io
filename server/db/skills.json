@@ -1,0 +1,1904 @@
+[
+  {
+    "id": "typescript",
+    "label": "TypeScript",
+    "category": "languages",
+    "orderWeight": 95
+  },
+  {
+    "id": "javascript",
+    "label": "JavaScript",
+    "category": "languages",
+    "orderWeight": 90
+  },
+  {
+    "id": "html",
+    "label": "HTML",
+    "category": "languages",
+    "orderWeight": 75
+  },
+  {
+    "id": "css",
+    "label": "CSS",
+    "category": "languages",
+    "orderWeight": 70
+  },
+  {
+    "id": "dart",
+    "label": "Dart",
+    "category": "languages",
+    "orderWeight": 60
+  },
+  {
+    "id": "php",
+    "label": "PHP",
+    "category": "languages",
+    "orderWeight": 45
+  },
+  {
+    "id": "python",
+    "label": "Python",
+    "category": "languages",
+    "orderWeight": 40
+  },
+  {
+    "id": "sql",
+    "label": "SQL",
+    "category": "languages",
+    "orderWeight": 55
+  },
+  {
+    "id": "go",
+    "label": "Go",
+    "category": "languages",
+    "orderWeight": 50
+  },
+  {
+    "id": "rust",
+    "label": "Rust",
+    "category": "languages",
+    "orderWeight": 45
+  },
+  {
+    "id": "java",
+    "label": "Java",
+    "category": "languages",
+    "orderWeight": 40
+  },
+  {
+    "id": "kotlin",
+    "label": "Kotlin",
+    "category": "languages",
+    "orderWeight": 45
+  },
+  {
+    "id": "swift",
+    "label": "Swift",
+    "category": "languages",
+    "orderWeight": 40
+  },
+  {
+    "id": "csharp",
+    "label": "C#",
+    "category": "languages",
+    "orderWeight": 35
+  },
+  {
+    "id": "ruby",
+    "label": "Ruby",
+    "category": "languages",
+    "orderWeight": 35
+  },
+  {
+    "id": "elixir",
+    "label": "Elixir",
+    "category": "languages",
+    "orderWeight": 30
+  },
+  {
+    "id": "bash",
+    "label": "Bash / Shell",
+    "category": "languages",
+    "orderWeight": 50
+  },
+  {
+    "id": "wasm",
+    "label": "WebAssembly",
+    "category": "languages",
+    "orderWeight": 35
+  },
+  {
+    "id": "graphql-lang",
+    "label": "GraphQL SDL",
+    "category": "languages",
+    "orderWeight": 45
+  },
+  {
+    "id": "markdown",
+    "label": "Markdown",
+    "category": "languages",
+    "orderWeight": 40
+  },
+  {
+    "id": "json",
+    "label": "JSON",
+    "category": "languages",
+    "orderWeight": 45
+  },
+  {
+    "id": "yaml",
+    "label": "YAML",
+    "category": "languages",
+    "orderWeight": 40
+  },
+  {
+    "id": "vue",
+    "label": "Vue.js",
+    "category": "web",
+    "orderWeight": 95
+  },
+  {
+    "id": "nuxt",
+    "label": "Nuxt.js",
+    "category": "web",
+    "orderWeight": 90
+  },
+  {
+    "id": "angular",
+    "label": "Angular",
+    "category": "web",
+    "orderWeight": 85
+  },
+  {
+    "id": "react",
+    "label": "React",
+    "category": "web",
+    "orderWeight": 80
+  },
+  {
+    "id": "nextjs",
+    "label": "Next.js",
+    "category": "web",
+    "orderWeight": 75
+  },
+  {
+    "id": "astro",
+    "label": "Astro",
+    "category": "web",
+    "orderWeight": 60
+  },
+  {
+    "id": "svelte",
+    "label": "Svelte",
+    "category": "web",
+    "orderWeight": 55
+  },
+  {
+    "id": "sveltekit",
+    "label": "SvelteKit",
+    "category": "web",
+    "orderWeight": 55
+  },
+  {
+    "id": "remix",
+    "label": "Remix",
+    "category": "web",
+    "orderWeight": 50
+  },
+  {
+    "id": "gatsby",
+    "label": "Gatsby",
+    "category": "web",
+    "orderWeight": 45
+  },
+  {
+    "id": "qwik",
+    "label": "Qwik",
+    "category": "web",
+    "orderWeight": 35
+  },
+  {
+    "id": "solidjs",
+    "label": "SolidJS",
+    "category": "web",
+    "orderWeight": 45
+  },
+  {
+    "id": "preact",
+    "label": "Preact",
+    "category": "web",
+    "orderWeight": 40
+  },
+  {
+    "id": "alpinejs",
+    "label": "Alpine.js",
+    "category": "web",
+    "orderWeight": 45
+  },
+  {
+    "id": "htmx",
+    "label": "HTMX",
+    "category": "web",
+    "orderWeight": 40
+  },
+  {
+    "id": "lit",
+    "label": "Lit",
+    "category": "web",
+    "orderWeight": 35
+  },
+  {
+    "id": "web-components",
+    "label": "Web Components",
+    "category": "web",
+    "orderWeight": 45
+  },
+  {
+    "id": "angularjs",
+    "label": "AngularJS",
+    "category": "web",
+    "orderWeight": 30
+  },
+  {
+    "id": "ember",
+    "label": "Ember.js",
+    "category": "web",
+    "orderWeight": 25
+  },
+  {
+    "id": "inertiajs",
+    "label": "Inertia.js",
+    "category": "web",
+    "orderWeight": 40
+  },
+  {
+    "id": "stimulus",
+    "label": "Stimulus",
+    "category": "web",
+    "orderWeight": 30
+  },
+  {
+    "id": "jquery",
+    "label": "jQuery",
+    "category": "web",
+    "orderWeight": 30
+  },
+  {
+    "id": "pinia",
+    "label": "Pinia",
+    "category": "state",
+    "orderWeight": 90
+  },
+  {
+    "id": "vuex",
+    "label": "Vuex",
+    "category": "state",
+    "orderWeight": 75
+  },
+  {
+    "id": "ngrx",
+    "label": "NgRx",
+    "category": "state",
+    "orderWeight": 70
+  },
+  {
+    "id": "redux",
+    "label": "Redux",
+    "category": "state",
+    "orderWeight": 65
+  },
+  {
+    "id": "redux-toolkit",
+    "label": "Redux Toolkit",
+    "category": "state",
+    "orderWeight": 60
+  },
+  {
+    "id": "rxjs",
+    "label": "RxJS",
+    "category": "state",
+    "orderWeight": 65
+  },
+  {
+    "id": "zustand",
+    "label": "Zustand",
+    "category": "state",
+    "orderWeight": 55
+  },
+  {
+    "id": "mobx",
+    "label": "MobX",
+    "category": "state",
+    "orderWeight": 45
+  },
+  {
+    "id": "recoil",
+    "label": "Recoil",
+    "category": "state",
+    "orderWeight": 40
+  },
+  {
+    "id": "tanstack-query",
+    "label": "TanStack Query",
+    "category": "state",
+    "orderWeight": 60
+  },
+  {
+    "id": "jotai",
+    "label": "Jotai",
+    "category": "state",
+    "orderWeight": 40
+  },
+  {
+    "id": "xstate",
+    "label": "XState",
+    "category": "state",
+    "orderWeight": 45
+  },
+  {
+    "id": "effector",
+    "label": "Effector",
+    "category": "state",
+    "orderWeight": 35
+  },
+  {
+    "id": "valtio",
+    "label": "Valtio",
+    "category": "state",
+    "orderWeight": 35
+  },
+  {
+    "id": "nanostores",
+    "label": "Nano Stores",
+    "category": "state",
+    "orderWeight": 35
+  },
+  {
+    "id": "legend-state",
+    "label": "Legend State",
+    "category": "state",
+    "orderWeight": 35
+  },
+  {
+    "id": "akita",
+    "label": "Akita",
+    "category": "state",
+    "orderWeight": 30
+  },
+  {
+    "id": "tanstack-store",
+    "label": "TanStack Store",
+    "category": "state",
+    "orderWeight": 40
+  },
+  {
+    "id": "tailwindcss",
+    "label": "Tailwind CSS",
+    "category": "styling",
+    "orderWeight": 90
+  },
+  {
+    "id": "sass",
+    "label": "Sass / SCSS",
+    "category": "styling",
+    "orderWeight": 80
+  },
+  {
+    "id": "vuetify",
+    "label": "Vuetify",
+    "category": "styling",
+    "orderWeight": 75
+  },
+  {
+    "id": "css-modules",
+    "label": "CSS Modules",
+    "category": "styling",
+    "orderWeight": 65
+  },
+  {
+    "id": "styled-components",
+    "label": "Styled Components",
+    "category": "styling",
+    "orderWeight": 60
+  },
+  {
+    "id": "material-ui",
+    "label": "Material UI",
+    "category": "styling",
+    "orderWeight": 65
+  },
+  {
+    "id": "shadcn",
+    "label": "shadcn/ui",
+    "category": "styling",
+    "orderWeight": 60
+  },
+  {
+    "id": "radix-ui",
+    "label": "Radix UI",
+    "category": "styling",
+    "orderWeight": 55
+  },
+  {
+    "id": "bootstrap",
+    "label": "Bootstrap",
+    "category": "styling",
+    "orderWeight": 55
+  },
+  {
+    "id": "less",
+    "label": "Less",
+    "category": "styling",
+    "orderWeight": 40
+  },
+  {
+    "id": "postcss",
+    "label": "PostCSS",
+    "category": "styling",
+    "orderWeight": 50
+  },
+  {
+    "id": "ant-design",
+    "label": "Ant Design",
+    "category": "styling",
+    "orderWeight": 50
+  },
+  {
+    "id": "headlessui",
+    "label": "Headless UI",
+    "category": "styling",
+    "orderWeight": 50
+  },
+  {
+    "id": "framer-motion",
+    "label": "Framer Motion",
+    "category": "styling",
+    "orderWeight": 55
+  },
+  {
+    "id": "unocss",
+    "label": "UnoCSS",
+    "category": "styling",
+    "orderWeight": 50
+  },
+  {
+    "id": "panda-css",
+    "label": "Panda CSS",
+    "category": "styling",
+    "orderWeight": 40
+  },
+  {
+    "id": "chakra-ui",
+    "label": "Chakra UI",
+    "category": "styling",
+    "orderWeight": 50
+  },
+  {
+    "id": "mantine",
+    "label": "Mantine",
+    "category": "styling",
+    "orderWeight": 50
+  },
+  {
+    "id": "daisyui",
+    "label": "DaisyUI",
+    "category": "styling",
+    "orderWeight": 45
+  },
+  {
+    "id": "primevue",
+    "label": "PrimeVue",
+    "category": "styling",
+    "orderWeight": 45
+  },
+  {
+    "id": "primeng",
+    "label": "PrimeNG",
+    "category": "styling",
+    "orderWeight": 40
+  },
+  {
+    "id": "quasar",
+    "label": "Quasar",
+    "category": "styling",
+    "orderWeight": 45
+  },
+  {
+    "id": "bulma",
+    "label": "Bulma",
+    "category": "styling",
+    "orderWeight": 35
+  },
+  {
+    "id": "foundation",
+    "label": "Foundation",
+    "category": "styling",
+    "orderWeight": 25
+  },
+  {
+    "id": "emotion",
+    "label": "Emotion",
+    "category": "styling",
+    "orderWeight": 45
+  },
+  {
+    "id": "linaria",
+    "label": "Linaria",
+    "category": "styling",
+    "orderWeight": 35
+  },
+  {
+    "id": "stitches",
+    "label": "Stitches",
+    "category": "styling",
+    "orderWeight": 30
+  },
+  {
+    "id": "open-props",
+    "label": "Open Props",
+    "category": "styling",
+    "orderWeight": 30
+  },
+  {
+    "id": "gsap",
+    "label": "GSAP",
+    "category": "styling",
+    "orderWeight": 55
+  },
+  {
+    "id": "three-js",
+    "label": "Three.js",
+    "category": "styling",
+    "orderWeight": 50
+  },
+  {
+    "id": "motion",
+    "label": "Motion One",
+    "category": "styling",
+    "orderWeight": 40
+  },
+  {
+    "id": "ionic",
+    "label": "Ionic",
+    "category": "mobile",
+    "orderWeight": 85
+  },
+  {
+    "id": "flutter",
+    "label": "Flutter",
+    "category": "mobile",
+    "orderWeight": 80
+  },
+  {
+    "id": "capacitor",
+    "label": "Capacitor",
+    "category": "mobile",
+    "orderWeight": 70
+  },
+  {
+    "id": "react-native",
+    "label": "React Native",
+    "category": "mobile",
+    "orderWeight": 65
+  },
+  {
+    "id": "electron",
+    "label": "Electron",
+    "category": "mobile",
+    "orderWeight": 60
+  },
+  {
+    "id": "expo",
+    "label": "Expo",
+    "category": "mobile",
+    "orderWeight": 55
+  },
+  {
+    "id": "tauri",
+    "label": "Tauri",
+    "category": "mobile",
+    "orderWeight": 45
+  },
+  {
+    "id": "nativescript",
+    "label": "NativeScript",
+    "category": "mobile",
+    "orderWeight": 35
+  },
+  {
+    "id": "swiftui",
+    "label": "SwiftUI",
+    "category": "mobile",
+    "orderWeight": 40
+  },
+  {
+    "id": "jetpack-compose",
+    "label": "Jetpack Compose",
+    "category": "mobile",
+    "orderWeight": 40
+  },
+  {
+    "id": "kotlin-multiplatform",
+    "label": "Kotlin Multiplatform",
+    "category": "mobile",
+    "orderWeight": 35
+  },
+  {
+    "id": "cordova",
+    "label": "Cordova",
+    "category": "mobile",
+    "orderWeight": 25
+  },
+  {
+    "id": "pwa",
+    "label": "PWA",
+    "category": "mobile",
+    "orderWeight": 60
+  },
+  {
+    "id": "nativescript-vue",
+    "label": "NativeScript Vue",
+    "category": "mobile",
+    "orderWeight": 30
+  },
+  {
+    "id": "rest-apis",
+    "label": "REST APIs",
+    "category": "api",
+    "orderWeight": 90
+  },
+  {
+    "id": "graphql",
+    "label": "GraphQL",
+    "category": "api",
+    "orderWeight": 80
+  },
+  {
+    "id": "apollo",
+    "label": "Apollo",
+    "category": "api",
+    "orderWeight": 70
+  },
+  {
+    "id": "trpc",
+    "label": "tRPC",
+    "category": "api",
+    "orderWeight": 65
+  },
+  {
+    "id": "websockets",
+    "label": "WebSockets",
+    "category": "api",
+    "orderWeight": 60
+  },
+  {
+    "id": "grpc",
+    "label": "gRPC",
+    "category": "api",
+    "orderWeight": 50
+  },
+  {
+    "id": "openapi",
+    "label": "OpenAPI / Swagger",
+    "category": "api",
+    "orderWeight": 55
+  },
+  {
+    "id": "sse",
+    "label": "Server-Sent Events",
+    "category": "api",
+    "orderWeight": 45
+  },
+  {
+    "id": "webhooks",
+    "label": "Webhooks",
+    "category": "api",
+    "orderWeight": 55
+  },
+  {
+    "id": "oauth",
+    "label": "OAuth 2.0",
+    "category": "api",
+    "orderWeight": 60
+  },
+  {
+    "id": "jwt",
+    "label": "JWT",
+    "category": "api",
+    "orderWeight": 60
+  },
+  {
+    "id": "soap",
+    "label": "SOAP",
+    "category": "api",
+    "orderWeight": 25
+  },
+  {
+    "id": "mqtt",
+    "label": "MQTT",
+    "category": "api",
+    "orderWeight": 30
+  },
+  {
+    "id": "json-rpc",
+    "label": "JSON-RPC",
+    "category": "api",
+    "orderWeight": 30
+  },
+  {
+    "id": "nodejs",
+    "label": "Node.js",
+    "category": "backend",
+    "orderWeight": 80
+  },
+  {
+    "id": "express",
+    "label": "Express.js",
+    "category": "backend",
+    "orderWeight": 70
+  },
+  {
+    "id": "nestjs",
+    "label": "NestJS",
+    "category": "backend",
+    "orderWeight": 65
+  },
+  {
+    "id": "fastify",
+    "label": "Fastify",
+    "category": "backend",
+    "orderWeight": 55
+  },
+  {
+    "id": "laravel",
+    "label": "Laravel",
+    "category": "backend",
+    "orderWeight": 50
+  },
+  {
+    "id": "hapi",
+    "label": "Hapi.js",
+    "category": "backend",
+    "orderWeight": 40
+  },
+  {
+    "id": "strapi",
+    "label": "Strapi",
+    "category": "backend",
+    "orderWeight": 45
+  },
+  {
+    "id": "sanity",
+    "label": "Sanity",
+    "category": "backend",
+    "orderWeight": 45
+  },
+  {
+    "id": "payload-cms",
+    "label": "Payload CMS",
+    "category": "backend",
+    "orderWeight": 40
+  },
+  {
+    "id": "deno",
+    "label": "Deno",
+    "category": "backend",
+    "orderWeight": 45
+  },
+  {
+    "id": "bun",
+    "label": "Bun",
+    "category": "backend",
+    "orderWeight": 50
+  },
+  {
+    "id": "hono",
+    "label": "Hono",
+    "category": "backend",
+    "orderWeight": 50
+  },
+  {
+    "id": "koa",
+    "label": "Koa.js",
+    "category": "backend",
+    "orderWeight": 40
+  },
+  {
+    "id": "elysia",
+    "label": "Elysia",
+    "category": "backend",
+    "orderWeight": 40
+  },
+  {
+    "id": "adonisjs",
+    "label": "AdonisJS",
+    "category": "backend",
+    "orderWeight": 35
+  },
+  {
+    "id": "django",
+    "label": "Django",
+    "category": "backend",
+    "orderWeight": 35
+  },
+  {
+    "id": "flask",
+    "label": "Flask",
+    "category": "backend",
+    "orderWeight": 35
+  },
+  {
+    "id": "fastapi",
+    "label": "FastAPI",
+    "category": "backend",
+    "orderWeight": 40
+  },
+  {
+    "id": "rails",
+    "label": "Ruby on Rails",
+    "category": "backend",
+    "orderWeight": 30
+  },
+  {
+    "id": "spring-boot",
+    "label": "Spring Boot",
+    "category": "backend",
+    "orderWeight": 30
+  },
+  {
+    "id": "phoenix",
+    "label": "Phoenix",
+    "category": "backend",
+    "orderWeight": 25
+  },
+  {
+    "id": "medusa",
+    "label": "Medusa",
+    "category": "backend",
+    "orderWeight": 35
+  },
+  {
+    "id": "feathersjs",
+    "label": "Feathers.js",
+    "category": "backend",
+    "orderWeight": 25
+  },
+  {
+    "id": "postgresql",
+    "label": "PostgreSQL",
+    "category": "database",
+    "orderWeight": 75
+  },
+  {
+    "id": "mysql",
+    "label": "MySQL",
+    "category": "database",
+    "orderWeight": 65
+  },
+  {
+    "id": "mongodb",
+    "label": "MongoDB",
+    "category": "database",
+    "orderWeight": 65
+  },
+  {
+    "id": "redis",
+    "label": "Redis",
+    "category": "database",
+    "orderWeight": 60
+  },
+  {
+    "id": "firebase",
+    "label": "Firebase",
+    "category": "database",
+    "orderWeight": 70
+  },
+  {
+    "id": "supabase",
+    "label": "Supabase",
+    "category": "database",
+    "orderWeight": 65
+  },
+  {
+    "id": "prisma",
+    "label": "Prisma",
+    "category": "database",
+    "orderWeight": 60
+  },
+  {
+    "id": "drizzle",
+    "label": "Drizzle ORM",
+    "category": "database",
+    "orderWeight": 50
+  },
+  {
+    "id": "sqlite",
+    "label": "SQLite",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "planetscale",
+    "label": "PlanetScale",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "dynamodb",
+    "label": "DynamoDB",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "elasticsearch",
+    "label": "Elasticsearch",
+    "category": "database",
+    "orderWeight": 50
+  },
+  {
+    "id": "cassandra",
+    "label": "Cassandra",
+    "category": "database",
+    "orderWeight": 30
+  },
+  {
+    "id": "neo4j",
+    "label": "Neo4j",
+    "category": "database",
+    "orderWeight": 30
+  },
+  {
+    "id": "neon",
+    "label": "Neon",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "turso",
+    "label": "Turso",
+    "category": "database",
+    "orderWeight": 40
+  },
+  {
+    "id": "convex",
+    "label": "Convex",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "upstash",
+    "label": "Upstash",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "hasura",
+    "label": "Hasura",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "fauna",
+    "label": "FaunaDB",
+    "category": "database",
+    "orderWeight": 30
+  },
+  {
+    "id": "cockroachdb",
+    "label": "CockroachDB",
+    "category": "database",
+    "orderWeight": 30
+  },
+  {
+    "id": "clickhouse",
+    "label": "ClickHouse",
+    "category": "database",
+    "orderWeight": 30
+  },
+  {
+    "id": "typeorm",
+    "label": "TypeORM",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "sequelize",
+    "label": "Sequelize",
+    "category": "database",
+    "orderWeight": 40
+  },
+  {
+    "id": "mongoose",
+    "label": "Mongoose",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "authjs",
+    "label": "Auth.js / NextAuth",
+    "category": "auth",
+    "orderWeight": 70
+  },
+  {
+    "id": "clerk",
+    "label": "Clerk",
+    "category": "auth",
+    "orderWeight": 65
+  },
+  {
+    "id": "auth0",
+    "label": "Auth0",
+    "category": "auth",
+    "orderWeight": 60
+  },
+  {
+    "id": "supabase-auth",
+    "label": "Supabase Auth",
+    "category": "auth",
+    "orderWeight": 60
+  },
+  {
+    "id": "firebase-auth",
+    "label": "Firebase Auth",
+    "category": "auth",
+    "orderWeight": 60
+  },
+  {
+    "id": "keycloak",
+    "label": "Keycloak",
+    "category": "auth",
+    "orderWeight": 45
+  },
+  {
+    "id": "passportjs",
+    "label": "Passport.js",
+    "category": "auth",
+    "orderWeight": 50
+  },
+  {
+    "id": "lucia",
+    "label": "Lucia",
+    "category": "auth",
+    "orderWeight": 45
+  },
+  {
+    "id": "better-auth",
+    "label": "Better Auth",
+    "category": "auth",
+    "orderWeight": 45
+  },
+  {
+    "id": "okta",
+    "label": "Okta",
+    "category": "auth",
+    "orderWeight": 40
+  },
+  {
+    "id": "wordpress",
+    "label": "WordPress",
+    "category": "cms",
+    "orderWeight": 55
+  },
+  {
+    "id": "contentful",
+    "label": "Contentful",
+    "category": "cms",
+    "orderWeight": 60
+  },
+  {
+    "id": "storyblok",
+    "label": "Storyblok",
+    "category": "cms",
+    "orderWeight": 55
+  },
+  {
+    "id": "prismic",
+    "label": "Prismic",
+    "category": "cms",
+    "orderWeight": 50
+  },
+  {
+    "id": "datocms",
+    "label": "DatoCMS",
+    "category": "cms",
+    "orderWeight": 45
+  },
+  {
+    "id": "ghost",
+    "label": "Ghost",
+    "category": "cms",
+    "orderWeight": 40
+  },
+  {
+    "id": "contentstack",
+    "label": "Contentstack",
+    "category": "cms",
+    "orderWeight": 40
+  },
+  {
+    "id": "directus",
+    "label": "Directus",
+    "category": "cms",
+    "orderWeight": 45
+  },
+  {
+    "id": "craft-cms",
+    "label": "Craft CMS",
+    "category": "cms",
+    "orderWeight": 40
+  },
+  {
+    "id": "hygraph",
+    "label": "Hygraph",
+    "category": "cms",
+    "orderWeight": 40
+  },
+  {
+    "id": "keystatic",
+    "label": "Keystatic",
+    "category": "cms",
+    "orderWeight": 35
+  },
+  {
+    "id": "vite",
+    "label": "Vite",
+    "category": "build",
+    "orderWeight": 85
+  },
+  {
+    "id": "webpack",
+    "label": "Webpack",
+    "category": "build",
+    "orderWeight": 65
+  },
+  {
+    "id": "esbuild",
+    "label": "ESBuild",
+    "category": "build",
+    "orderWeight": 60
+  },
+  {
+    "id": "rollup",
+    "label": "Rollup",
+    "category": "build",
+    "orderWeight": 55
+  },
+  {
+    "id": "turbopack",
+    "label": "Turbopack",
+    "category": "build",
+    "orderWeight": 50
+  },
+  {
+    "id": "babel",
+    "label": "Babel",
+    "category": "build",
+    "orderWeight": 50
+  },
+  {
+    "id": "swc",
+    "label": "SWC",
+    "category": "build",
+    "orderWeight": 50
+  },
+  {
+    "id": "parcel",
+    "label": "Parcel",
+    "category": "build",
+    "orderWeight": 40
+  },
+  {
+    "id": "turbo",
+    "label": "Turborepo",
+    "category": "build",
+    "orderWeight": 55
+  },
+  {
+    "id": "nx",
+    "label": "Nx",
+    "category": "build",
+    "orderWeight": 50
+  },
+  {
+    "id": "lerna",
+    "label": "Lerna",
+    "category": "build",
+    "orderWeight": 35
+  },
+  {
+    "id": "changesets",
+    "label": "Changesets",
+    "category": "build",
+    "orderWeight": 35
+  },
+  {
+    "id": "tsup",
+    "label": "tsup",
+    "category": "build",
+    "orderWeight": 45
+  },
+  {
+    "id": "unbuild",
+    "label": "unbuild",
+    "category": "build",
+    "orderWeight": 35
+  },
+  {
+    "id": "pkgroll",
+    "label": "pkgroll",
+    "category": "build",
+    "orderWeight": 30
+  },
+  {
+    "id": "vitest",
+    "label": "Vitest",
+    "category": "testing",
+    "orderWeight": 80
+  },
+  {
+    "id": "jest",
+    "label": "Jest",
+    "category": "testing",
+    "orderWeight": 75
+  },
+  {
+    "id": "cypress",
+    "label": "Cypress",
+    "category": "testing",
+    "orderWeight": 70
+  },
+  {
+    "id": "playwright",
+    "label": "Playwright",
+    "category": "testing",
+    "orderWeight": 70
+  },
+  {
+    "id": "testing-library",
+    "label": "Testing Library",
+    "category": "testing",
+    "orderWeight": 65
+  },
+  {
+    "id": "storybook",
+    "label": "Storybook",
+    "category": "testing",
+    "orderWeight": 65
+  },
+  {
+    "id": "msw",
+    "label": "MSW",
+    "category": "testing",
+    "orderWeight": 55
+  },
+  {
+    "id": "mocha",
+    "label": "Mocha",
+    "category": "testing",
+    "orderWeight": 40
+  },
+  {
+    "id": "chai",
+    "label": "Chai",
+    "category": "testing",
+    "orderWeight": 35
+  },
+  {
+    "id": "puppeteer",
+    "label": "Puppeteer",
+    "category": "testing",
+    "orderWeight": 50
+  },
+  {
+    "id": "webdriverio",
+    "label": "WebdriverIO",
+    "category": "testing",
+    "orderWeight": 40
+  },
+  {
+    "id": "chromatic",
+    "label": "Chromatic",
+    "category": "testing",
+    "orderWeight": 45
+  },
+  {
+    "id": "percy",
+    "label": "Percy",
+    "category": "testing",
+    "orderWeight": 35
+  },
+  {
+    "id": "k6",
+    "label": "k6",
+    "category": "testing",
+    "orderWeight": 40
+  },
+  {
+    "id": "artillery",
+    "label": "Artillery",
+    "category": "testing",
+    "orderWeight": 35
+  },
+  {
+    "id": "cucumber",
+    "label": "Cucumber",
+    "category": "testing",
+    "orderWeight": 35
+  },
+  {
+    "id": "ava",
+    "label": "AVA",
+    "category": "testing",
+    "orderWeight": 30
+  },
+  {
+    "id": "docker",
+    "label": "Docker",
+    "category": "devops",
+    "orderWeight": 70
+  },
+  {
+    "id": "github-actions",
+    "label": "GitHub Actions",
+    "category": "devops",
+    "orderWeight": 65
+  },
+  {
+    "id": "vercel",
+    "label": "Vercel",
+    "category": "devops",
+    "orderWeight": 65
+  },
+  {
+    "id": "netlify",
+    "label": "Netlify",
+    "category": "devops",
+    "orderWeight": 60
+  },
+  {
+    "id": "aws",
+    "label": "AWS",
+    "category": "devops",
+    "orderWeight": 60
+  },
+  {
+    "id": "gcp",
+    "label": "Google Cloud",
+    "category": "devops",
+    "orderWeight": 55
+  },
+  {
+    "id": "nginx",
+    "label": "Nginx",
+    "category": "devops",
+    "orderWeight": 50
+  },
+  {
+    "id": "gitlab-ci",
+    "label": "GitLab CI",
+    "category": "devops",
+    "orderWeight": 55
+  },
+  {
+    "id": "kubernetes",
+    "label": "Kubernetes",
+    "category": "devops",
+    "orderWeight": 45
+  },
+  {
+    "id": "cloudflare",
+    "label": "Cloudflare",
+    "category": "devops",
+    "orderWeight": 50
+  },
+  {
+    "id": "terraform",
+    "label": "Terraform",
+    "category": "devops",
+    "orderWeight": 45
+  },
+  {
+    "id": "ansible",
+    "label": "Ansible",
+    "category": "devops",
+    "orderWeight": 35
+  },
+  {
+    "id": "jenkins",
+    "label": "Jenkins",
+    "category": "devops",
+    "orderWeight": 35
+  },
+  {
+    "id": "circleci",
+    "label": "CircleCI",
+    "category": "devops",
+    "orderWeight": 40
+  },
+  {
+    "id": "railway",
+    "label": "Railway",
+    "category": "devops",
+    "orderWeight": 50
+  },
+  {
+    "id": "fly-io",
+    "label": "Fly.io",
+    "category": "devops",
+    "orderWeight": 45
+  },
+  {
+    "id": "digitalocean",
+    "label": "DigitalOcean",
+    "category": "devops",
+    "orderWeight": 45
+  },
+  {
+    "id": "azure",
+    "label": "Azure",
+    "category": "devops",
+    "orderWeight": 45
+  },
+  {
+    "id": "pulumi",
+    "label": "Pulumi",
+    "category": "devops",
+    "orderWeight": 35
+  },
+  {
+    "id": "heroku",
+    "label": "Heroku",
+    "category": "devops",
+    "orderWeight": 40
+  },
+  {
+    "id": "render",
+    "label": "Render",
+    "category": "devops",
+    "orderWeight": 40
+  },
+  {
+    "id": "sentry",
+    "label": "Sentry",
+    "category": "monitoring",
+    "orderWeight": 70
+  },
+  {
+    "id": "datadog",
+    "label": "Datadog",
+    "category": "monitoring",
+    "orderWeight": 55
+  },
+  {
+    "id": "new-relic",
+    "label": "New Relic",
+    "category": "monitoring",
+    "orderWeight": 45
+  },
+  {
+    "id": "logrocket",
+    "label": "LogRocket",
+    "category": "monitoring",
+    "orderWeight": 50
+  },
+  {
+    "id": "hotjar",
+    "label": "Hotjar",
+    "category": "monitoring",
+    "orderWeight": 55
+  },
+  {
+    "id": "fullstory",
+    "label": "FullStory",
+    "category": "monitoring",
+    "orderWeight": 40
+  },
+  {
+    "id": "amplitude",
+    "label": "Amplitude",
+    "category": "monitoring",
+    "orderWeight": 50
+  },
+  {
+    "id": "mixpanel",
+    "label": "Mixpanel",
+    "category": "monitoring",
+    "orderWeight": 50
+  },
+  {
+    "id": "google-analytics",
+    "label": "Google Analytics",
+    "category": "monitoring",
+    "orderWeight": 55
+  },
+  {
+    "id": "grafana",
+    "label": "Grafana",
+    "category": "monitoring",
+    "orderWeight": 40
+  },
+  {
+    "id": "prometheus",
+    "label": "Prometheus",
+    "category": "monitoring",
+    "orderWeight": 35
+  },
+  {
+    "id": "opentelemetry",
+    "label": "OpenTelemetry",
+    "category": "monitoring",
+    "orderWeight": 40
+  },
+  {
+    "id": "posthog",
+    "label": "PostHog",
+    "category": "monitoring",
+    "orderWeight": 50
+  },
+  {
+    "id": "plausible",
+    "label": "Plausible",
+    "category": "monitoring",
+    "orderWeight": 40
+  },
+  {
+    "id": "openai-api",
+    "label": "OpenAI API",
+    "category": "ai",
+    "orderWeight": 70
+  },
+  {
+    "id": "vercel-ai-sdk",
+    "label": "Vercel AI SDK",
+    "category": "ai",
+    "orderWeight": 65
+  },
+  {
+    "id": "langchain",
+    "label": "LangChain",
+    "category": "ai",
+    "orderWeight": 55
+  },
+  {
+    "id": "langchain-js",
+    "label": "LangChain.js",
+    "category": "ai",
+    "orderWeight": 50
+  },
+  {
+    "id": "hugging-face",
+    "label": "Hugging Face",
+    "category": "ai",
+    "orderWeight": 50
+  },
+  {
+    "id": "tensorflow-js",
+    "label": "TensorFlow.js",
+    "category": "ai",
+    "orderWeight": 40
+  },
+  {
+    "id": "anthropic-api",
+    "label": "Anthropic API",
+    "category": "ai",
+    "orderWeight": 60
+  },
+  {
+    "id": "ollama",
+    "label": "Ollama",
+    "category": "ai",
+    "orderWeight": 45
+  },
+  {
+    "id": "vector-db",
+    "label": "Vector Databases",
+    "category": "ai",
+    "orderWeight": 45
+  },
+  {
+    "id": "pinecone",
+    "label": "Pinecone",
+    "category": "ai",
+    "orderWeight": 40
+  },
+  {
+    "id": "ai-agents",
+    "label": "AI Agents",
+    "category": "ai",
+    "orderWeight": 55
+  },
+  {
+    "id": "rag",
+    "label": "RAG",
+    "category": "ai",
+    "orderWeight": 50
+  },
+  {
+    "id": "algolia",
+    "label": "Algolia",
+    "category": "search",
+    "orderWeight": 65
+  },
+  {
+    "id": "typesense",
+    "label": "Typesense",
+    "category": "search",
+    "orderWeight": 55
+  },
+  {
+    "id": "meilisearch",
+    "label": "MeiliSearch",
+    "category": "search",
+    "orderWeight": 50
+  },
+  {
+    "id": "elasticsearch-search",
+    "label": "Elasticsearch",
+    "category": "search",
+    "orderWeight": 50
+  },
+  {
+    "id": "figma",
+    "label": "Figma",
+    "category": "design",
+    "orderWeight": 90
+  },
+  {
+    "id": "design-systems",
+    "label": "Design Systems",
+    "category": "design",
+    "orderWeight": 85
+  },
+  {
+    "id": "prototyping",
+    "label": "Prototyping",
+    "category": "design",
+    "orderWeight": 75
+  },
+  {
+    "id": "wireframing",
+    "label": "Wireframing",
+    "category": "design",
+    "orderWeight": 70
+  },
+  {
+    "id": "ux-research",
+    "label": "UX Research",
+    "category": "design",
+    "orderWeight": 65
+  },
+  {
+    "id": "sketch",
+    "label": "Sketch",
+    "category": "design",
+    "orderWeight": 60
+  },
+  {
+    "id": "framer",
+    "label": "Framer",
+    "category": "design",
+    "orderWeight": 55
+  },
+  {
+    "id": "zeplin",
+    "label": "Zeplin",
+    "category": "design",
+    "orderWeight": 50
+  },
+  {
+    "id": "adobe-xd",
+    "label": "Adobe XD",
+    "category": "design",
+    "orderWeight": 55
+  },
+  {
+    "id": "photoshop",
+    "label": "Photoshop",
+    "category": "design",
+    "orderWeight": 50
+  },
+  {
+    "id": "illustrator",
+    "label": "Illustrator",
+    "category": "design",
+    "orderWeight": 50
+  },
+  {
+    "id": "after-effects",
+    "label": "After Effects",
+    "category": "design",
+    "orderWeight": 40
+  },
+  {
+    "id": "lottie",
+    "label": "Lottie",
+    "category": "design",
+    "orderWeight": 45
+  },
+  {
+    "id": "invision",
+    "label": "InVision",
+    "category": "design",
+    "orderWeight": 40
+  },
+  {
+    "id": "principle",
+    "label": "Principle",
+    "category": "design",
+    "orderWeight": 35
+  },
+  {
+    "id": "protopie",
+    "label": "ProtoPie",
+    "category": "design",
+    "orderWeight": 40
+  },
+  {
+    "id": "miro",
+    "label": "Miro",
+    "category": "design",
+    "orderWeight": 50
+  },
+  {
+    "id": "whimsical",
+    "label": "Whimsical",
+    "category": "design",
+    "orderWeight": 40
+  },
+  {
+    "id": "canva",
+    "label": "Canva",
+    "category": "design",
+    "orderWeight": 35
+  },
+  {
+    "id": "maze",
+    "label": "Maze",
+    "category": "design",
+    "orderWeight": 35
+  },
+  {
+    "id": "spline",
+    "label": "Spline",
+    "category": "design",
+    "orderWeight": 40
+  },
+  {
+    "id": "git",
+    "label": "Git",
+    "category": "tools",
+    "orderWeight": 90
+  },
+  {
+    "id": "github",
+    "label": "GitHub",
+    "category": "tools",
+    "orderWeight": 85
+  },
+  {
+    "id": "gitlab",
+    "label": "GitLab",
+    "category": "tools",
+    "orderWeight": 75
+  },
+  {
+    "id": "jira",
+    "label": "Jira",
+    "category": "tools",
+    "orderWeight": 65
+  },
+  {
+    "id": "linear",
+    "label": "Linear",
+    "category": "tools",
+    "orderWeight": 60
+  },
+  {
+    "id": "notion",
+    "label": "Notion",
+    "category": "tools",
+    "orderWeight": 55
+  },
+  {
+    "id": "confluence",
+    "label": "Confluence",
+    "category": "tools",
+    "orderWeight": 55
+  },
+  {
+    "id": "slack",
+    "label": "Slack",
+    "category": "tools",
+    "orderWeight": 50
+  },
+  {
+    "id": "vs-code",
+    "label": "VS Code",
+    "category": "tools",
+    "orderWeight": 70
+  },
+  {
+    "id": "pnpm",
+    "label": "pnpm",
+    "category": "tools",
+    "orderWeight": 60
+  },
+  {
+    "id": "npm",
+    "label": "npm",
+    "category": "tools",
+    "orderWeight": 55
+  },
+  {
+    "id": "yarn",
+    "label": "yarn",
+    "category": "tools",
+    "orderWeight": 55
+  },
+  {
+    "id": "postman",
+    "label": "Postman",
+    "category": "tools",
+    "orderWeight": 60
+  },
+  {
+    "id": "insomnia",
+    "label": "Insomnia",
+    "category": "tools",
+    "orderWeight": 45
+  },
+  {
+    "id": "bruno",
+    "label": "Bruno",
+    "category": "tools",
+    "orderWeight": 40
+  },
+  {
+    "id": "tableplus",
+    "label": "TablePlus",
+    "category": "tools",
+    "orderWeight": 45
+  },
+  {
+    "id": "datagrip",
+    "label": "DataGrip",
+    "category": "tools",
+    "orderWeight": 40
+  },
+  {
+    "id": "github-copilot",
+    "label": "GitHub Copilot",
+    "category": "tools",
+    "orderWeight": 65
+  },
+  {
+    "id": "cursor",
+    "label": "Cursor",
+    "category": "tools",
+    "orderWeight": 60
+  },
+  {
+    "id": "shopify",
+    "label": "Shopify",
+    "category": "cms",
+    "orderWeight": 55
+  },
+  {
+    "id": "mssql",
+    "label": "Microsoft SQL Server",
+    "category": "database",
+    "orderWeight": 45
+  },
+  {
+    "id": "ajax",
+    "label": "AJAX",
+    "category": "web",
+    "orderWeight": 35
+  },
+  {
+    "id": "twig",
+    "label": "Twig",
+    "category": "cms",
+    "orderWeight": 30
+  }
+]

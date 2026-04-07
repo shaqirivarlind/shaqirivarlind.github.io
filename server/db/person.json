@@ -1,0 +1,82 @@
+{
+  "fullName": "Arlind Shaqiri",
+  "firstName": "Arlind",
+  "lastName": "Shaqiri",
+  "role": "Fullstack Software Engineer",
+  "tagline": "with a passion for crafting exceptional user experiences across web, mobile, and desktop platforms.",
+  "bio": "Focused on building dynamic, engaging interfaces throughout the full development lifecycle, with strong JavaScript/TypeScript expertise across Vue, Nuxt, Angular, and React. Also experienced with mobile app delivery (Flutter, Ionic), CMS platforms (Craft, WordPress, Shopify), and supporting backend work when needed.",
+  "profileNote": "Open to frontend lead roles, freelance product engagements, and cross-functional collaboration on ambitious digital products.",
+  "location": "Prishtina, Kosovo",
+  "email": "shaqirivarlind@gmail.com",
+  "phone": "+383 45 215 213",
+  "websiteUrl": "https://shaqirivarlind.github.io",
+  "coreSkills": [
+    "typescript",
+    "vue",
+    "nuxt",
+    "angular",
+    "react",
+    "git",
+    "rest-apis",
+    "ionic",
+    "flutter",
+    "craft-cms",
+    "wordpress",
+    "shopify",
+    "sass"
+  ],
+  "contacts": [
+    {
+      "label": "Potfolio",
+      "value": "Portfolio",
+      "href": "https://www.shaqirivarlind.github.com",
+      "platform": "potfolio",
+      "target": "_blank"
+    },
+    {
+      "label": "Location",
+      "value": "Prishtina, Kosovo, 10000",
+      "href": "https://www.google.com/maps?q=Pristina,Kosovo",
+      "platform": "location",
+      "target": "_blank"
+    },
+    {
+      "label": "Phone",
+      "value": "+383 45 215 213",
+      "href": "tel:+38345215213",
+      "platform": "phone"
+    },
+    {
+      "label": "Email",
+      "value": "shaqirivarlind@gmail.com",
+      "href": "mailto:shaqirivarlind@gmail.com?subject=Hello%20Arlind",
+      "platform": "email"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "linkedin.com/in/arlind-shaqiri",
+      "href": "https://www.linkedin.com/in/arlind-shaqiri",
+      "target": "_blank",
+      "platform": "linkedin"
+    },
+    {
+      "label": "GitHub",
+      "value": "github.com/shaqirivarlind",
+      "href": "https://github.com/shaqirivarlind",
+      "target": "_blank",
+      "platform": "github"
+    },
+    {
+      "label": "GitLab",
+      "value": "gitlab.com/arlindshaqiri",
+      "href": "https://gitlab.com/arlindshaqiri",
+      "target": "_blank",
+      "platform": "gitlab"
+    }
+  ],
+  "languages": [
+    { "language": "English", "level": "Professional" },
+    { "language": "Albanian", "level": "Native" }
+  ]
+}
+

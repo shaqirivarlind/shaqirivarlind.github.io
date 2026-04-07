@@ -35,3 +35,10 @@ DEV.md
 
 # Scratch / temp files
 tmp/
+
+# Local-only admin (do not deploy/push)
+app/features/admin/
+app/pages/admin/
+
+# Local notes about admin (keep private)
+app/README.md

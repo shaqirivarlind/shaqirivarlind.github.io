@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import { defineNuxtConfig } from 'nuxt/config'
+import { defaultPublicSiteUrl } from './app/config/runtime-public'
 import { vuetifyAppOptions, vuetifyModuleOptions } from './app/config/vuetify'
 
 export default defineNuxtConfig({
@@ -9,13 +10,24 @@ export default defineNuxtConfig({
   imports: {
     dirs: ['shared/composables', 'features/portfolio/composables', 'features/admin/composables'],
   },
-  modules: ['vuetify-nuxt-module'],
+  modules: ['vuetify-nuxt-module', '@pinia/nuxt'],
+  pinia: {
+    storesDirs: ['./shared/stores'],
+  },
   vuetify: {
     moduleOptions: vuetifyModuleOptions,
     vuetifyOptions: vuetifyAppOptions,
   },
   css: ['@mdi/font/css/materialdesignicons.min.css', '~/assets/css/main.css'],
   spaLoadingTemplate: false,
+  runtimeConfig: {
+    public: {
+      /** Resolves relative `/api/*` for ofetch fallback (dev: localhost, prod: GitHub Pages). */
+      siteUrl: defaultPublicSiteUrl(),
+      /** Simple local-only admin gate (do not use for real security). */
+      adminPassword: process.env.NUXT_PUBLIC_ADMIN_PASSWORD || '',
+    },
+  },
   vite: {
     optimizeDeps: {
       include: [

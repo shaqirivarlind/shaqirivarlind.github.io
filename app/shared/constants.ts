@@ -3,11 +3,6 @@ export enum AppTheme {
   DARK = 'dark',
 }
 
-export const Dialog = {
-  CONFIRM: 'confirm',
-  INFO: 'info',
-} as const
-
 // Skills
 export const SHOWN_SKILLS_ON_HOME = [
   'ai',
@@ -27,13 +22,15 @@ export const SHOWN_SKILLS_ON_HOME = [
   'web',
 ] as const
 
-export const SHOWN_SKILLS_ON_HOME_LABEL = {
+type ShownSkillsCategory = (typeof SHOWN_SKILLS_ON_HOME)[number]
+
+export const SHOWN_SKILLS_ON_HOME_LABEL: Record<ShownSkillsCategory, string> = {
   ai: 'AI',
   api: 'API',
   backend: 'Backend',
   build: 'Build',
   cms: 'CMS',
-  database: 'Database',
+  database: 'Data',
   design: 'Design',
   devops: 'DevOps',
   languages: 'Languages',
@@ -43,5 +40,24 @@ export const SHOWN_SKILLS_ON_HOME_LABEL = {
   testing: 'Testing',
   tools: 'Tools',
   web: 'Web',
-} satisfies Record<(typeof SHOWN_SKILLS_ON_HOME)[number], string>
+}
 
+/**
+ * Nitro JSON persistence (`server/api/load.get.ts`, `save.post.ts`).
+ * Keys must stay aligned with `server/constants` `DB_PATHS`.
+ */
+export const DB_JSON_LOAD_PATH = '/api/load' as const
+export const DB_JSON_SAVE_PATH = '/api/save' as const
+
+export const DB_JSON_TABLE_KEYS = [
+  'companies',
+  'experiences',
+  'positions',
+  'clients',
+  'projects',
+  'skills',
+  'person',
+  'education',
+  'certificates',
+  'capabilities',
+] as const

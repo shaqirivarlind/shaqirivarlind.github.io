@@ -1,12 +1,15 @@
 <script setup lang="ts">
-const { portfolio } = usePortfolio()
+import { storeToRefs } from 'pinia'
+
+const personStore = usePersonStore()
+const { person } = storeToRefs(personStore)
 </script>
 
 <template>
-  <v-footer border="t" class="py-4">
+  <v-footer v-if="person" border="t" class="py-4">
     <v-container>
       <span class="text-caption text-medium-emphasis">
-        © {{ new Date().getFullYear() }} {{ portfolio.person.fullName }}. Built with Nuxt and Vuetify.
+        © {{ new Date().getFullYear() }} {{ person.fullName }}. Built with Nuxt and Vuetify.
       </span>
     </v-container>
   </v-footer>

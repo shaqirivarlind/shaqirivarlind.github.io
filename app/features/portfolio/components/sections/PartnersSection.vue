@@ -1,10 +1,13 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { initialsFor } from '~/shared/utils/text'
+import { storeToRefs } from 'pinia'
 import { AppTheme } from '~/shared/constants'
+import InfoDialogBody from '~/shared/components/dialog/InfoDialogBody.vue'
 
-const { portfolio } = usePortfolio()
-const { show, Dialog } = useDialog()
+const companiesStore = useCompaniesStore()
+const { companies } = storeToRefs(companiesStore)
+
+const { showComponent } = useDialog()
 const { currentTheme } = useAppTheme()
 
 const isDark = computed(() => currentTheme.value === AppTheme.DARK)
@@ -12,20 +15,23 @@ const isDark = computed(() => currentTheme.value === AppTheme.DARK)
 const GRID_LIMIT = 18
 const TEXT_LIMIT = 4
 
-const visibleGrid = computed(() => portfolio.experiences.slice(0, GRID_LIMIT))
-const hasMore = computed(() => portfolio.experiences.length > GRID_LIMIT)
+const visibleGrid = computed(() => companies.value.slice(0, GRID_LIMIT))
+const hasMore = computed(() => companies.value.length > GRID_LIMIT)
 
-const visibleText = computed(() => portfolio.experiences.slice(0, TEXT_LIMIT))
-const hasMoreText = computed(() => portfolio.experiences.length > TEXT_LIMIT)
+const visibleText = computed(() => companies.value.slice(0, TEXT_LIMIT))
+const hasMoreText = computed(() => companies.value.length > TEXT_LIMIT)
 
-function showAll() {
-  show({
-    type:  Dialog.INFO,
+function showAll(): void {
+  showComponent({
     title: 'All Partners',
-    list:  portfolio.experiences.map((experience) => ({
-      name:    experience.company.name,
-      logoSrc: experience.company.logoSrc,
-    })),
+    component: InfoDialogBody,
+    maxWidth: 720,
+    componentProps: {
+      list: companies.value.map((company) => ({
+        name: company.name,
+        logoSrc: company.logoSrc,
+      })),
+    },
   })
 }
 </script>
@@ -38,8 +44,8 @@ function showAll() {
 
     <v-row class="justify-center">
       <v-col
-        v-for="experience in visibleGrid"
-        :key="experience.id"
+        v-for="company in visibleGrid"
+        :key="company.id"
         cols="6"
         sm="4"
         md="3"
@@ -47,32 +53,32 @@ function showAll() {
         class="d-flex justify-center align-center"
       >
         <v-img
-          v-if="experience.company.logoSrc"
-          :src="experience.company.logoSrc"
-          :alt="`${experience.company.name} logo`"
+          v-if="company.logoSrc"
+          :src="company.logoSrc"
+          :alt="`${company.name} logo`"
           height="64"
           contain
           :class="['grayscale-img', isDark && 'grayscale-img--dark']"
         />
         <v-avatar v-else color="surface-variant" size="48" rounded="lg" class="mb-2">
           <span class="text-caption font-weight-bold text-medium-emphasis">
-            {{ initialsFor(experience.company.name) }}
+            {{ company.name }}
           </span>
         </v-avatar>
       </v-col>
     </v-row>
 
-    <v-btn v-if="hasMore" variant="text" class="mt-4" @click="showAll">
-      Show all partners
-    </v-btn>
+      <v-btn v-if="hasMore" variant="text" class="mt-4" @click="showAll">
+        Show all partners
+      </v-btn>
 
-    <p class="text-body-large text-medium-emphasis mt-8 mx-auto" style="max-width: 680px">
-      Hired by creative, strategic and digital agencies, like
-      <span v-for="(experience, i) in visibleText" :key="experience.id">
-        {{ experience.company.name }}<span v-if="i < visibleText.length - 1">, </span>
-      </span>
-      <span v-if="hasMoreText"> and more</span>.
-    </p>
+      <p class="text-body-large text-medium-emphasis mt-8 mx-auto" style="max-width: 680px">
+        Hired by creative, strategic and digital agencies, like
+        <span v-for="(company, i) in visibleText" :key="company.id">
+          {{ company.name }}<span v-if="i < visibleText.length - 1">, </span>
+        </span>
+        <span v-if="hasMoreText"> and more</span>.
+      </p>
   </v-container>
 </template>
 

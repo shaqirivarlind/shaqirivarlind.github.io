@@ -1,9 +1,3 @@
-import type { ExperienceRow, PositionRow, ClientRow, ProjectRow } from '../app/shared/types'
+import { DB_PATHS } from './constants'
 
-/** Normalized admin JSON tables (row shapes live in `app/shared/types.ts`). */
-export type AdminTables = {
-  experiences: ExperienceRow[]
-  positions: PositionRow[]
-  clients: ClientRow[]
-  projects: ProjectRow[]
-}
+export type DbTableKey = keyof typeof DB_PATHS

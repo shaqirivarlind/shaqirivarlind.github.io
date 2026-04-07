@@ -1,0 +1,40 @@
+[
+  {
+    "category": "UX/CX",
+    "icon":"😍",
+    "items": [
+      "User Experience Design",
+      "Rapid Prototyping",
+      "Usability Testing",
+      "UX Reviews",
+      "Interaction Design",
+      "Customer journeys"
+    ]
+  },
+  {
+    "category": "Product Design",
+    "icon": "🎨",
+    "items": [
+      "User Interface Design",
+      "Visual Design",
+      "Visual Identities",
+      "Design Systems",
+      "Responsive & Mobile Websites",
+      "Modular Grid Systems",
+      "Brand guidelines"
+    ]
+  },
+  {
+    "category": "Development",
+    "icon": "👨🏼‍💻",
+    "items": [
+      "Frontend development",
+      "Responsive & Mobile Websites",
+      "Mobile apps",
+      "Animations",
+      "SaaS applications",
+      "Platform solutions"
+    ]
+  }
+]
+

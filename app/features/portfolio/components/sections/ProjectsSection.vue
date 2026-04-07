@@ -1,7 +1,10 @@
 <script setup lang="ts">
-import type { Project } from '~/features/portfolio/types'
+import type { ProjectRow } from '~/shared/types'
 
-const { portfolio } = usePortfolio()
+import { storeToRefs } from 'pinia'
+
+const projectsStore = useProjectsStore()
+const { projects } = storeToRefs(projectsStore)
 
 const cardGradients = [
   'linear-gradient(135deg, #fcd34d 0%, #facc15 100%)',
@@ -27,7 +30,7 @@ const variantForProject = (slug: string): LayoutVariant =>
   layoutVariants[hashString(slug) % layoutVariants.length] as LayoutVariant
 
 /** Use heroBottom when there are images so `deco-panel--tl` / `--tr` can show them; otherwise keep hashed layout. */
-function effectiveVariant(project: Project): LayoutVariant {
+function effectiveVariant(project: ProjectRow): LayoutVariant {
   if (project.images.length > 0) return 'heroBottom'
   return variantForProject(project.slug)
 }
@@ -39,7 +42,7 @@ function cardSurfaceStyle(index: number): Record<string, string> {
   }
 }
 
-function panelImage(project: Project, index: number): string | undefined {
+function panelImage(project: ProjectRow, index: number): string | undefined {
   return project.images[index]
 }
 </script>
@@ -47,21 +50,22 @@ function panelImage(project: Project, index: number): string | undefined {
 <template>
   <section id="projects" class="projects-section">
     <v-container class="py-16 py-md-24 text-center">
-      <div class="mx-auto mb-8" style="max-width: 768px">
-        <h2 class="text-h4 text-md-h3 font-weight-black text-high-emphasis mb-4">Projects</h2>
-        <p class="text-h6 text-medium-emphasis">
-          Prototypes, digital products and design systems that are visually pleasing,
-          user-centric, and easy to use.
-        </p>
-      </div>
+      <template v-if="projects.length">
+        <div class="mx-auto mb-8" style="max-width: 768px">
+          <h2 class="text-h4 text-md-h3 font-weight-black text-high-emphasis mb-4">Projects</h2>
+          <p class="text-h6 text-medium-emphasis">
+            Prototypes, digital products and design systems that are visually pleasing,
+            user-centric, and easy to use.
+          </p>
+        </div>
 
-      <v-row class="py-2">
-        <v-col
-          v-for="(project, index) in portfolio.projects"
-          :key="project.slug"
-          cols="12"
-          md="6"
-        >
+        <v-row class="py-2">
+          <v-col
+            v-for="(project, index) in projects"
+            :key="project.id"
+            cols="12"
+            md="6"
+          >
           <NuxtLink :to="`/projects/${project.slug}`" class="text-decoration-none">
             <div
               class="project-card rounded-xl"
@@ -131,11 +135,12 @@ function panelImage(project: Project, index: number): string | undefined {
             </div>
           </NuxtLink>
         </v-col>
-      </v-row>
+        </v-row>
 
-      <p class="text-body-2 text-medium-emphasis mt-6">
-        Click any project to open a dedicated page with company context, product details, and image sections.
-      </p>
+        <p class="text-body-2 text-medium-emphasis mt-6">
+          Click any project to open a dedicated page with company context, product details, and image sections.
+        </p>
+      </template>
     </v-container>
   </section>
 </template>

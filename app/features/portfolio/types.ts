@@ -1,18 +1,9 @@
-import type { SkillId } from '~/shared/types'
+import type { Skill, SkillId } from '~/shared/types'
+import type { Company, CompanyWorkType, DateRange, EmploymentType, LocationType } from '~/shared/shared.types'
 
 // ── Common ─────────────────────────────────────────────────────────────────────
 
-export type Link      = { label: string; href: string }
-export type DateRange = { startDate: string; endDate: string | null }
-
-// ── Company ────────────────────────────────────────────────────────────────────
-
-export type Company = {
-  id: string
-  name: string
-  logoSrc?: string
-  url?: string
-}
+export type Link      = { label: string; href: string, platform: string }
 
 // ── Embedded project (inside a position or client engagement) ──────────────────
 
@@ -39,10 +30,6 @@ export type Project = Omit<EmbeddedProject, 'role'> & {
 }
 
 // ── Experience ─────────────────────────────────────────────────────────────────
-
-export type EmploymentType  = 'full-time' | 'part-time' | 'contract' | 'freelance'
-export type LocationType    = 'remote' | 'onsite' | 'hybrid'
-export type CompanyWorkType = 'product' | 'outsource' | 'mixed'
 
 /**
  * A client engagement stored in experience.json.
@@ -96,11 +83,12 @@ export type ResolvedExperience = {
 }
 
 // ── Person ─────────────────────────────────────────────────────────────────────
-
-type SocialPlatform = 'linkedin' | 'github' | 'gitlab' | 'twitter' | 'website' | 'email' | 'other'
-
-export type SocialLink  = Link & { platform: SocialPlatform }
 export type ContactItem = Link & { value: string }
+
+export type Language = {
+  language: string
+  level: string
+}
 
 export type Person = {
   fullName: string
@@ -110,15 +98,13 @@ export type Person = {
   tagline: string
   bio: string
   profileNote?: string
-  profileImage: string
   location: string
   email: string
   phone?: string
   websiteUrl: string
   coreSkills: SkillId[]
-  otherCompetencies: string[]
-  socialLinks: SocialLink[]
   contacts: ContactItem[]
+  languages: Language[]
 }
 
 // ── Education ──────────────────────────────────────────────────────────────────
@@ -144,12 +130,32 @@ export type Certificate = {
   category?: string
 }
 
+// ── Resume page ───────────────────────────────────────────────────────────────
+
+export type ResumeContactEntry = {
+  key: string
+  label: string
+  visible: string
+  href?: string
+  external: boolean
+  platform: string
+}
+
+// ── Project detail page (section props) ───────────────────────────────────────
+
+export type ProjectDetailCompanyContextLine = {
+  key: string
+  name: string
+  detail: string
+  logoSrc?: string
+  url?: string
+}
+
 // ── Portfolio aggregate ────────────────────────────────────────────────────────
 
 type NavItem = Link
 
 export type PortfolioConfig  = { navItems: NavItem[] }
-export type CapabilityGroup  = { category: string; items: string[] }
 
 export type PortfolioData = {
   config: PortfolioConfig
@@ -159,5 +165,6 @@ export type PortfolioData = {
   experiences: ResolvedExperience[]
   education: Education[]
   certificates: Certificate[]
-  capabilities: CapabilityGroup[]
+  skillsCatalog: readonly Skill[]
+  skillLabelById: Record<string, string>
 }
