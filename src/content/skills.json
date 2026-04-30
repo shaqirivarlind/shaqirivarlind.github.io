@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "typescript",
+    "label": "TypeScript",
+    "category": "languages",
+    "orderWeight": 95,
+    "logo": "/images/skills/typescript.svg"
+  },
+  {
+    "id": "javascript",
+    "label": "JavaScript",
+    "category": "languages",
+    "orderWeight": 90,
+    "logo": "/images/skills/javascript.svg"
+  },
+  {
+    "id": "html",
+    "label": "HTML",
+    "category": "languages",
+    "orderWeight": 75,
+    "logo": "/images/skills/html.svg"
+  },
+  {
+    "id": "css",
+    "label": "CSS",
+    "category": "languages",
+    "orderWeight": 70,
+    "logo": "/images/skills/css.svg"
+  },
+  {
+    "id": "dart",
+    "label": "Dart",
+    "category": "languages",
+    "orderWeight": 60,
+    "logo": "/images/skills/dart.svg"
+  },
+  {
+    "id": "php",
+    "label": "PHP",
+    "category": "backend",
+    "orderWeight": 45,
+    "logo": "/images/skills/php.svg"
+  },
+  {
+    "id": "python",
+    "label": "Python",
+    "category": "languages",
+    "orderWeight": 40,
+    "logo": "/images/skills/python.svg"
+  },
+  {
+    "id": "sql",
+    "label": "SQL",
+    "category": "database",
+    "orderWeight": 55,
+    "logo": "/images/skills/sql-database.svg"
+  },
+  {
+    "id": "go",
+    "label": "Go",
+    "category": "languages",
+    "orderWeight": 50,
+    "logo": "/images/skills/go.svg"
+  },
+  {
+    "id": "rust",
+    "label": "Rust",
+    "category": "languages",
+    "orderWeight": 45,
+    "logo": "/images/skills/rust.svg"
+  },
+  {
+    "id": "java",
+    "label": "Java",
+    "category": "languages",
+    "orderWeight": 40,
+    "logo": "/images/skills/java.svg"
+  },
+  {
+    "id": "kotlin",
+    "label": "Kotlin",
+    "category": "languages",
+    "orderWeight": 45,
+    "logo": "/images/skills/kotlin-multiplatform.svg"
+  },
+  {
+    "id": "swift",
+    "label": "Swift",
+    "category": "languages",
+    "orderWeight": 40,
+    "logo": "/images/skills/swift.svg"
+  },
+  {
+    "id": "csharp",
+    "label": "C#",
+    "category": "languages",
+    "orderWeight": 35,
+    "logo": "/images/skills/csharp.svg"
+  },
+  {
+    "id": "ruby",
+    "label": "Ruby",
+    "category": "languages",
+    "orderWeight": 35,
+    "logo": "/images/skills/ruby.svg"
+  },
+  {
+    "id": "elixir",
+    "label": "Elixir",
+    "category": "languages",
+    "orderWeight": 30,
+    "logo": "/images/skills/elixir.svg"
+  },
+  {
+    "id": "bash",
+    "label": "Bash / Shell",
+    "category": "languages",
+    "orderWeight": 50,
+    "logo": "/images/skills/bash.svg"
+  },
+  {
+    "id": "wasm",
+    "label": "WebAssembly",
+    "category": "languages",
+    "orderWeight": 35,
+    "logo": "/images/skills/wasm.svg"
+  },
+  {
+    "id": "graphql-lang",
+    "label": "GraphQL SDL",
+    "category": "languages",
+    "orderWeight": 45,
+    "logo": "/images/skills/graphql-lang.svg"
+  },
+  {
+    "id": "markdown",
+    "label": "Markdown",
+    "category": "languages",
+    "orderWeight": 40,
+    "logo": "/images/skills/markdown.svg"
+  },
+  {
+    "id": "json",
+    "label": "JSON",
+    "category": "languages",
+    "orderWeight": 45,
+    "logo": "/images/skills/json.svg"
+  },
+  {
+    "id": "yaml",
+    "label": "YAML",
+    "category": "languages",
+    "orderWeight": 40,
+    "logo": "/images/skills/yaml.svg"
+  },
+  {
+    "id": "vue",
+    "label": "Vue.js",
+    "category": "web",
+    "orderWeight": 95,
+    "logo": "/images/skills/vue.svg"
+  },
+  {
+    "id": "nuxt",
+    "label": "Nuxt.js",
+    "category": "web",
+    "orderWeight": 90,
+    "logo": "/images/skills/nuxt.svg"
+  },
+  {
+    "id": "angular",
+    "label": "Angular",
+    "category": "web",
+    "orderWeight": 85,
+    "logo": "/images/skills/angular.svg"
+  },
+  {
+    "id": "angularjs",
+    "label": "AngularJS",
+    "category": "web",
+    "orderWeight": 40,
+    "logo": "/images/skills/angular.svg"
+  },
+  {
+    "id": "react",
+    "label": "React",
+    "category": "web",
+    "orderWeight": 80,
+    "logo": "/images/skills/react-native.svg"
+  },
+  {
+    "id": "nextjs",
+    "label": "Next.js",
+    "category": "web",
+    "orderWeight": 75,
+    "logo": "/images/skills/nextjs.svg"
+  },
+  {
+    "id": "astro",
+    "label": "Astro",
+    "category": "web",
+    "orderWeight": 60,
+    "logo": "/images/skills/astro.svg"
+  },
+  {
+    "id": "svelte",
+    "label": "Svelte",
+    "category": "web",
+    "orderWeight": 55,
+    "logo": "/images/skills/svelte.svg"
+  },
+  {
+    "id": "sveltekit",
+    "label": "SvelteKit",
+    "category": "web",
+    "orderWeight": 55,
+    "logo": "/images/skills/svelte.svg"
+  },
+  {
+    "id": "remix",
+    "label": "Remix",
+    "category": "web",
+    "orderWeight": 50,
+    "logo": "/images/skills/remix.svg"
+  },
+  {
+    "id": "gatsby",
+    "label": "Gatsby",
+    "category": "web",
+    "orderWeight": 45,
+    "logo": "/images/skills/gatsby.svg"
+  },
+  {
+    "id": "qwik",
+    "label": "Qwik",
+    "category": "web",
+    "orderWeight": 35,
+    "logo": "/images/skills/qwik.svg"
+  },
+  {
+    "id": "solidjs",
+    "label": "SolidJS",
+    "category": "web",
+    "orderWeight": 45,
+    "logo": "/images/skills/solidjs.svg"
+  },
+  {
+    "id": "preact",
+    "label": "Preact",
+    "category": "web",
+    "orderWeight": 40,
+    "logo": "/images/skills/preact.svg"
+  },
+  {
+    "id": "alpinejs",
+    "label": "Alpine.js",
+    "category": "web",
+    "orderWeight": 45,
+    "logo": "/images/skills/alpinejs.svg"
+  },
+  {
+    "id": "htmx",
+    "label": "HTMX",
+    "category": "web",
+    "orderWeight": 40,
+    "logo": "/images/skills/htmx.svg"
+  },
+  {
+    "id": "lit",
+    "label": "Lit",
+    "category": "web",
+    "orderWeight": 35,
+    "logo": "/images/skills/lit.svg"
+  },
+  {
+    "id": "ember",
+    "label": "Ember.js",
+    "category": "web",
+    "orderWeight": 25,
+    "logo": "/images/skills/ember.svg"
+  },
+  {
+    "id": "inertiajs",
+    "label": "Inertia.js",
+    "category": "web",
+    "orderWeight": 40,
+    "logo": "/images/skills/inertiajs.svg"
+  },
+  {
+    "id": "stimulus",
+    "label": "Stimulus",
+    "category": "web",
+    "orderWeight": 30,
+    "logo": "/images/skills/stimulus.svg"
+  },
+  {
+    "id": "jquery",
+    "label": "jQuery",
+    "category": "web",
+    "orderWeight": 30,
+    "logo": "/images/skills/jquery.svg"
+  },
+  {
+    "id": "ajax",
+    "label": "AJAX",
+    "category": "web",
+    "orderWeight": 35,
+    "logo": "/images/skills/ajax.png"
+  },
+  {
+    "id": "pinia",
+    "label": "Pinia",
+    "category": "state",
+    "orderWeight": 90,
+    "logo": "/images/skills/pinia.svg"
+  },
+  {
+    "id": "vuex",
+    "label": "Vuex",
+    "category": "state",
+    "orderWeight": 75,
+    "logo": "/images/skills/vuex.svg"
+  },
+  {
+    "id": "ngrx",
+    "label": "NgRx",
+    "category": "state",
+    "orderWeight": 70,
+    "logo": "/images/skills/ngrx.svg"
+  },
+  {
+    "id": "redux",
+    "label": "Redux",
+    "category": "state",
+    "orderWeight": 65,
+    "logo": "/images/skills/redux-toolkit.svg"
+  },
+  {
+    "id": "redux-toolkit",
+    "label": "Redux Toolkit",
+    "category": "state",
+    "orderWeight": 60,
+    "logo": "/images/skills/redux-toolkit.svg"
+  },
+  {
+    "id": "rxjs",
+    "label": "RxJS",
+    "category": "state",
+    "orderWeight": 65,
+    "logo": "/images/skills/rxjs.svg"
+  },
+  {
+    "id": "zustand",
+    "label": "Zustand",
+    "category": "state",
+    "orderWeight": 55,
+    "logo": "/images/skills/zustand.svg"
+  },
+  {
+    "id": "mobx",
+    "label": "MobX",
+    "category": "state",
+    "orderWeight": 45,
+    "logo": "/images/skills/mobx.svg"
+  },
+  {
+    "id": "recoil",
+    "label": "Recoil",
+    "category": "state",
+    "orderWeight": 40,
+    "logo": "/images/skills/recoil.svg"
+  },
+  {
+    "id": "tanstack-query",
+    "label": "TanStack Query",
+    "category": "state",
+    "orderWeight": 60,
+    "logo": "/images/skills/tanstack-query.svg"
+  },
+  {
+    "id": "xstate",
+    "label": "XState",
+    "category": "state",
+    "orderWeight": 45,
+    "logo": "/images/skills/xstate.svg"
+  },
+  {
+    "id": "nanostores",
+    "label": "Nano Stores",
+    "category": "state",
+    "orderWeight": 35,
+    "logo": "/images/skills/nanostores.svg"
+  },
+  {
+    "id": "tailwindcss",
+    "label": "Tailwind CSS",
+    "category": "styling",
+    "orderWeight": 90,
+    "logo": "/images/skills/tailwindcss.svg"
+  },
+  {
+    "id": "sass",
+    "label": "Sass / SCSS",
+    "category": "styling",
+    "orderWeight": 80,
+    "logo": "/images/skills/sass.svg"
+  },
+  {
+    "id": "vuetify",
+    "label": "Vuetify",
+    "category": "styling",
+    "orderWeight": 75,
+    "logo": "/images/skills/vuetify.svg"
+  },
+  {
+    "id": "css-modules",
+    "label": "CSS Modules",
+    "category": "styling",
+    "orderWeight": 65,
+    "logo": "/images/skills/css-modules.svg"
+  },
+  {
+    "id": "styled-components",
+    "label": "Styled Components",
+    "category": "styling",
+    "orderWeight": 60,
+    "logo": "/images/skills/styled-components.svg"
+  },
+  {
+    "id": "material-ui",
+    "label": "Material UI",
+    "category": "styling",
+    "orderWeight": 65,
+    "logo": "/images/skills/material-ui.svg"
+  },
+  {
+    "id": "shadcn",
+    "label": "shadcn/ui",
+    "category": "styling",
+    "orderWeight": 60,
+    "logo": "/images/skills/shadcn.svg"
+  },
+  {
+    "id": "radix-ui",
+    "label": "Radix UI",
+    "category": "styling",
+    "orderWeight": 55,
+    "logo": "/images/skills/radix-ui.svg"
+  },
+  {
+    "id": "bootstrap",
+    "label": "Bootstrap",
+    "category": "styling",
+    "orderWeight": 55,
+    "logo": "/images/skills/bootstrap.svg"
+  },
+  {
+    "id": "less",
+    "label": "Less",
+    "category": "styling",
+    "orderWeight": 40,
+    "logo": "/images/skills/less.svg"
+  },
+  {
+    "id": "postcss",
+    "label": "PostCSS",
+    "category": "styling",
+    "orderWeight": 50,
+    "logo": "/images/skills/postcss.svg"
+  },
+  {
+    "id": "ant-design",
+    "label": "Ant Design",
+    "category": "styling",
+    "orderWeight": 50,
+    "logo": "/images/skills/ant-design.svg"
+  },
+  {
+    "id": "headlessui",
+    "label": "Headless UI",
+    "category": "styling",
+    "orderWeight": 50,
+    "logo": "/images/skills/headlessui.svg"
+  },
+  {
+    "id": "unocss",
+    "label": "UnoCSS",
+    "category": "styling",
+    "orderWeight": 50,
+    "logo": "/images/skills/unocss.svg"
+  },
+  {
+    "id": "chakra-ui",
+    "label": "Chakra UI",
+    "category": "styling",
+    "orderWeight": 50,
+    "logo": "/images/skills/chakra-ui.svg"
+  },
+  {
+    "id": "mantine",
+    "label": "Mantine",
+    "category": "styling",
+    "orderWeight": 50,
+    "logo": "/images/skills/mantine.svg"
+  },
+  {
+    "id": "daisyui",
+    "label": "DaisyUI",
+    "category": "styling",
+    "orderWeight": 45,
+    "logo": "/images/skills/daisyui.svg"
+  },
+  {
+    "id": "primevue",
+    "label": "PrimeVue",
+    "category": "styling",
+    "orderWeight": 45,
+    "logo": "/images/skills/primeng.svg"
+  },
+  {
+    "id": "primeng",
+    "label": "PrimeNG",
+    "category": "styling",
+    "orderWeight": 40,
+    "logo": "/images/skills/primeng.svg"
+  },
+  {
+    "id": "quasar",
+    "label": "Quasar",
+    "category": "styling",
+    "orderWeight": 45,
+    "logo": "/images/skills/quasar.svg"
+  },
+  {
+    "id": "bulma",
+    "label": "Bulma",
+    "category": "styling",
+    "orderWeight": 35,
+    "logo": "/images/skills/bulma.svg"
+  },
+  {
+    "id": "gsap",
+    "label": "GSAP",
+    "category": "styling",
+    "orderWeight": 55,
+    "logo": "/images/skills/gsap.svg"
+  },
+  {
+    "id": "three-js",
+    "label": "Three.js",
+    "category": "styling",
+    "orderWeight": 50,
+    "logo": "/images/skills/three-js.svg"
+  },
+  {
+    "id": "ionic",
+    "label": "Ionic",
+    "category": "mobile",
+    "orderWeight": 85,
+    "logo": "/images/skills/ionic.svg"
+  },
+  {
+    "id": "flutter",
+    "label": "Flutter",
+    "category": "mobile",
+    "orderWeight": 80,
+    "logo": "/images/skills/flutter.svg"
+  },
+  {
+    "id": "android-studio",
+    "label": "Android Studio",
+    "category": "tools",
+    "orderWeight": 52,
+    "logo": "/images/skills/android-studio.svg"
+  },
+  {
+    "id": "capacitor",
+    "label": "Capacitor",
+    "category": "mobile",
+    "orderWeight": 70,
+    "logo": "/images/skills/capacitor.svg"
+  },
+  {
+    "id": "react-native",
+    "label": "React Native",
+    "category": "mobile",
+    "orderWeight": 65,
+    "logo": "/images/skills/react-native.svg"
+  },
+  {
+    "id": "electron",
+    "label": "Electron",
+    "category": "desktop",
+    "orderWeight": 60,
+    "logo": "/images/skills/electron.svg"
+  },
+  {
+    "id": "microsoft-teams",
+    "label": "Microsoft Teams Apps",
+    "category": "tools",
+    "orderWeight": 55,
+    "logo": "/images/skills/microsoft-teams.svg"
+  },
+  {
+    "id": "expo",
+    "label": "Expo",
+    "category": "mobile",
+    "orderWeight": 55,
+    "logo": "/images/skills/expo.svg"
+  },
+  {
+    "id": "tauri",
+    "label": "Tauri",
+    "category": "desktop",
+    "orderWeight": 45,
+    "logo": "/images/skills/tauri.svg"
+  },
+  {
+    "id": "nativescript",
+    "label": "NativeScript",
+    "category": "mobile",
+    "orderWeight": 35,
+    "logo": "/images/skills/nativescript-vue.svg"
+  },
+  {
+    "id": "swiftui",
+    "label": "SwiftUI",
+    "category": "mobile",
+    "orderWeight": 40,
+    "logo": "/images/skills/swift.svg"
+  },
+  {
+    "id": "jetpack-compose",
+    "label": "Jetpack Compose",
+    "category": "mobile",
+    "orderWeight": 40,
+    "logo": "/images/skills/jetpack-compose.svg"
+  },
+  {
+    "id": "kotlin-multiplatform",
+    "label": "Kotlin Multiplatform",
+    "category": "mobile",
+    "orderWeight": 35,
+    "logo": "/images/skills/kotlin-multiplatform.svg"
+  },
+  {
+    "id": "cordova",
+    "label": "Cordova",
+    "category": "mobile",
+    "orderWeight": 25,
+    "logo": "/images/skills/cordova.svg"
+  },
+  {
+    "id": "pwa",
+    "label": "PWA",
+    "category": "mobile",
+    "orderWeight": 60,
+    "logo": "/images/skills/pwa.svg"
+  },
+  {
+    "id": "nativescript-vue",
+    "label": "NativeScript Vue",
+    "category": "mobile",
+    "orderWeight": 30,
+    "logo": "/images/skills/nativescript-vue.svg"
+  },
+  {
+    "id": "rest",
+    "label": "REST APIs",
+    "category": "api",
+    "orderWeight": 90,
+    "logo": "/images/skills/rest.svg"
+  },
+  {
+    "id": "graphql",
+    "label": "GraphQL",
+    "category": "api",
+    "orderWeight": 80,
+    "logo": "/images/skills/graphql-lang.svg"
+  },
+  {
+    "id": "apollo",
+    "label": "Apollo",
+    "category": "api",
+    "orderWeight": 70,
+    "logo": "/images/skills/apollo.svg"
+  },
+  {
+    "id": "trpc",
+    "label": "tRPC",
+    "category": "api",
+    "orderWeight": 65,
+    "logo": "/images/skills/trpc.svg"
+  },
+  {
+    "id": "websockets",
+    "label": "WebSockets",
+    "category": "api",
+    "orderWeight": 60,
+    "logo": "/images/skills/websocket.svg"
+  },
+  {
+    "id": "grpc",
+    "label": "gRPC",
+    "category": "api",
+    "orderWeight": 50,
+    "logo": "/images/skills/grpc.svg"
+  },
+  {
+    "id": "openapi",
+    "label": "OpenAPI / Swagger",
+    "category": "api",
+    "orderWeight": 55,
+    "logo": "/images/skills/openapi.svg"
+  },
+  {
+    "id": "webhooks",
+    "label": "Webhooks",
+    "category": "api",
+    "orderWeight": 55,
+    "logo": "/images/skills/webhook.svg"
+  },
+  {
+    "id": "oauth",
+    "label": "OAuth 2.0",
+    "category": "api",
+    "orderWeight": 60,
+    "logo": "/images/skills/oauth.svg"
+  },
+  {
+    "id": "jwt",
+    "label": "JWT",
+    "category": "api",
+    "orderWeight": 60,
+    "logo": "/images/skills/jwt.svg"
+  },
+  {
+    "id": "mqtt",
+    "label": "MQTT",
+    "category": "api",
+    "orderWeight": 30,
+    "logo": "/images/skills/mqtt.svg"
+  },
+  {
+    "id": "nodejs",
+    "label": "Node.js",
+    "category": "backend",
+    "orderWeight": 80,
+    "logo": "/images/skills/nodejs.svg"
+  },
+  {
+    "id": "express",
+    "label": "Express.js",
+    "category": "backend",
+    "orderWeight": 70,
+    "logo": "/images/skills/express.svg"
+  },
+  {
+    "id": "nestjs",
+    "label": "NestJS",
+    "category": "backend",
+    "orderWeight": 65,
+    "logo": "/images/skills/nestjs.svg"
+  },
+  {
+    "id": "fastify",
+    "label": "Fastify",
+    "category": "backend",
+    "orderWeight": 55,
+    "logo": "/images/skills/fastify.svg"
+  },
+  {
+    "id": "laravel",
+    "label": "Laravel",
+    "category": "backend",
+    "orderWeight": 50,
+    "logo": "/images/skills/laravel.svg"
+  },
+  {
+    "id": "hapi",
+    "label": "Hapi.js",
+    "category": "backend",
+    "orderWeight": 40,
+    "logo": "/images/skills/hapi.svg"
+  },
+  {
+    "id": "strapi",
+    "label": "Strapi",
+    "category": "backend",
+    "orderWeight": 45,
+    "logo": "/images/skills/strapi.svg"
+  },
+  {
+    "id": "sanity",
+    "label": "Sanity",
+    "category": "backend",
+    "orderWeight": 45,
+    "logo": "/images/skills/sanity.svg"
+  },
+  {
+    "id": "payload-cms",
+    "label": "Payload CMS",
+    "category": "backend",
+    "orderWeight": 40,
+    "logo": "/images/skills/payload-cms.svg"
+  },
+  {
+    "id": "deno",
+    "label": "Deno",
+    "category": "backend",
+    "orderWeight": 45,
+    "logo": "/images/skills/deno.svg"
+  },
+  {
+    "id": "bun",
+    "label": "Bun",
+    "category": "backend",
+    "orderWeight": 50,
+    "logo": "/images/skills/bun.svg"
+  },
+  {
+    "id": "hono",
+    "label": "Hono",
+    "category": "backend",
+    "orderWeight": 50,
+    "logo": "/images/skills/hono.svg"
+  },
+  {
+    "id": "koa",
+    "label": "Koa.js",
+    "category": "backend",
+    "orderWeight": 40,
+    "logo": "/images/skills/koa.svg"
+  },
+  {
+    "id": "adonisjs",
+    "label": "AdonisJS",
+    "category": "backend",
+    "orderWeight": 35,
+    "logo": "/images/skills/adonisjs.svg"
+  },
+  {
+    "id": "django",
+    "label": "Django",
+    "category": "backend",
+    "orderWeight": 35,
+    "logo": "/images/skills/django.svg"
+  },
+  {
+    "id": "flask",
+    "label": "Flask",
+    "category": "backend",
+    "orderWeight": 35,
+    "logo": "/images/skills/flask.svg"
+  },
+  {
+    "id": "fastapi",
+    "label": "FastAPI",
+    "category": "backend",
+    "orderWeight": 40,
+    "logo": "/images/skills/fastapi.svg"
+  },
+  {
+    "id": "rails",
+    "label": "Ruby on Rails",
+    "category": "backend",
+    "orderWeight": 30,
+    "logo": "/images/skills/rails.svg"
+  },
+  {
+    "id": "spring-boot",
+    "label": "Spring Boot",
+    "category": "backend",
+    "orderWeight": 30,
+    "logo": "/images/skills/spring-boot.svg"
+  },
+  {
+    "id": "phoenix",
+    "label": "Phoenix",
+    "category": "backend",
+    "orderWeight": 25,
+    "logo": "/images/skills/phoenix.svg"
+  },
+  {
+    "id": "medusa",
+    "label": "Medusa",
+    "category": "backend",
+    "orderWeight": 35,
+    "logo": "/images/skills/medusa.svg"
+  },
+  {
+    "id": "feathersjs",
+    "label": "Feathers.js",
+    "category": "backend",
+    "orderWeight": 25,
+    "logo": "/images/skills/feathersjs.svg"
+  },
+  {
+    "id": "postgresql",
+    "label": "PostgreSQL",
+    "category": "database",
+    "orderWeight": 75,
+    "logo": "/images/skills/postgresql.svg"
+  },
+  {
+    "id": "mysql",
+    "label": "MySQL",
+    "category": "database",
+    "orderWeight": 65,
+    "logo": "/images/skills/mysql.svg"
+  },
+  {
+    "id": "mongodb",
+    "label": "MongoDB",
+    "category": "database",
+    "orderWeight": 65,
+    "logo": "/images/skills/mongodb.svg"
+  },
+  {
+    "id": "redis",
+    "label": "Redis",
+    "category": "database",
+    "orderWeight": 60,
+    "logo": "/images/skills/redis.svg"
+  },
+  {
+    "id": "firebase",
+    "label": "Firebase",
+    "category": "database",
+    "orderWeight": 70,
+    "logo": "/images/skills/firebase.svg"
+  },
+  {
+    "id": "supabase",
+    "label": "Supabase",
+    "category": "database",
+    "orderWeight": 65,
+    "logo": "/images/skills/supabase.svg"
+  },
+  {
+    "id": "prisma",
+    "label": "Prisma",
+    "category": "database",
+    "orderWeight": 60,
+    "logo": "/images/skills/prisma.svg"
+  },
+  {
+    "id": "drizzle",
+    "label": "Drizzle ORM",
+    "category": "database",
+    "orderWeight": 50,
+    "logo": "/images/skills/drizzle.svg"
+  },
+  {
+    "id": "sqlite",
+    "label": "SQLite",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/sqlite.svg"
+  },
+  {
+    "id": "planetscale",
+    "label": "PlanetScale",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/planetscale.svg"
+  },
+  {
+    "id": "dynamodb",
+    "label": "DynamoDB",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/dynamodb.svg"
+  },
+  {
+    "id": "elasticsearch",
+    "label": "Elasticsearch",
+    "category": "database",
+    "orderWeight": 50,
+    "logo": "/images/skills/elasticsearch.svg"
+  },
+  {
+    "id": "cassandra",
+    "label": "Cassandra",
+    "category": "database",
+    "orderWeight": 30,
+    "logo": "/images/skills/cassandra.svg"
+  },
+  {
+    "id": "neo4j",
+    "label": "Neo4j",
+    "category": "database",
+    "orderWeight": 30,
+    "logo": "/images/skills/neo4j.svg"
+  },
+  {
+    "id": "neon",
+    "label": "Neon",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/neon.svg"
+  },
+  {
+    "id": "turso",
+    "label": "Turso",
+    "category": "database",
+    "orderWeight": 40,
+    "logo": "/images/skills/turso.svg"
+  },
+  {
+    "id": "convex",
+    "label": "Convex",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/convex.svg"
+  },
+  {
+    "id": "upstash",
+    "label": "Upstash",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/upstash.svg"
+  },
+  {
+    "id": "hasura",
+    "label": "Hasura",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/hasura.svg"
+  },
+  {
+    "id": "fauna",
+    "label": "FaunaDB",
+    "category": "database",
+    "orderWeight": 30,
+    "logo": "/images/skills/fauna.svg"
+  },
+  {
+    "id": "cockroachdb",
+    "label": "CockroachDB",
+    "category": "database",
+    "orderWeight": 30,
+    "logo": "/images/skills/cockroachdb.svg"
+  },
+  {
+    "id": "clickhouse",
+    "label": "ClickHouse",
+    "category": "database",
+    "orderWeight": 30,
+    "logo": "/images/skills/clickhouse.svg"
+  },
+  {
+    "id": "typeorm",
+    "label": "TypeORM",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/typeorm.svg"
+  },
+  {
+    "id": "sequelize",
+    "label": "Sequelize",
+    "category": "database",
+    "orderWeight": 40,
+    "logo": "/images/skills/sequelize.svg"
+  },
+  {
+    "id": "mongoose",
+    "label": "Mongoose",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/mongoose.svg"
+  },
+  {
+    "id": "mssql",
+    "label": "Microsoft SQL Server",
+    "category": "database",
+    "orderWeight": 45,
+    "logo": "/images/skills/mssql.svg"
+  },
+  {
+    "id": "auth",
+    "label": "Authentication",
+    "category": "auth",
+    "orderWeight": 70,
+    "logo": "/images/skills/authentication.svg"
+  },
+  {
+    "id": "clerk",
+    "label": "Clerk",
+    "category": "auth",
+    "orderWeight": 65,
+    "logo": "/images/skills/clerk.svg"
+  },
+  {
+    "id": "auth0",
+    "label": "Auth0",
+    "category": "auth",
+    "orderWeight": 60,
+    "logo": "/images/skills/auth0.svg"
+  },
+  {
+    "id": "supabase-auth",
+    "label": "Supabase Auth",
+    "category": "auth",
+    "orderWeight": 60,
+    "logo": "/images/skills/supabase-auth.svg"
+  },
+  {
+    "id": "firebase-auth",
+    "label": "Firebase Auth",
+    "category": "auth",
+    "orderWeight": 60,
+    "logo": "/images/skills/firebase.svg"
+  },
+  {
+    "id": "keycloak",
+    "label": "Keycloak",
+    "category": "auth",
+    "orderWeight": 45,
+    "logo": "/images/skills/keycloak.svg"
+  },
+  {
+    "id": "passportjs",
+    "label": "Passport.js",
+    "category": "auth",
+    "orderWeight": 50,
+    "logo": "/images/skills/passportjs.svg"
+  },
+  {
+    "id": "lucia",
+    "label": "Lucia",
+    "category": "auth",
+    "orderWeight": 45,
+    "logo": "/images/skills/lucia.svg"
+  },
+  {
+    "id": "okta",
+    "label": "Okta",
+    "category": "auth",
+    "orderWeight": 40,
+    "logo": "/images/skills/okta.svg"
+  },
+  {
+    "id": "wordpress",
+    "label": "WordPress",
+    "category": "cms",
+    "orderWeight": 55,
+    "logo": "/images/skills/wordpress.svg"
+  },
+  {
+    "id": "contentful",
+    "label": "Contentful",
+    "category": "cms",
+    "orderWeight": 60,
+    "logo": "/images/skills/contentful.svg"
+  },
+  {
+    "id": "storyblok",
+    "label": "Storyblok",
+    "category": "cms",
+    "orderWeight": 55,
+    "logo": "/images/skills/storyblok.svg"
+  },
+  {
+    "id": "prismic",
+    "label": "Prismic",
+    "category": "cms",
+    "orderWeight": 50,
+    "logo": "/images/skills/prismic.svg"
+  },
+  {
+    "id": "datocms",
+    "label": "DatoCMS",
+    "category": "cms",
+    "orderWeight": 45,
+    "logo": "/images/skills/datocms.svg"
+  },
+  {
+    "id": "ghost",
+    "label": "Ghost",
+    "category": "cms",
+    "orderWeight": 40,
+    "logo": "/images/skills/ghost.svg"
+  },
+  {
+    "id": "contentstack",
+    "label": "Contentstack",
+    "category": "cms",
+    "orderWeight": 40,
+    "logo": "/images/skills/contentstack.svg"
+  },
+  {
+    "id": "directus",
+    "label": "Directus",
+    "category": "cms",
+    "orderWeight": 45,
+    "logo": "/images/skills/directus.svg"
+  },
+  {
+    "id": "craft-cms",
+    "label": "Craft CMS",
+    "category": "cms",
+    "orderWeight": 40,
+    "logo": "/images/skills/craft-cms.svg"
+  },
+  {
+    "id": "shopify",
+    "label": "Shopify",
+    "category": "cms",
+    "orderWeight": 55,
+    "logo": "/images/skills/shopify.svg"
+  },
+  {
+    "id": "liquid",
+    "label": "Liquid",
+    "category": "backend",
+    "orderWeight": 35,
+    "logo": "/images/skills/liquid.png"
+  },
+  {
+    "id": "twig",
+    "label": "Twig",
+    "category": "backend",
+    "orderWeight": 30,
+    "logo": "/images/skills/twig.svg"
+  },
+  {
+    "id": "vite",
+    "label": "Vite",
+    "category": "build",
+    "orderWeight": 85,
+    "logo": "/images/skills/vite.svg"
+  },
+  {
+    "id": "webpack",
+    "label": "Webpack",
+    "category": "build",
+    "orderWeight": 65,
+    "logo": "/images/skills/webpack.svg"
+  },
+  {
+    "id": "esbuild",
+    "label": "ESBuild",
+    "category": "build",
+    "orderWeight": 60,
+    "logo": "/images/skills/esbuild.svg"
+  },
+  {
+    "id": "rollup",
+    "label": "Rollup",
+    "category": "build",
+    "orderWeight": 55,
+    "logo": "/images/skills/rollup.svg"
+  },
+  {
+    "id": "babel",
+    "label": "Babel",
+    "category": "build",
+    "orderWeight": 50,
+    "logo": "/images/skills/babel.svg"
+  },
+  {
+    "id": "swc",
+    "label": "SWC",
+    "category": "build",
+    "orderWeight": 50,
+    "logo": "/images/skills/swc.svg"
+  },
+  {
+    "id": "turbo",
+    "label": "Turborepo",
+    "category": "build",
+    "orderWeight": 55,
+    "logo": "/images/skills/turbo.svg"
+  },
+  {
+    "id": "nx",
+    "label": "Nx",
+    "category": "build",
+    "orderWeight": 50,
+    "logo": "/images/skills/nx.svg"
+  },
+  {
+    "id": "lerna",
+    "label": "Lerna",
+    "category": "build",
+    "orderWeight": 35,
+    "logo": "/images/skills/lerna.svg"
+  },
+  {
+    "id": "vitest",
+    "label": "Vitest",
+    "category": "testing",
+    "orderWeight": 80,
+    "logo": "/images/skills/vitest.svg"
+  },
+  {
+    "id": "jest",
+    "label": "Jest",
+    "category": "testing",
+    "orderWeight": 75,
+    "logo": "/images/skills/jest.svg"
+  },
+  {
+    "id": "cypress",
+    "label": "Cypress",
+    "category": "testing",
+    "orderWeight": 70,
+    "logo": "/images/skills/cypress.svg"
+  },
+  {
+    "id": "playwright",
+    "label": "Playwright",
+    "category": "testing",
+    "orderWeight": 70,
+    "logo": "/images/skills/playwright.svg"
+  },
+  {
+    "id": "testing-library",
+    "label": "Testing Library",
+    "category": "testing",
+    "orderWeight": 65,
+    "logo": "/images/skills/testing-library.svg"
+  },
+  {
+    "id": "storybook",
+    "label": "Storybook",
+    "category": "testing",
+    "orderWeight": 65,
+    "logo": "/images/skills/storybook.svg"
+  },
+  {
+    "id": "msw",
+    "label": "MSW",
+    "category": "testing",
+    "orderWeight": 55,
+    "logo": "/images/skills/msw.svg"
+  },
+  {
+    "id": "mocha",
+    "label": "Mocha",
+    "category": "testing",
+    "orderWeight": 40,
+    "logo": "/images/skills/mocha.svg"
+  },
+  {
+    "id": "chai",
+    "label": "Chai",
+    "category": "testing",
+    "orderWeight": 35,
+    "logo": "/images/skills/chai.svg"
+  },
+  {
+    "id": "puppeteer",
+    "label": "Puppeteer",
+    "category": "testing",
+    "orderWeight": 50,
+    "logo": "/images/skills/puppeteer.svg"
+  },
+  {
+    "id": "webdriverio",
+    "label": "WebdriverIO",
+    "category": "testing",
+    "orderWeight": 40,
+    "logo": "/images/skills/webdriverio.svg"
+  },
+  {
+    "id": "chromatic",
+    "label": "Chromatic",
+    "category": "testing",
+    "orderWeight": 45,
+    "logo": "/images/skills/chromatic.svg"
+  },
+  {
+    "id": "percy",
+    "label": "Percy",
+    "category": "testing",
+    "orderWeight": 35,
+    "logo": "/images/skills/percy.svg"
+  },
+  {
+    "id": "k6",
+    "label": "k6",
+    "category": "testing",
+    "orderWeight": 40,
+    "logo": "/images/skills/k6.svg"
+  },
+  {
+    "id": "cucumber",
+    "label": "Cucumber",
+    "category": "testing",
+    "orderWeight": 35,
+    "logo": "/images/skills/cucumber.svg"
+  },
+  {
+    "id": "ava",
+    "label": "AVA",
+    "category": "testing",
+    "orderWeight": 30,
+    "logo": "/images/skills/ava.svg"
+  },
+  {
+    "id": "docker",
+    "label": "Docker",
+    "category": "devops",
+    "orderWeight": 70,
+    "logo": "/images/skills/docker.svg"
+  },
+  {
+    "id": "github-actions",
+    "label": "GitHub Actions",
+    "category": "devops",
+    "orderWeight": 65,
+    "logo": "/images/skills/github-actions.svg"
+  },
+  {
+    "id": "vercel",
+    "label": "Vercel",
+    "category": "devops",
+    "orderWeight": 65,
+    "logo": "/images/skills/vercel-ai-sdk.svg"
+  },
+  {
+    "id": "netlify",
+    "label": "Netlify",
+    "category": "devops",
+    "orderWeight": 60,
+    "logo": "/images/skills/netlify.svg"
+  },
+  {
+    "id": "aws",
+    "label": "AWS",
+    "category": "devops",
+    "orderWeight": 60,
+    "logo": "/images/skills/aws.svg"
+  },
+  {
+    "id": "gcp",
+    "label": "Google Cloud",
+    "category": "devops",
+    "orderWeight": 55,
+    "logo": "/images/skills/gcp.svg"
+  },
+  {
+    "id": "nginx",
+    "label": "Nginx",
+    "category": "devops",
+    "orderWeight": 50,
+    "logo": "/images/skills/nginx.svg"
+  },
+  {
+    "id": "gitlab-ci",
+    "label": "GitLab CI",
+    "category": "devops",
+    "orderWeight": 55,
+    "logo": "/images/skills/gitlab.svg"
+  },
+  {
+    "id": "kubernetes",
+    "label": "Kubernetes",
+    "category": "devops",
+    "orderWeight": 45,
+    "logo": "/images/skills/kubernetes.svg"
+  },
+  {
+    "id": "cloudflare",
+    "label": "Cloudflare",
+    "category": "devops",
+    "orderWeight": 50,
+    "logo": "/images/skills/cloudflare.svg"
+  },
+  {
+    "id": "terraform",
+    "label": "Terraform",
+    "category": "devops",
+    "orderWeight": 45,
+    "logo": "/images/skills/terraform.svg"
+  },
+  {
+    "id": "ansible",
+    "label": "Ansible",
+    "category": "devops",
+    "orderWeight": 35,
+    "logo": "/images/skills/ansible.svg"
+  },
+  {
+    "id": "jenkins",
+    "label": "Jenkins",
+    "category": "devops",
+    "orderWeight": 35,
+    "logo": "/images/skills/jenkins.svg"
+  },
+  {
+    "id": "circleci",
+    "label": "CircleCI",
+    "category": "devops",
+    "orderWeight": 40,
+    "logo": "/images/skills/circleci.svg"
+  },
+  {
+    "id": "railway",
+    "label": "Railway",
+    "category": "devops",
+    "orderWeight": 50,
+    "logo": "/images/skills/railway.svg"
+  },
+  {
+    "id": "fly-io",
+    "label": "Fly.io",
+    "category": "devops",
+    "orderWeight": 45,
+    "logo": "/images/skills/fly-io.svg"
+  },
+  {
+    "id": "digitalocean",
+    "label": "DigitalOcean",
+    "category": "devops",
+    "orderWeight": 45,
+    "logo": "/images/skills/digitalocean.svg"
+  },
+  {
+    "id": "azure",
+    "label": "Azure",
+    "category": "devops",
+    "orderWeight": 45,
+    "logo": "/images/skills/azure.svg"
+  },
+  {
+    "id": "pulumi",
+    "label": "Pulumi",
+    "category": "devops",
+    "orderWeight": 35,
+    "logo": "/images/skills/pulumi.svg"
+  },
+  {
+    "id": "heroku",
+    "label": "Heroku",
+    "category": "devops",
+    "orderWeight": 40,
+    "logo": "/images/skills/heroku.svg"
+  },
+  {
+    "id": "render",
+    "label": "Render",
+    "category": "devops",
+    "orderWeight": 40,
+    "logo": "/images/skills/render.svg"
+  },
+  {
+    "id": "sentry",
+    "label": "Sentry",
+    "category": "monitoring",
+    "orderWeight": 70,
+    "logo": "/images/skills/sentry.svg"
+  },
+  {
+    "id": "datadog",
+    "label": "Datadog",
+    "category": "monitoring",
+    "orderWeight": 55,
+    "logo": "/images/skills/datadog.svg"
+  },
+  {
+    "id": "new-relic",
+    "label": "New Relic",
+    "category": "monitoring",
+    "orderWeight": 45,
+    "logo": "/images/skills/new-relic.svg"
+  },
+  {
+    "id": "mixpanel",
+    "label": "Mixpanel",
+    "category": "monitoring",
+    "orderWeight": 50,
+    "logo": "/images/skills/mixpanel.svg"
+  },
+  {
+    "id": "google-analytics",
+    "label": "Google Analytics",
+    "category": "monitoring",
+    "orderWeight": 55,
+    "logo": "/images/skills/google-analytics.svg"
+  },
+  {
+    "id": "grafana",
+    "label": "Grafana",
+    "category": "monitoring",
+    "orderWeight": 40,
+    "logo": "/images/skills/grafana.svg"
+  },
+  {
+    "id": "prometheus",
+    "label": "Prometheus",
+    "category": "monitoring",
+    "orderWeight": 35,
+    "logo": "/images/skills/prometheus.svg"
+  },
+  {
+    "id": "opentelemetry",
+    "label": "OpenTelemetry",
+    "category": "monitoring",
+    "orderWeight": 40,
+    "logo": "/images/skills/opentelemetry.svg"
+  },
+  {
+    "id": "posthog",
+    "label": "PostHog",
+    "category": "monitoring",
+    "orderWeight": 50,
+    "logo": "/images/skills/posthog.svg"
+  },
+  {
+    "id": "plausible",
+    "label": "Plausible",
+    "category": "monitoring",
+    "orderWeight": 40,
+    "logo": "/images/skills/plausible.svg"
+  },
+  {
+    "id": "openai-api",
+    "label": "OpenAI API",
+    "category": "ai",
+    "orderWeight": 70,
+    "logo": "/images/skills/openai.svg"
+  },
+  {
+    "id": "vercel-ai-sdk",
+    "label": "Vercel AI SDK",
+    "category": "ai",
+    "orderWeight": 65,
+    "logo": "/images/skills/vercel-ai-sdk.svg"
+  },
+  {
+    "id": "langchain",
+    "label": "LangChain",
+    "category": "ai",
+    "orderWeight": 55,
+    "logo": "/images/skills/langchain-js.svg"
+  },
+  {
+    "id": "langchain-js",
+    "label": "LangChain.js",
+    "category": "ai",
+    "orderWeight": 50,
+    "logo": "/images/skills/langchain-js.svg"
+  },
+  {
+    "id": "hugging-face",
+    "label": "Hugging Face",
+    "category": "ai",
+    "orderWeight": 50,
+    "logo": "/images/skills/hugging-face.svg"
+  },
+  {
+    "id": "tensorflow-js",
+    "label": "TensorFlow.js",
+    "category": "ai",
+    "orderWeight": 40,
+    "logo": "/images/skills/tensorflow-js.svg"
+  },
+  {
+    "id": "anthropic-api",
+    "label": "Anthropic API",
+    "category": "ai",
+    "orderWeight": 60,
+    "logo": "/images/skills/anthropic-api.svg"
+  },
+  {
+    "id": "ollama",
+    "label": "Ollama",
+    "category": "ai",
+    "orderWeight": 45,
+    "logo": "/images/skills/ollama.svg"
+  },
+  {
+    "id": "algolia",
+    "label": "Algolia",
+    "category": "search",
+    "orderWeight": 65,
+    "logo": "/images/skills/algolia.svg"
+  },
+  {
+    "id": "meilisearch",
+    "label": "MeiliSearch",
+    "category": "search",
+    "orderWeight": 50,
+    "logo": "/images/skills/meilisearch.svg"
+  },
+  {
+    "id": "figma",
+    "label": "Figma",
+    "category": "design",
+    "orderWeight": 90,
+    "logo": "/images/skills/figma.svg"
+  },
+  {
+    "id": "design-systems",
+    "label": "Design Systems",
+    "category": "design",
+    "orderWeight": 85,
+    "logo": "/images/skills/design-systems.svg"
+  },
+  {
+    "id": "prototyping",
+    "label": "Prototyping",
+    "category": "design",
+    "orderWeight": 75,
+    "logo": "/images/skills/prototyping.svg"
+  },
+  {
+    "id": "wireframing",
+    "label": "Wireframing",
+    "category": "design",
+    "orderWeight": 70,
+    "logo": "/images/skills/wireframing.svg"
+  },
+  {
+    "id": "ux-research",
+    "label": "UX Research",
+    "category": "design",
+    "orderWeight": 65,
+    "logo": "/images/skills/ux-research.svg"
+  },
+  {
+    "id": "sketch",
+    "label": "Sketch",
+    "category": "design",
+    "orderWeight": 60,
+    "logo": "/images/skills/sketch.svg"
+  },
+  {
+    "id": "adobe-xd",
+    "label": "Adobe XD",
+    "category": "design",
+    "orderWeight": 55,
+    "logo": "/images/skills/adobe-xd.svg"
+  },
+  {
+    "id": "photoshop",
+    "label": "Photoshop",
+    "category": "tools",
+    "orderWeight": 50,
+    "logo": "/images/skills/photoshop.svg"
+  },
+  {
+    "id": "illustrator",
+    "label": "Illustrator",
+    "category": "design",
+    "orderWeight": 50,
+    "logo": "/images/skills/illustrator.svg"
+  },
+  {
+    "id": "after-effects",
+    "label": "After Effects",
+    "category": "design",
+    "orderWeight": 40,
+    "logo": "/images/skills/after-effects.svg"
+  },
+  {
+    "id": "lottie",
+    "label": "Lottie",
+    "category": "design",
+    "orderWeight": 45,
+    "logo": "/images/skills/lottie.svg"
+  },
+  {
+    "id": "miro",
+    "label": "Miro",
+    "category": "design",
+    "orderWeight": 50,
+    "logo": "/images/skills/miro.svg"
+  },
+  {
+    "id": "canva",
+    "label": "Canva",
+    "category": "design",
+    "orderWeight": 35,
+    "logo": "/images/skills/canva.svg"
+  },
+  {
+    "id": "maze",
+    "label": "Maze",
+    "category": "design",
+    "orderWeight": 35,
+    "logo": "/images/skills/maze.svg"
+  },
+  {
+    "id": "git",
+    "label": "Git",
+    "category": "tools",
+    "orderWeight": 90,
+    "logo": "/images/skills/git.svg"
+  },
+  {
+    "id": "github",
+    "label": "GitHub",
+    "category": "tools",
+    "orderWeight": 85,
+    "logo": "/images/skills/github.svg"
+  },
+  {
+    "id": "gitlab",
+    "label": "GitLab",
+    "category": "tools",
+    "orderWeight": 75,
+    "logo": "/images/skills/gitlab.svg"
+  },
+  {
+    "id": "jira",
+    "label": "Jira",
+    "category": "tools",
+    "orderWeight": 65,
+    "logo": "/images/skills/jira.svg"
+  },
+  {
+    "id": "linear",
+    "label": "Linear",
+    "category": "tools",
+    "orderWeight": 60,
+    "logo": "/images/skills/linear.svg"
+  },
+  {
+    "id": "notion",
+    "label": "Notion",
+    "category": "tools",
+    "orderWeight": 55,
+    "logo": "/images/skills/notion.svg"
+  },
+  {
+    "id": "confluence",
+    "label": "Confluence",
+    "category": "tools",
+    "orderWeight": 55,
+    "logo": "/images/skills/confluence.svg"
+  },
+  {
+    "id": "slack",
+    "label": "Slack",
+    "category": "tools",
+    "orderWeight": 50,
+    "logo": "/images/skills/slack.svg"
+  },
+  {
+    "id": "vs-code",
+    "label": "VS Code",
+    "category": "tools",
+    "orderWeight": 70,
+    "logo": "/images/skills/vs-code.svg"
+  },
+  {
+    "id": "pnpm",
+    "label": "pnpm",
+    "category": "tools",
+    "orderWeight": 60,
+    "logo": "/images/skills/pnpm.svg"
+  },
+  {
+    "id": "npm",
+    "label": "npm",
+    "category": "tools",
+    "orderWeight": 55,
+    "logo": "/images/skills/npm.svg"
+  },
+  {
+    "id": "yarn",
+    "label": "yarn",
+    "category": "tools",
+    "orderWeight": 55,
+    "logo": "/images/skills/yarn.svg"
+  },
+  {
+    "id": "postman",
+    "label": "Postman",
+    "category": "tools",
+    "orderWeight": 60,
+    "logo": "/images/skills/postman.svg"
+  },
+  {
+    "id": "insomnia",
+    "label": "Insomnia",
+    "category": "tools",
+    "orderWeight": 45,
+    "logo": "/images/skills/insomnia.svg"
+  },
+  {
+    "id": "bruno",
+    "label": "Bruno",
+    "category": "tools",
+    "orderWeight": 40,
+    "logo": "/images/skills/bruno.svg"
+  },
+  {
+    "id": "tableplus",
+    "label": "TablePlus",
+    "category": "tools",
+    "orderWeight": 45,
+    "logo": "/images/skills/table-plus.png"
+  },
+  {
+    "id": "datagrip",
+    "label": "DataGrip",
+    "category": "tools",
+    "orderWeight": 40,
+    "logo": "/images/skills/datagrip.svg"
+  },
+  {
+    "id": "github-copilot",
+    "label": "GitHub Copilot",
+    "category": "tools",
+    "orderWeight": 65,
+    "logo": "/images/skills/github-copilot.svg"
+  },
+  {
+    "id": "cursor",
+    "label": "Cursor",
+    "category": "tools",
+    "orderWeight": 60,
+    "logo": "/images/skills/cursor.svg"
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "firstName": "Arlind",
+  "lastName": "Shaqiri",
+  "role": "Fullstack Software Engineer",
+  "tagline": "with a passion for crafting exceptional user experiences across web, mobile, and desktop platforms.",
+  "bio": "Focused on building dynamic, engaging interfaces throughout the full development lifecycle, with strong JavaScript/TypeScript expertise across Vue, Nuxt, Angular, and React. Also experienced with mobile app delivery (Flutter, Ionic), CMS platforms (Craft, WordPress, Shopify), and supporting backend work when needed.",
+  "contacts": [
+    {
+      "label": "Portfolio",
+      "value": "shaqirivarlind.github.io",
+      "link": {
+        "url": "https://shaqirivarlind.github.io/",
+        "type": "portfolio",
+        "icon": "mdi-file-account",
+        "target": "_blank"
+      }
+    },
+    {
+      "label": "Location",
+      "value": "Prishtina, Kosovo, 10000",
+      "link": {
+        "url": "https://www.google.com/maps?q=Pristina,Kosovo",
+        "type": "location",
+        "icon": "mdi-map-marker-outline",
+        "target": "_blank"
+      }
+    },
+    {
+      "label": "Phone",
+      "value": "+383 45 215 213",
+      "link": {
+        "url": "tel:+38345215213",
+        "type": "phone",
+        "icon": "mdi-phone-outline"
+      }
+    },
+    {
+      "label": "Email",
+      "value": "shaqirivarlind@gmail.com",
+      "link": {
+        "url": "mailto:shaqirivarlind@gmail.com?subject=Hello%20Arlind",
+        "type": "email",
+        "icon": "mdi-email-outline"
+      }
+    },
+    {
+      "label": "LinkedIn",
+      "value": "linkedin.com/in/arlind-shaqiri",
+      "link": {
+        "url": "https://www.linkedin.com/in/arlind-shaqiri",
+        "type": "linkedin",
+        "icon": "mdi-linkedin",
+        "target": "_blank"
+      }
+    },
+    {
+      "label": "GitHub",
+      "value": "github.com/shaqirivarlind",
+      "link": {
+        "url": "https://github.com/shaqirivarlind",
+        "type": "github",
+        "icon": "mdi-github",
+        "target": "_blank"
+      }
+    },
+    {
+      "label": "GitLab",
+      "value": "gitlab.com/arlindshaqiri",
+      "link": {
+        "url": "https://gitlab.com/arlindshaqiri",
+        "type": "gitlab",
+        "icon": "mdi-gitlab",
+        "target": "_blank"
+      }
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Professional"
+    },
+    {
+      "language": "Albanian",
+      "level": "Native"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "client-abc305b8",
+    "name": "Kroschke GmbH",
+    "location": "Ahrensburg, Germany",
+    "description": "Kroschke is a German company based in Ahrensburg that provides vehicle-related services, especially car registration and license plate solutions.\nIt supports individuals and businesses with online and in-person vehicle registration, deregistration, and documentation processes.\nThe company is a leading service provider in Germany for automotive administration and process management.\nIt focuses on simplifying and digitizing vehicle lifecycle services across the automotive sector.",
+    "logo": "/images/clients/9f51f96a-cc59-408c-b79e-fd6315f74933.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.kroschke.de/"
+      }
+    ]
+  },
+  {
+    "id": "client-complement",
+    "name": "COMLINE SE (Complement)",
+    "location": "Hamburg, Germany",
+    "description": "COMLINE Computer + Softwarelösungen SE (Complement) is a German IT services and consulting company focused on managed services/outsourcing, cloud transformation and security. In this CV context, it was the intermediary partner for the Kroschke engagement during the LinkPlus IT period.",
+    "logo": "/images/clients/c2fb2175-6fc6-42ac-9dce-a0d2fb634c70.svg",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.comline-se.de/"
+      }
+    ]
+  },
+  {
+    "id": "client-ee82d1de",
+    "name": "Arbrea Labs",
+    "location": " Zurich, Switzerland",
+    "description": "Arbrea Labs is a Swiss MedTech and AI company based in Zurich.\nIt develops advanced AR, 3D, and AI tools for aesthetic medicine and plastic surgery.\nThe platform helps doctors and patients visualize surgical outcomes in real time.\nIt is known for its “medical metaverse” approach to improving clinical consultations.",
+    "logo": "/images/clients/bb9d3d45-12f4-4eea-beb4-c7251588738f.webp",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://arbrea-labs.com/"
+      }
+    ]
+  },
+  {
+    "id": "client-ecf1f89e",
+    "name": " Neundenker AG",
+    "location": "Bern, Switzerland.",
+    "description": "Neundenker AG (also known as konzeptler.ch) is a Swiss creative and advertising agency based in Switzerland.\nIt specializes in branding, marketing, digital communication, and web development services.\nThe company works on strategic consulting and creative campaigns for various clients.\nIt focuses on combining design, technology, and communication to build strong brand identities.",
+    "logo": "/images/clients/213bc911-f9c7-46b7-8c26-8e2d99bfc20a.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.neundenker.ch"
+      },
+      {
+        "label": "Also known as",
+        "url": "https://konzeptler.ch"
+      }
+    ]
+  },
+  {
+    "id": "client-eastsideco",
+    "name": "Eastside Co",
+    "location": "London, UK",
+    "description": "Eastside Co is an award-winning ecommerce agency and Shopify Plus/Platinum Partner. It designs and develops Shopify (and Shopify Plus) stores, builds Shopify apps and supports ongoing ecommerce growth through strategy, UX and marketing services.",
+    "logo": "/images/clients/22de9fef-3fd5-4d6c-b3d0-9f1caae1358e.svg",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://eastsideco.com/"
+      }
+    ]
+  },
+  {
+    "id": "client-at-arbeit",
+    "name": "at-arbeit.net",
+    "location": "",
+    "description": "Client website delivered on Shopify during the Opoware engagement.",
+    "logo": "",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.at-arbeit.net/"
+      }
+    ]
+  },
+  {
+    "id": "client-5c623458",
+    "name": "Trackforce",
+    "location": "Montreal, Quebec, Canada",
+    "description": "Trackforce is a global software company providing workforce management solutions for the security industry.\nIts award-winning platforms, TrackTik and GuardTek, are used by thousands of organizations to optimize security operations.\nThe software supports scheduling, reporting, incident management, and real-time monitoring.\nIt serves security companies and enterprise clients worldwide.",
+    "logo": "/images/clients/a6500342-14df-414f-8a77-83707690439a.webp",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.trackforce.com/"
+      }
+    ]
+  },
+  {
+    "id": "client-727fa552",
+    "name": "Red Bull",
+    "location": "Fuschl am See, Austria",
+    "description": "Red Bull is a global energy drink company known for its flagship energy drink product.\nIt is heavily involved in sports marketing, sponsorships, and extreme sports events worldwide.\nThe brand focuses on promoting an active and high-performance lifestyle.\nIt also produces media content through Red Bull Media House, covering sports, music, and culture.",
+    "logo": "/images/clients/36b1e950-983a-4b89-afe4-46126f6a13d2.svg",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.redbull.com/"
+      }
+    ]
+  }
+]

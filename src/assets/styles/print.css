@@ -1,0 +1,41 @@
+@page {
+  size: A4 portrait;
+  margin: 8mm;
+}
+
+@media print {
+  * {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  #resume-paper {
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  /* force element to start on a new page */
+  .print-break-before {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  /* element must not be split across pages */
+  .print-no-break {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* element must not be orphaned from the content that follows */
+  .print-no-break-after {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .do-not-print {
+    display: none !important;
+  }
+}

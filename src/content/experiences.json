@@ -1,0 +1,135 @@
+[
+  {
+    "id": "exp-ritech",
+    "companyId": "comp-e2861f48",
+    "dateRange": {
+      "start": "2024-09",
+      "end": null
+    },
+    "roleIds": [
+      "role-fe-ritech"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-amberoad",
+    "companyId": "comp-amberoad",
+    "dateRange": {
+      "start": "2021-11",
+      "end": "2025-09"
+    },
+    "roleIds": [
+      "role-fe-lead-amberoad"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-baron",
+    "companyId": "comp-5c941a7e",
+    "dateRange": {
+      "start": "2026-02",
+      "end": null
+    },
+    "roleIds": [
+      "role-fs-baron"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-intes",
+    "companyId": "comp-intes",
+    "dateRange": {
+      "start": "2021-06",
+      "end": "2021-10"
+    },
+    "roleIds": [
+      "role-lead-fe-intes"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-irtech",
+    "companyId": "comp-irtech",
+    "dateRange": {
+      "start": "2021-04",
+      "end": "2022-01"
+    },
+    "roleIds": [
+      "role-mobile-irtech"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-linkplus",
+    "companyId": "comp-linkplus",
+    "dateRange": {
+      "start": "2020-10",
+      "end": "2021-07"
+    },
+    "roleIds": [
+      "role-fe-linkplus"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-ipko",
+    "companyId": "comp-b65fc234",
+    "dateRange": {
+      "start": "2020-04",
+      "end": "2020-10"
+    },
+    "roleIds": [
+      "role-web-ipko"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-opoware",
+    "companyId": "comp-opoware",
+    "dateRange": {
+      "start": "2020-02",
+      "end": "2021-02"
+    },
+    "roleIds": [
+      "role-fs-opoware"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-234a5394",
+    "companyId": "comp-979a56ff",
+    "dateRange": {
+      "start": "2020-05",
+      "end": "2020-09"
+    },
+    "roleIds": [
+      "role-fs-blueecom"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-dukes",
+    "companyId": "comp-dukes",
+    "dateRange": {
+      "start": "2018-09",
+      "end": "2020-02"
+    },
+    "roleIds": [
+      "role-fs-dukes",
+      "role-fe-dukes"
+    ],
+    "visible": true
+  },
+  {
+    "id": "exp-freelance",
+    "companyId": "comp-freelance",
+    "dateRange": {
+      "start": "2017-07",
+      "end": "2018-09"
+    },
+    "roleIds": [
+      "role-freelance-2017"
+    ],
+    "visible": true
+  }
+]

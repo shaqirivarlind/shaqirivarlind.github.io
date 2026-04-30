@@ -1,0 +1,56 @@
+:root {
+  --v-font-family:
+    "sofia-pro", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+html,
+body,
+.v-application {
+  font-family:
+    "sofia-pro",
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif !important;
+}
+
+.v-btn {
+  letter-spacing: 0.025em !important;
+  font-weight: 700 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.text-h1,
+.text-h2,
+.text-h3,
+.text-h4,
+.text-h5,
+.text-h6,
+.text-headline-large,
+.text-headline-small,
+.font-weight-black {
+  font-family: "sofia-pro", ui-sans-serif, system-ui, sans-serif !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+[id] {
+  scroll-margin-top: 3rem;
+}
+
+.loading-container {
+  min-height: 50vh;
+}

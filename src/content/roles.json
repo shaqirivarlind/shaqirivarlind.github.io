@@ -1,0 +1,244 @@
+[
+  {
+    "id": "role-fe-ritech",
+    "companyId": "comp-e2861f48",
+    "title": "Frontend Engineer",
+    "employmentType": "Full-time",
+    "workType": "Hybrid",
+    "dateRange": {
+      "start": "2024-09",
+      "end": null
+    },
+    "projectIds": [
+      "proj-tracktik-platform"
+    ],
+    "achievements": [
+      "Worked as an outsourced Frontend Engineer through Ritech International AG, part of a dedicated team embedded remotely with Trackforce (Canada) — the company behind the TrackTik and GuardTek workforce management platforms used by thousands of security organizations worldwide.",
+      "Operated as a founded team working directly with Securitas — one of the world's largest security companies and a key Trackforce client — collaborating closely on features tailored to their operational workflows.",
+      "Contributed to a large-scale Nx/Lerna monorepo containing multiple interconnected Vue web applications (Dispatch, Flow, Invoice, Kiosk and more) powering the Trackforce product suite.",
+      "Developed features and bug fixes across several apps sharing a common Vue/Vuetify/Vuex/TypeScript stack, and made minor PHP contributions on the TrackTik Cloud backend."
+    ]
+  },
+  {
+    "id": "role-fe-lead-amberoad",
+    "companyId": "comp-amberoad",
+    "title": "Fullstack Engineer (Frontend Lead)",
+    "employmentType": "Full-time",
+    "workType": "Remote",
+    "dateRange": {
+      "start": "2021-11",
+      "end": "2025-09"
+    },
+    "projectIds": [
+      "proj-amberai",
+      "proj-ambersearch-web",
+      "proj-ambersearch-desktop",
+      "proj-ambersearch-teams",
+      "proj-ambersearch-website"
+    ],
+    "achievements": [
+      "Lead Frontend Engineer on amber, owning frontend architecture and delivery across web, desktop (Electron) and Microsoft Teams surfaces.",
+      "Architected and maintained a shared Vue.js / Vuex / Nuxt.js frontend codebase, building scalable UI patterns and reusable feature modules.",
+      "Designed and implemented a Node.js / Express middleware layer (TypeScript) for API routes, server-side logic and file processing between the frontend and the core backend.",
+      "Operated across the JavaScript/TypeScript stack to bridge frontend↔backend systems and support stable enterprise rollouts.",
+      "Drove delivery through close collaboration with product/design/backend, code reviews and shared development standards, and led the frontend integration of amberAI."
+    ]
+  },
+  {
+    "id": "role-lead-fe-intes",
+    "companyId": "comp-intes",
+    "title": "Frontend Engineer (Team Lead)",
+    "employmentType": "Full-time",
+    "workType": "Onsite",
+    "dateRange": {
+      "start": "2021-06",
+      "end": "2021-10"
+    },
+    "projectIds": [
+      "proj-jamatu"
+    ],
+    "achievements": [
+      "Led the frontend development team building complex Angular-based web applications for Swiss clients.",
+      "Oversaw development of jamatu.com — a feature-rich event management and ticketing platform.",
+      "Partnered closely with backend engineers to align on APIs, integration approaches and end-to-end solutions.",
+      "Optimized application performance and championed the user experience throughout delivery."
+    ]
+  },
+  {
+    "id": "role-mobile-irtech",
+    "companyId": "comp-irtech",
+    "title": "Mobile Engineer",
+    "employmentType": "Part-time",
+    "workType": "Remote",
+    "dateRange": {
+      "start": "2021-04",
+      "end": "2022-01"
+    },
+    "projectIds": [
+      "proj-wings-for-life",
+      "proj-zurich-marathon",
+      "proj-cycling-app"
+    ],
+    "achievements": [
+      "Developed cross-platform mobile applications using Ionic, Flutter and Dart for Swiss and international clients.",
+      "Built the Zürich Marathon app and the ACTYVO cycling app — each with GPS tracking, authentication and in-app purchases.",
+      "Integrated Capacitor, Firebase and native platform APIs to extend functionality beyond the web layer."
+    ]
+  },
+  {
+    "id": "role-web-ipko",
+    "companyId": "comp-b65fc234",
+    "title": "Fullstack Engineer",
+    "employmentType": "Contract",
+    "workType": "Remote",
+    "dateRange": {
+      "start": "2020-04",
+      "end": "2020-10"
+    },
+    "summary": "Project-based web development engagement with IPKO, building a mental health awareness platform for a youth community initiative in Kosovo.",
+    "projectIds": [
+      "proj-kpd1"
+    ],
+    "achievements": [
+      "Built a mental health awareness web platform for youth from Dragash, Kosovo, under a project-based engagement with IPKO.",
+      "Delivered the full web stack — from design implementation to deployment — as the sole developer on the project.",
+      "Supported a social impact initiative backed by Kosovo Generation Unlimited."
+    ]
+  },
+  {
+    "id": "role-fs-baron",
+    "companyId": "comp-5c941a7e",
+    "title": "Fullstack Engineer",
+    "employmentType": "Contract",
+    "workType": "Remote",
+    "dateRange": {
+      "start": "2026-02",
+      "end": null
+    },
+    "summary": "End-to-end contract engagement — from design implementation to deployment — building and shipping a modern Angular web app.",
+    "projectIds": [
+      "proj-baron-platform"
+    ],
+    "achievements": [
+      "Owned delivery from design implementation through to deployment and ongoing improvements.",
+      "Built core UI and features using Angular, TypeScript, HTML and CSS.",
+      "Worked closely with stakeholders to iterate quickly and ship production-ready releases."
+    ]
+  },
+  {
+    "id": "role-fs-blueecom",
+    "companyId": "comp-979a56ff",
+    "title": "Shopify Developer",
+    "employmentType": "Full-time",
+    "workType": "Remote",
+    "dateRange": {
+      "start": "2020-05",
+      "end": "2020-09"
+    },
+    "summary": "Built and customized Shopify e-commerce stores, focusing on theme development using Liquid, HTML/CSS, JavaScript and jQuery.",
+    "projectIds": [
+      "proj-blueecom-shopify"
+    ],
+    "achievements": [
+      "Built and customized Shopify themes using Liquid templates, sections and snippets.",
+      "Implemented responsive UI and storefront interactions with HTML/CSS, JavaScript and jQuery.",
+      "Delivered client-specific changes across PDP/PLP, navigation and content sections while keeping themes maintainable."
+    ]
+  },
+  {
+    "id": "role-fe-linkplus",
+    "companyId": "comp-linkplus",
+    "title": "Frontend Engineer",
+    "employmentType": "Full-time",
+    "workType": "Onsite",
+    "dateRange": {
+      "start": "2020-10",
+      "end": "2021-07"
+    },
+    "projectIds": [
+      "proj-car-registration",
+      "proj-arbrea-labs-platform"
+    ],
+    "achievements": [
+      "Worked on outsourced client projects at LinkPlus IT, delivering frontend features for clients in Switzerland and Germany.",
+      "Contributed to a large-scale car registration platform for Kroschke GmbH, spanning multiple markets (Germany, Switzerland, Canada).",
+      "Delivered frontend work for Arbrea Labs, collaborating with design and backend teams on UI and feature delivery.",
+      "Collaborated with design and backend teams on a complex, multi-app platform.",
+      "Optimized application performance and the end-to-end user experience.",
+      "Built single-page application architecture that was modular and easy to maintain.",
+      "Cooperated with backend developers to design and integrate the RESTful API."
+    ]
+  },
+  {
+    "id": "role-fs-opoware",
+    "companyId": "comp-opoware",
+    "title": "Fullstack Engineer",
+    "employmentType": "Full-time",
+    "workType": "Remote",
+    "dateRange": {
+      "start": "2020-02",
+      "end": "2021-02"
+    },
+    "projectIds": [
+      "proj-opoware-wordpress-portfolio",
+      "proj-opoware-at-arbeit-shopify"
+    ],
+    "achievements": [
+      "Developed and maintained WordPress-based websites for clients across multiple industries.",
+      "Implemented custom WordPress themes and plugins to match specific project requirements.",
+      "Delivered Shopify theme customizations for specific client websites (Liquid + storefront UI).",
+      "Collaborated with a cross-functional team to deliver high-quality web solutions on tight schedules."
+    ]
+  },
+  {
+    "id": "role-fe-dukes",
+    "companyId": "comp-dukes",
+    "title": "Frontend Engineer",
+    "employmentType": "Full-time",
+    "workType": "Onsite",
+    "dateRange": {
+      "start": "2018-09",
+      "end": "2019-04"
+    },
+    "projectIds": [
+      "proj-dukes-neundenker-portfolio"
+    ],
+    "achievements": [
+      "Joined as an intern for the first month, then moved into a full Frontend Engineer role.",
+      "Translated PSD designs into clean, responsive HTML/CSS pages for Swiss clients under neundenker.ch.",
+      "Built frontend interfaces using HTML, CSS, JavaScript, jQuery and Bootstrap."
+    ]
+  },
+  {
+    "id": "role-fs-dukes",
+    "companyId": "comp-dukes",
+    "title": "Fullstack Engineer",
+    "employmentType": "Full-time",
+    "workType": "Onsite",
+    "dateRange": {
+      "start": "2019-04",
+      "end": "2020-02"
+    },
+    "projectIds": [],
+    "achievements": [
+      "Promoted to Fullstack Engineer, taking on full ownership across a 600+ site Craft CMS portfolio for Swiss clients.",
+      "Continued PSD-to-web work while taking on Craft CMS template and plugin development.",
+      "Managed client websites directly on servers — deployments, hosting configuration and maintenance.",
+      "Built an internal client management dashboard with AngularJS to streamline portfolio operations."
+    ]
+  },
+  {
+    "id": "role-freelance-2017",
+    "companyId": "comp-freelance",
+    "title": "Frontend Engineer",
+    "employmentType": "Freelance",
+    "workType": "Remote",
+    "dateRange": {
+      "start": "2017-07",
+      "end": "2018-09"
+    },
+    "summary": "Near the end of my studies, I started taking on small freelance projects on Freelancer.com — login pages, contact forms and simple landing sections for small clients. A humble start that gave me my first real taste of building for someone else, using HTML, CSS, JavaScript, jQuery and Bootstrap.",
+    "projectIds": [],
+    "achievements": []
+  }
+]

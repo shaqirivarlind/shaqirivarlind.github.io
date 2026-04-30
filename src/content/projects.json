@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "proj-tracktik-platform",
+    "name": "TrackTik Platform — Workforce Management Suite",
+    "projectType": "client",
+    "summary": "Large-scale Nx/Lerna monorepo powering the full TrackTik/Trackforce workforce management product suite for the security industry.",
+    "roleIds": [
+      "role-fe-ritech"
+    ],
+    "clientId": "client-5c623458",
+    "skillIds": [
+      "vue",
+      "vuex",
+      "vuetify",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "php",
+      "nx",
+      "lerna",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.trackforce.com/"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/90204d27-cc26-442f-89b9-7136a612ddd1.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/56d5ebb1-a425-4abd-a64c-93edd1b55924.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/856932f2-09cc-463a-9a02-d07a8d743dc1.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/6ddf7c6c-97ce-4efb-94cc-1f43228eb70f.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/c6e42dc4-fb26-4fcf-ba3a-7f9678633297.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/c8ab5b9d-7bdc-4525-b2ac-8a29c73b8a0e.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/1ff92c73-bb35-4beb-9421-fddd24b5b977.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ad3bba26-81fd-4cf3-b334-d2b57007f119.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/dbc7030c-1d78-4739-a58f-84d1e40f33c1.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/0ce7041b-c334-48b4-b57a-064360a197ac.png",
+        "alt": ""
+      }
+    ],
+    "overview": "tt-platform is a Nx/Lerna monorepo containing multiple interconnected Vue 2 web applications — Dispatch, Flow, Invoice, Kiosk and more — that together power the Trackforce workforce management suite used by thousands of security organizations worldwide. Worked remotely with the Trackforce engineering team in Canada, contributing features and bug fixes across the shared Vue/Vuetify/Vuex/TypeScript stack, and made minor PHP contributions on the TrackTik Cloud backend.",
+    "achievements": [
+      "Delivered features and bug fixes across multiple apps within a large Nx/Lerna monorepo shared by the full Trackforce product suite.",
+      "Worked within a Vue 2 / Vuex / Vuetify / TypeScript codebase serving thousands of security industry clients globally.",
+      "Contributed minor PHP changes to the TrackTik Cloud backend."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-baron-platform",
+    "name": "Baron — Web Platform",
+    "projectType": "client",
+    "summary": "End-to-end contract delivery — from design implementation to deployment — using Angular and TypeScript.",
+    "roleIds": [
+      "role-fs-baron"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "angular",
+      "typescript",
+      "html",
+      "css",
+      "rest",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://barondresses.com/"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/c1150843-0b2f-465e-a9c6-a2c0bc8b2302.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/e33d9836-f10f-4591-9476-bc40718a3798.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/4bc63114-9b84-434c-869f-49f55e3b9d0b.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/948c213e-a5e5-496e-ba9f-3195465dd25e.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/33be2c31-98be-4bd9-9073-a7955191ed9e.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/cc854c9d-f491-4964-999f-7e4e03a64a9e.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/bf4792a2-e1fe-41b3-b60a-2c3b5f98d33c.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/46867510-2fe9-4ad5-b0f7-9a1b039c62f2.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Built and shipped a web platform for Baron as a contract engagement. Owned delivery end-to-end — translating designs into a responsive UI, implementing core application flows, integrating APIs, and deploying production releases.",
+    "achievements": [
+      "Delivered the Angular app from design implementation through to deployment.",
+      "Implemented responsive UI and core features using Angular, TypeScript, HTML and CSS.",
+      "Integrated REST APIs and supported production rollout and iteration."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-ambersearch-web",
+    "name": "amberSearch — Web Frontend",
+    "projectType": "internal",
+    "summary": "Primary web application for amberSearch — enterprise document search with an embedded AI assistant.",
+    "roleIds": [
+      "role-fe-lead-amberoad"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "vue",
+      "vuex",
+      "nuxt",
+      "typescript",
+      "javascript",
+      "nodejs",
+      "express",
+      "html",
+      "css",
+      "rest",
+      "git"
+    ],
+    "links": [],
+    "images": [
+      {
+        "src": "/images/projects/c60d6b2d-5f90-4a7b-a8cc-4a5ae1004d6d.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/384140ae-4afc-45d0-82fb-556381db0c3e.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/f9394073-354f-47ca-91ce-d16ca45c813b.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/7060fbb5-62cb-4ce6-99b4-f8269e43dbd4.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/e9630b2c-40c7-4a9b-9b43-17c9de731610.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/bff80c6f-d7eb-48b6-9ccd-a0c9bbaa9ffd.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/160f8d24-9d46-460d-af99-f732f52aeeea.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/eaabf2b5-860a-4b23-9198-d4c6f44dd888.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/8f83b1ad-8529-47af-9bca-c31f244a6ede.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Owned the Vue.js / Vuex / Nuxt.js web app that powers amberSearch. Built and maintained the core UI architecture and reusable modules shared across product surfaces, and implemented a Node.js / Express (TypeScript) middleware layer for API routes, server-side logic and file processing between the frontend and the core backend. Worked closely with product, design and backend to ship production-grade features for enterprise customers.",
+    "achievements": [
+      "Owned the frontend architecture and core UI patterns for the amberSearch web app.",
+      "Built reusable modules/components leveraged across web, Electron desktop and Teams surfaces.",
+      "Built and maintained Express middleware (API routes, server-side logic, file processing) to bridge the frontend and core backend.",
+      "Drove high-quality delivery through tight collaboration with product, design and backend."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-amberai",
+    "name": "amberAI — Customizable AI Assistant",
+    "projectType": "internal",
+    "summary": "Embedded AI assistant inside amberSearch — configurable UI and integrations for enterprise workflows.",
+    "roleIds": [
+      "role-fe-lead-amberoad"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "vue",
+      "nuxt",
+      "typescript",
+      "javascript",
+      "rest",
+      "html",
+      "css",
+      "git"
+    ],
+    "links": [],
+    "images": [
+      {
+        "src": "/images/projects/5d6b731c-0e84-45e4-a3e7-db26f77f3131.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/07c39a85-fc82-41cb-bdd3-b27bd7c07b66.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/cd027d00-38af-443e-bfdc-4d46bcf0c1fe.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/6f6369df-f294-4606-956f-6689a06123f4.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/036e7b1b-7a9a-4fa1-abbe-f5a920d36324.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Led the frontend implementation of amberAI, the embedded assistant built into amberSearch. Designed how the assistant integrates into the wider Vue.js codebase, implemented the UI/UX and configuration surfaces, and partnered with backend on the integration points that power the experience.",
+    "achievements": [
+      "Delivered the assistant UI/UX and configuration surfaces inside the amberSearch product.",
+      "Integrated the assistant cleanly into the shared Vue.js codebase used across product surfaces.",
+      "Collaborated with backend teams to align integration points and ensure production readiness."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-ambersearch-desktop",
+    "name": "amber — Desktop App (Electron)",
+    "projectType": "internal",
+    "summary": "Electron wrapper packaging the amber web app and amberAI for Windows/macOS, with native desktop integrations.",
+    "roleIds": [
+      "role-fe-lead-amberoad"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "electron",
+      "vue",
+      "typescript",
+      "javascript",
+      "nodejs",
+      "git"
+    ],
+    "links": [],
+    "images": [
+      {
+        "src": "/images/projects/9f94a145-126d-4896-a061-6bb32584ac54.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/bed4b901-ea28-4076-9a20-13fffaa4e8c2.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Built and maintained the Electron wrapper around the amber web app so enterprise users could install and run the product as a desktop client. Wrapped the same web application and amberAI experience, focusing on native integrations and keeping parity through maximum reuse.",
+    "achievements": [
+      "Shipped the amber desktop client using Electron.",
+      "Maintained web/desktop parity by reusing the shared Vue.js frontend.",
+      "Implemented native integrations (filesystem, updates and OS-level hooks)."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-ambersearch-teams",
+    "name": "amber — Microsoft Teams App",
+    "projectType": "internal",
+    "summary": "Microsoft Teams wrapper embedding the amber web app and amberAI directly inside Teams workspaces.",
+    "roleIds": [
+      "role-fe-lead-amberoad"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "microsoft-teams",
+      "vue",
+      "typescript",
+      "javascript",
+      "rest",
+      "git"
+    ],
+    "links": [],
+    "images": [
+      {
+        "src": "/images/projects/6ed203c0-47ee-43ec-b4fe-a8784fb2035e.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/540895da-139b-4a1f-9e37-accf15762d46.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Built and maintained the Teams-embedded wrapper so users could access the amber web app and amberAI directly inside Microsoft Teams. Focused on Teams-specific packaging, UI adaptation and authentication integration to feel native within Teams.",
+    "achievements": [
+      "Shipped a Teams app surface for amber/amberAI.",
+      "Adapted UI/UX patterns to match Teams constraints and navigation.",
+      "Implemented Teams-specific packaging and authentication integration."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-ambersearch-website",
+    "name": "amber — Product Website",
+    "projectType": "internal",
+    "summary": "Public product website for amber (marketing pages, product information and lead capture).",
+    "roleIds": [
+      "role-fe-lead-amberoad"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "vue",
+      "nuxt",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://ambersearch.de/"
+      }
+    ],
+    "images": [],
+    "overview": "Built and maintained the public amber product website, shipping marketing and product pages and keeping content and performance aligned with product releases.",
+    "achievements": [
+      "Shipped and maintained the public product website and landing pages.",
+      "Iterated on content and UI as the product evolved across releases."
+    ],
+    "hideOnHomepage": true,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-kpd1",
+    "name": "Këshilla Psikologjike — Mental Health Platform",
+    "projectType": "client",
+    "summary": "Mental health awareness website for youth from Dragash, Kosovo, built under a project-based engagement with IPKO.",
+    "roleIds": [
+      "role-web-ipko"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "html",
+      "css",
+      "javascript",
+      "jquery",
+      "bootstrap",
+      "php",
+      "wordpress",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "www.kpd1.online"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/13fd0d63-8780-4569-b749-e38f2f3e9403.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/39587f67-39df-42d4-8691-fe855fe26da0.jpg",
+        "alt": ""
+      }
+    ],
+    "overview": "Built a social-impact mental health awareness platform for a youth community initiative from Dragash, Kosovo. The site provided psychological advice and educational content through a WordPress-based web app. Delivered the full web stack solo — from design implementation through to deployment — as part of a project-based engagement with IPKO. The initiative was supported by Kosovo Generation Unlimited.",
+    "achievements": [
+      "Delivered a full-stack WordPress web platform for a youth mental health awareness initiative.",
+      "Sole developer on the project — owned everything from design implementation to deployment.",
+      "Contributed to a social impact initiative backed by Kosovo Generation Unlimited and IPKO."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-blueecom-shopify",
+    "name": "Shopify E-commerce Builds (BlueEcom)",
+    "projectType": "client",
+    "summary": "Outsourced Shopify theme development for a UK client (Eastside Co) — Liquid, HTML/CSS, JavaScript and jQuery across multiple ecommerce builds.",
+    "roleIds": [
+      "role-fs-blueecom"
+    ],
+    "clientId": "client-eastsideco",
+    "skillIds": [
+      "shopify",
+      "liquid",
+      "html",
+      "css",
+      "javascript",
+      "jquery",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Client",
+        "url": "https://eastsideco.com/"
+      },
+      {
+        "label": "Portfolio: Wild Deo",
+        "url": "https://eastsideco.com/portfolio/wild-deo"
+      },
+      {
+        "label": "Portfolio: Klarna Shopify App",
+        "url": "https://eastsideco.com/portfolio/klarna-shopify-app"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/4ea19062-ee3b-47f2-9f7b-a12e9221ddf6.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/12d2c966-db61-4423-b035-aa44fbc9b1ae.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ac6e1201-998a-459d-8c70-0362383ab41c.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/1e46e6af-c0d1-4dbd-a1fd-e8e99b949065.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/c7abcc1a-7ae3-4d89-9530-8c0524e27690.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/41fc60cd-c120-4ef0-baaf-6988bc0422ea.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/fae79665-8437-4bbe-ac05-51d1ad8d7ec4.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ec836f20-c80e-4398-84f9-e8201a098b69.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/cd213c91-0762-41f2-be83-a30171fa1a5d.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/610b605e-c4d3-42b7-b200-7b28417e981c.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/97f28f47-4200-416c-a80d-17a7995b1657.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/8bd9f3e5-0adc-439e-9d9b-2deb3bbbd1f5.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/f0c07818-c562-43fc-a755-0f9df21ec033.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ad2b570b-f06c-4c91-88cc-ce53eb9a404b.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Worked at BlueEcom as an outsourced Shopify developer for a UK client (Eastside Co). Focused on Shopify theme development and customization using Liquid templates, theme sections, HTML/CSS, JavaScript and jQuery. Contributed to multiple client builds and internal deliverables showcased in Eastside Co’s portfolio, implementing storefront UI changes and reusable theme components while keeping themes maintainable.",
+    "achievements": [
+      "Implemented Shopify theme customizations using Liquid, sections and snippets.",
+      "Built responsive storefront UI with HTML/CSS and interactive behavior with JavaScript/jQuery.",
+      "Contributed to multiple ecommerce builds for Eastside Co (including Wild Deo and Klarna portfolio work) alongside other client projects."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-jamatu",
+    "name": "jamatu.com — Event Management & Ticketing",
+    "projectType": "client",
+    "summary": "Feature-rich event management and ticketing platform built for the Swiss market on Angular and Ionic.",
+    "roleIds": [
+      "role-lead-fe-intes"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "angular",
+      "ionic",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "rest",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "jamatu.com",
+        "url": "https://jamatu.com"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/c8d83002-ec63-49b9-81ff-03e89139fee9.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/f3edb9cd-750e-4767-8255-002fbc9757b8.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/d4af2d97-4e26-4283-9194-915e06e554b0.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/9cd7edf8-379c-486c-935f-0e4c4095f4a3.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/523f2b05-9116-4f1c-86b9-15bf1ccbbf32.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/194fc514-be4e-4d54-8776-ca30c1975c42.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/c41d26b7-0dd9-4163-b08b-d6fb0fe0cf24.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/280a9273-0d7e-4229-a223-16f207e6f279.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/702c3fd8-8b3d-4689-b5e7-566946ceaaa0.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/19bef13e-644e-4490-9439-6a85713f48ff.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/5462a8cd-99c9-44ff-86b5-3f205b9f56da.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/16d12f68-f414-41dd-884a-9ce3d56de94d.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/6809d9ec-3a42-4a8f-bff4-f73b9f74416f.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/b4521409-00de-48a6-b22f-d796bcefd314.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/a9a3865b-20e3-4a5f-b980-116214a43e46.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ca5addaa-7d6b-47e6-85f0-1b32c2c4beb8.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/facfde26-f626-45f7-9814-3a8aabffb4ec.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/8af6e488-f951-4ac0-8289-e4b23d5d014e.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/6bb88bcc-7c3f-47d8-ab71-50d1e35ba770.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ebd69ea3-ee23-4803-855b-5e0b44047183.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/da9ff2d5-3266-4463-8f02-70ecb8764051.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Oversaw the development of jamatu.com, an event management and ticketing platform delivered out of Intes GmbH for the Swiss market. Led a small frontend team building Angular-based web and Ionic mobile applications, contributed to backend integration and prioritized performance and end-user experience throughout delivery.",
+    "achievements": [
+      "Led the frontend team delivering the jamatu.com event and ticketing platform.",
+      "Shipped Angular web and Ionic mobile clients sharing a common API.",
+      "Contributed to backend integration to ensure smooth end-to-end flows.",
+      "Optimized performance and UX as the platform's feature set grew."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-wings-for-life",
+    "name": "Wings for Life World Run App",
+    "projectType": "client",
+    "summary": "Red Bull-sponsored global running event app — participants race simultaneously worldwide against a virtual Catcher Car, built for iOS and Android.",
+    "roleIds": [
+      "role-mobile-irtech"
+    ],
+    "clientId": "client-727fa552",
+    "skillIds": [
+      "ionic",
+      "capacitor",
+      "firebase",
+      "typescript",
+      "javascript",
+      "rest",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://itunes.apple.com/ch/app/wings-for-life-world-run/id956816207?mt=8"
+      },
+      {
+        "label": "Play Store",
+        "url": "https://play.google.com/store/apps/details?id=com.redbull.wingsforlifeworldrun"
+      }
+    ],
+    "images": [],
+    "overview": "Contributed to the Wings for Life World Run app at IRTECH GmbH — a Red Bull-sponsored global running event where participants race simultaneously worldwide against a moving virtual Catcher Car that eliminates runners who fall behind. The hybrid iOS/Android app featured year-round GPS training mode with purchasable 3D session replays, an organized App Runs directory with GPS navigation to venues, in-app registration with credit card payment and optional donations, and background GPS tracking that persisted even during app crashes. Backend by Tractalis on Microsoft Azure. Delivered in approximately 4 months by a team of 4 hybrid app developers.",
+    "achievements": [
+      "Shipped the Wings for Life World Run app to iOS and Android for Red Bull's global running event.",
+      "Implemented GPS training mode with interactive 3D session replays shareable to social media.",
+      "Built in-app registration, credit card payment, optional donations and organized App Runs directory.",
+      "Achieved reliable background GPS tracking that persisted through app crashes."
+    ],
+    "hideOnHomepage": true,
+    "hideOnResume": true
+  },
+  {
+    "id": "proj-zurich-marathon",
+    "name": "Zürich Marathon App",
+    "projectType": "client",
+    "summary": "Virtual marathon app for the Zürich Marathon — GPS-tracked runs across 10 km, half and full marathon distances, shipped to iOS and Android.",
+    "roleIds": [
+      "role-mobile-irtech"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "ionic",
+      "capacitor",
+      "firebase",
+      "typescript",
+      "javascript",
+      "rest",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Case study",
+        "url": "https://www.ir-tech.ch/referenzen/per-app-zum-zuerich-marathon/"
+      },
+      {
+        "label": "Play Store",
+        "url": "https://play.google.com/store/apps/details?id=ch.irtech.sports.zurichMarathon"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/ch/app/z%C3%BCrich-marathon-virtual-run/id1552371000"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/2533be46-a7e2-4eff-9e51-842cf5b43180.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/564f4e9a-9a43-4859-aeab-65fd7b459c3f.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/6385a7a3-b637-4714-95a4-0069738725b4.png",
+        "alt": ""
+      }
+    ],
+    "overview": "Developed the official Zürich Marathon virtual app at IRTECH GmbH using the Ionic Framework, delivering a consistent cross-platform experience on iOS and Android. The app enabled runners worldwide to participate independently of location — choosing a 10 km, half-marathon or full marathon and completing it within a flexible 3-hour window. GPS navigation provided a seamless, frictionless running experience, while bilingual audio commentary accompanied participants throughout the race. Unique access codes handled registration and results tracking. The project ran from requirements to App Store / Play Store launch.",
+    "achievements": [
+      "Shipped the official Zürich Marathon virtual app to iOS and Android.",
+      "Supported 10 km, half-marathon and full marathon formats with GPS tracking and a 3-hour flexible race window.",
+      "Implemented bilingual audio commentary, social sharing, unique access-code login and results tracking.",
+      "Integrated Capacitor, Firebase and native platform APIs for a polished, location-aware runtime."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-cycling-app",
+    "name": "ACTYVO — Cycling & Challenges",
+    "projectType": "client",
+    "summary": "Cross-platform competitive road cycling app with global rankings, GPS tracking, Garmin/Wahoo integration and in-app purchases.",
+    "roleIds": [
+      "role-mobile-irtech"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "flutter",
+      "dart",
+      "firebase",
+      "android-studio",
+      "rest",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/actyvo-cycling-challenges/id6448724238"
+      },
+      {
+        "label": "Play Store",
+        "url": "https://play.google.com/store/apps/details?id=ch.irtech.actyvo.cyclingChallenges"
+      },
+      {
+        "label": "Website",
+        "url": "https://www.actyvo.app"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/11ce13ab-b512-493b-81c2-1858dfb9ede8.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/22cf723e-c192-419e-a08f-38aa4eb86fa5.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/d3d5ac22-1539-45d7-a87c-6af31f32a054.avif",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/1f461a5e-491e-46bf-a5b3-9d1ca247b096.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ae747c65-545b-42eb-9f69-30799fe197cc.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/76c5f61d-400e-4bb3-90aa-12a3fc517d43.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/592b3e1a-5cf9-4d5b-9a8d-2b68a8c2b3eb.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/d3d1b486-973f-4135-b710-5cdc92db8734.webp",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/da809887-aed8-4d7c-87b1-0514e5b79d5a.webp",
+        "alt": ""
+      }
+    ],
+    "overview": "Developed ACTYVO — Cycling & Challenges at IRTECH GmbH using Flutter and Dart, a competitive road cycling platform for cyclists worldwide. Built with Flutter's Material Design components and icons, the app lets riders record rides via Garmin/Wahoo device sync or directly on-device, targeting standardized distances (36.5, 50, 75, 100 or 150 km) and competing in global ACTYVOLT-based rankings. Developed in Android Studio and shipped to iOS and Android — the app reached 50,000+ downloads and is published under ACTYVO AG, headquartered in Neuhausen am Rheinfall, Switzerland.",
+    "achievements": [
+      "Shipped ACTYVO to iOS and Android using Flutter — the app reached 50,000+ downloads on the Play Store.",
+      "Built competitive global rankings with GPS-based ride recording and Garmin/Wahoo device sync.",
+      "Implemented in-app purchases (premium yearly subscription) and location-based finish-zone tracking.",
+      "Used Flutter Material Design components and developed in Android Studio."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-car-registration",
+    "name": "Multi-country Car Registration Platform",
+    "projectType": "client",
+    "summary": "Large-scale Angular platform for car registration used by clients in Germany, Switzerland and Canada (delivered via ComLine / Complement).",
+    "roleIds": [
+      "role-fe-linkplus"
+    ],
+    "clientId": "client-abc305b8",
+    "skillIds": [
+      "angular",
+      "material-ui",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "rest",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.kroschke.de/"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/60ed066e-0559-460b-bc64-b83ed54ee00c.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/07d32050-6ba7-476b-ba4b-1665b6943861.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/73f9e36b-99b1-4fba-b90f-ce6e919b566f.png",
+        "alt": ""
+      }
+    ],
+    "overview": "At LinkPlus IT, contributed to a complex Angular-based car registration system used by clients in Germany, Switzerland and Canada. Built and maintained the Angular web client, partnered with design and backend teams on the architecture, and prioritized performance optimization and a consistent user experience across markets.",
+    "achievements": [
+      "Built and maintained an Angular web client for a large-scale car registration platform.",
+      "Served clients across Germany, Switzerland and Canada from one shared codebase.",
+      "Collaborated with design and backend teams on a complex, multi-app platform.",
+      "Optimized performance and UX across the application suite."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-arbrea-labs-platform",
+    "name": "Arbrea Labs — Web Platform Contributions",
+    "projectType": "client",
+    "summary": "Frontend contributions for Arbrea Labs — UI delivery, feature work and integrations in a modern web application.",
+    "roleIds": [
+      "role-fe-linkplus"
+    ],
+    "clientId": "client-ee82d1de",
+    "skillIds": [
+      "angular",
+      "typescript",
+      "javascript",
+      "html",
+      "css",
+      "rest",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://arbrea-labs.com/"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/80533b12-182b-4d44-a13a-71f87ef851bb.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/6f0d63ea-a6c6-49f1-a25b-d82e0d322ac5.png",
+        "alt": ""
+      }
+    ],
+    "overview": "At LinkPlus IT, contributed to a client project for Arbrea Labs (Zurich, Switzerland), delivering frontend features and UI work within a TypeScript-based web application and collaborating with design and backend teams on end-to-end delivery.",
+    "achievements": [
+      "Delivered frontend features and UI improvements in a TypeScript-based web application.",
+      "Collaborated with design and backend teams to ship client-facing functionality.",
+      "Implemented API integrations and maintained a consistent, responsive UI."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-dukes-neundenker-portfolio",
+    "name": "neundenker.ch / konzeptler.ch — Swiss Client Portfolio (Dukes LLC)",
+    "projectType": "client",
+    "summary": "End-to-end delivery across a 600+ client portfolio under neundenker.ch (also known as konzeptler.ch) — PSD-to-web, Craft CMS builds, hosting and internal tooling.",
+    "roleIds": [
+      "role-fe-dukes",
+      "role-fs-dukes"
+    ],
+    "clientId": "client-ecf1f89e",
+    "skillIds": [
+      "craft-cms",
+      "twig",
+      "php",
+      "html",
+      "css",
+      "javascript",
+      "jquery",
+      "bootstrap",
+      "photoshop",
+      "angular",
+      "sql",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.neundenker.ch"
+      },
+      {
+        "label": "Also known as",
+        "url": "https://konzeptler.ch"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/projects/fe10e2a5-bdbd-4879-a96a-e67da2255ab1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/d219643e-72c6-428f-becd-97d39c10c5f0.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/744cac23-d780-4023-b64d-ddfb7ab34d46.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/3cca321a-30b9-4439-a2d2-b3c911fd74d9.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/f109ee8f-2346-469a-80bb-a567ca3cade5.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/7b0285cb-410f-468b-a164-9171134357de.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/e8e8e4f4-1dd6-48b9-8e54-e81f2db279a9.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/59a98380-d402-4253-b411-ae98346f1390.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/866cfb44-99b8-4ef6-910c-2bc48017e5a0.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/71680095-2c4f-402a-8721-d16b64f92b5c.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/de1605fd-4ffd-40df-8918-7882282f37bd.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/449dfb98-796f-4ac2-a301-df415bf48f69.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/61e5ac34-837d-4d53-a44c-bf702921a52e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ec0eb9f9-b167-4476-9706-cbfb4ede9096.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/693195ab-5ee4-48d2-bc9c-78fedfde696a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/7a99e515-d007-4e3a-aab6-a75f7e52b108.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/58f313cc-69d0-4c5e-8746-135ebcb4a5a1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/b849bffe-3001-4ef5-8a9c-398eb4472d72.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/0de92cb0-9ca4-4b63-a346-43e703a9173a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/c848cbd9-6c1a-4456-a25e-bc31ea8e9aa5.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/e217fd74-e629-4f5b-b8ca-2cc4dc113032.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/126250ad-79a2-42ae-a076-555957d93eb4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/9896e8b0-87a5-4cf7-b4d3-1f6e8b543a8f.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/bfa6b0c1-bfcb-4607-b4d4-269a68c8d4af.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/c0d785f3-8309-480d-8887-154fd5cd6666.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/63d77b0b-aafe-44ba-9bc4-f320e2834dfc.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/0ead6cc9-daac-414b-8f6c-7dd7b087d417.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/7d4f8e72-5b8e-491a-b734-95dd2bc1b5c4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/d9c5f62a-21aa-459d-89d9-1f00ce5c244b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/0d103542-a657-4b06-b919-cab7846edd37.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/9c2a118f-f7c6-49c1-b94e-1303fad6ed7c.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/ab3c8b85-dc26-4d29-8564-a49da95724c1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/42d2d9dc-96b5-4613-9ef5-8dd62eebb52b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/projects/4f7edfca-c0fd-44e7-9f41-5e42bbc16666.jpg",
+        "alt": ""
+      }
+    ],
+    "overview": "Worked across the Dukes LLC portfolio of 600+ client websites delivered for Swiss clients under neundenker.ch (also known as konzeptler.ch). Started with PSD-to-web frontend work (responsive HTML/CSS/JS), then expanded into Craft CMS template and plugin development (Twig/PHP), deployments/hosting maintenance, and internal tooling — including an Angular dashboard to centralize client data and operational workflows.",
+    "achievements": [
+      "Delivered and maintained Craft CMS templates and custom features across a 600+ client portfolio.",
+      "Converted PSD designs into responsive HTML/CSS templates and implemented interactive behavior with JavaScript/jQuery.",
+      "Owned deployments, hosting configuration and maintenance across the client portfolio.",
+      "Built an internal Angular dashboard to streamline client operations and reduce manual work."
+    ],
+    "hideOnHomepage": false,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-opoware-wordpress-portfolio",
+    "name": "WordPress Site Portfolio (Opoware)",
+    "projectType": "client",
+    "summary": "WordPress-based websites built and maintained at Opoware for clients across multiple industries.",
+    "roleIds": [
+      "role-fs-opoware"
+    ],
+    "clientId": null,
+    "skillIds": [
+      "wordpress",
+      "php",
+      "html",
+      "css",
+      "javascript",
+      "jquery",
+      "sql",
+      "git"
+    ],
+    "links": [],
+    "images": [],
+    "overview": "Developed and maintained WordPress-based websites for Opoware's client roster across multiple industries. Implemented custom themes and plugins to meet specific project requirements and collaborated with the Opoware team on delivery.",
+    "achievements": [
+      "Shipped WordPress sites for clients across multiple industries.",
+      "Built custom themes and plugins to match specific project requirements.",
+      "Collaborated with a cross-functional team on delivery."
+    ],
+    "hideOnHomepage": true,
+    "hideOnResume": false
+  },
+  {
+    "id": "proj-opoware-at-arbeit-shopify",
+    "name": "at-arbeit.net — Shopify Website",
+    "projectType": "client",
+    "summary": "Shopify website delivery during the Opoware engagement (theme customization and storefront UI work).",
+    "roleIds": [
+      "role-fs-opoware"
+    ],
+    "clientId": "client-at-arbeit",
+    "skillIds": [
+      "shopify",
+      "liquid",
+      "html",
+      "css",
+      "javascript",
+      "jquery",
+      "git"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.at-arbeit.net/wochenberichte"
+      }
+    ],
+    "images": [],
+    "overview": "Built and customized a Shopify-based website for at-arbeit.net while working at Opoware. Implemented Liquid theme changes, storefront UI improvements and client-specific adjustments using HTML/CSS, JavaScript and jQuery.",
+    "achievements": [
+      "Customized Shopify theme templates using Liquid and reusable sections/snippets.",
+      "Implemented responsive UI and interactive behavior using HTML/CSS, JavaScript and jQuery.",
+      "Delivered ongoing tweaks and fixes based on client feedback."
+    ],
+    "hideOnHomepage": true,
+    "hideOnResume": false
+  }
+]

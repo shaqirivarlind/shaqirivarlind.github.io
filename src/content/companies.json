@@ -1,0 +1,162 @@
+[
+  {
+    "id": "comp-e2861f48",
+    "name": "Ritech International AG",
+    "location": "Prishtina, Kosovo",
+    "description": "Ritech Group is a Swiss-based software development and digital transformation company headquartered in Zug, Switzerland.\nIt specializes in AI-powered solutions, full-stack development, cloud services, and advanced technologies like machine learning and computer vision.\nThe company operates globally with delivery centers in Europe, North America, and the Balkans, including Prishtina.\nIt helps businesses build scalable digital products by combining design, engineering, and AI innovation.",
+    "logo": "/images/companies/91a8a586-97c7-4803-9511-ca43fbb92650.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ritech.co/"
+      }
+    ]
+  },
+  {
+    "id": "comp-amberoad",
+    "name": "amberTech GmbH",
+    "location": "Aachen, Germany",
+    "description": "amberTech is a German AI software company based in Aachen.\nIt develops enterprise search and AI solutions that help companies access internal knowledge quickly and efficiently.\nThe platform uses AI to connect and understand company data across different systems.\nIt mainly serves SMEs and improves productivity through smarter knowledge management.",
+    "logo": "/images/companies/b2ebc170-f750-4ebb-8c70-88ad3d1aa0ed.jpeg",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://amberoad.ai"
+      },
+      {
+        "label": "Product",
+        "url": "https://www.ambersearch.de"
+      }
+    ]
+  },
+  {
+    "id": "comp-intes",
+    "name": "Intes GmbH",
+    "location": "Prishtina, Kosovo",
+    "description": "INTES GmbH is a Swiss-based software development and consulting company.\nIt specializes in digital transformation, web development, and custom software solutions.\nThe company also provides services in automation, data, and AI-driven systems for businesses.\nIts Kosovo branch works with international teams on software engineering projects.",
+    "logo": "/images/companies/21c1081b-fe06-42d2-8210-f9e1d74ae2f2.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.intes.co/"
+      }
+    ]
+  },
+  {
+    "id": "comp-irtech",
+    "name": "IRTECH GmbH",
+    "location": "Rheinfall, Switzerland",
+    "description": "IR-Technology GmbH is a Switzerland-based company specializing in industrial equipment for the automotive and manufacturing sectors.\nIt provides solutions such as paint booths, drying systems, and related technical installations.\nThe company also offers maintenance, installation, and after-sales technical support.\nIt works with professional workshop and industrial clients across Europe.",
+    "logo": "/images/companies/95ec38e4-c6e4-4f9b-a207-3f893bf4ee86.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ir-tech.ch/"
+      }
+    ]
+  },
+  {
+    "id": "comp-linkplus",
+    "name": "LinkPlus IT",
+    "location": "Prishtina, Kosovo",
+    "description": "It builds custom web and mobile applications for international clients.\nThe company mainly works in outsourced software engineering and IT services.\nIt serves businesses across Europe and the US with scalable tech solutions.",
+    "logo": "/images/companies/5c8a8490-8f01-4512-b07f-5b3e5a777aae.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://linkplus-it.com"
+      }
+    ]
+  },
+  {
+    "id": "comp-b65fc234",
+    "name": "Ipko LLC",
+    "location": "Prishtina, Kosovo",
+    "description": "IPKO is one of the leading telecommunications companies in Kosovo.\nIt provides mobile, internet, TV, and fixed-line communication services to both individual and business customers.\nThe company is known for its strong network infrastructure and wide coverage across the country.\nIt also supports various digital and IT projects in Kosovo’s telecom and tech sector.",
+    "logo": "/images/companies/11ad1279-8cf1-4676-9562-57b2fe574a61.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.ipko.com/"
+      }
+    ]
+  },
+  {
+    "id": "comp-5c941a7e",
+    "name": "Baron",
+    "location": "Prizren, Kosovo",
+    "description": "Baron Wedding Dresses is a fashion brand that designs and creates bridal and formal gowns.\nIt is known for custom-designed wedding dresses shared under its name on social media platforms.\nThe brand focuses on elegant, made-to-order bridal wear for special occasions.\nIt serves clients looking for personalized and designer-style wedding gowns.",
+    "logo": "/images/companies/31f0e64e-d6cc-4590-b385-e6460271cfe4.svg",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://barondresses.com/"
+      }
+    ]
+  },
+  {
+    "id": "comp-opoware",
+    "name": "Opoware",
+    "location": "Vienna, Austria",
+    "description": "Austrian web agency building websites/e-stores and custom themes/plugins for clients across multiple industries.",
+    "logo": "/images/companies/b74ca09b-87e5-4b57-bc60-f0fe7ab2e148.jpg",
+    "links": [
+      {
+        "label": "Website",
+        "url": "opoware.net"
+      }
+    ]
+  },
+  {
+    "id": "comp-979a56ff",
+    "name": "BlueEcom",
+    "location": "Dubai, United Arab Emirates",
+    "description": "Blueecom is a technology company focused on building software products and digital applications.\nIt develops AI-powered platforms, enterprise tools, and consumer-facing apps.\nThe company works on creating innovative digital solutions to improve user experiences and business operations.\nIt operates in the software development and AI innovation space.",
+    "logo": "/images/companies/2a257528-cefb-44bc-9690-9c4f8667f5d9.jpeg",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.blueecom.com/"
+      }
+    ]
+  },
+  {
+    "id": "comp-dukes",
+    "name": "Dukes LLC",
+    "location": "Prishtina, Kosovo",
+    "description": "Dukes LLC (previously known as Beneshtarg AG) was a digital services company based in Prishtina, working primarily for neundenker.ch (also known as konzeptler.ch) — a Swiss agency serving 600+ clients. The company handled development, hosting and delivery of Craft CMS-based websites for Swiss clients, combining technical execution with digital marketing services.",
+    "logo": "/images/companies/d9aab9dd-d23b-4db4-aff1-23e6f8f3d1b1.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "http://www.neundenker.ch/"
+      }
+    ]
+  },
+  {
+    "id": "comp-freelance",
+    "name": "Freelance",
+    "location": "Prishtina, Kosovo",
+    "description": "Independent freelance practice delivering responsive websites and frontend development for a range of small business clients.",
+    "logo": "/images/companies/8458cac0-c9ca-4d3b-a109-962c15115a40.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "freelancer.com"
+      }
+    ]
+  },
+  {
+    "id": "comp-88128093",
+    "name": "Tribes Digital Ltd",
+    "location": "Manchester, England, UK",
+    "description": "Tribes Digital Ltd is a UK-registered software development and AI-powered digital delivery company.\nIt specializes in end-to-end product engineering, combining design, development, QA, and cloud services.\nThe company uses AI to accelerate software delivery and improve engineering quality and efficiency.\nIt works with global clients and operates with distributed teams across multiple regions, including Europe and the Balkans.",
+    "logo": "/images/companies/cd651d99-d57a-4ad9-bdeb-f60fc809e3c9.webp",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://tribes.tech/"
+      }
+    ]
+  }
+]

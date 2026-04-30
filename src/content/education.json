@@ -1,0 +1,24 @@
+[
+  {
+    "id": "edu-uni-prishtina",
+    "institution": "University of Prishtina \"Hasan Prishtina\"",
+    "degree": "Bachelor of Science",
+    "field": "Computer Science",
+    "dateRange": {
+      "start": "2013-09",
+      "end": "2020-01"
+    },
+    "links": [
+      {
+        "label": "University",
+        "url": "https://www.uni-pr.edu"
+      }
+    ],
+    "notes": [
+      "Department of Mathematics, Faculty of Mathematical-Natural Sciences, Prishtina, Kosovo.",
+      "Total ECTS: 180. Average grade: 7.55. National Qualifications Framework Level: 6.",
+      "Diploma Nr. 3107, awarded 5 February 2020."
+    ],
+    "documentUrl": "/images/education/05021333-e65c-4086-be31-b786730d75d5.jpeg"
+  }
+]

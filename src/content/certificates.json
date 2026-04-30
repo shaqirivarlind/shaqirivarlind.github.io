@@ -1,0 +1,75 @@
+[
+  {
+    "id": "cert-hf-agents-course",
+    "category": "ai",
+    "name": "Hugging Face Agents Course — Certificate of Excellence",
+    "issuer": "Hugging Face",
+    "date": "2025-04",
+    "credentialId": "huggingface",
+    "credentialUrl": "https://huggingface.co/",
+    "relatedSkillIds": [
+      "hugging-face",
+      "typescript",
+      "javascript"
+    ],
+    "documentUrl": "/images/certificates/ff2b6fd8-a199-49e7-be21-a52b5f7d1290.pdf"
+  },
+  {
+    "id": "cert-aws-typescript-masterclass",
+    "category": "cloud",
+    "name": "AWS & TypeScript Masterclass — CDK, Serverless, React",
+    "issuer": "Udemy (Training Ritech, Alex Dan)",
+    "date": "2025-10",
+    "credentialId": "UC-e1ba7406-6069-4961-8837-c6572a946f5b",
+    "credentialUrl": "https://ude.my/UC-e1ba7406-6069-4961-8837-c6572a946f5b",
+    "relatedSkillIds": [
+      "aws",
+      "typescript",
+      "react",
+      "nodejs"
+    ],
+    "documentUrl": "/images/certificates/e07db540-1866-4c61-8bb0-42d4e8e6d6b8.pdf"
+  },
+  {
+    "id": "cert-app-security-complete-guide",
+    "category": "security",
+    "name": "Application Security — The Complete Guide",
+    "issuer": "Udemy (Derek Fisher)",
+    "date": "2024-10",
+    "credentialId": "UC-b1bf547d-1c43-42e2-a3ee-9fbfd8ad4548",
+    "credentialUrl": "https://ude.my/UC-b1bf547d-1c43-42e2-a3ee-9fbfd8ad4548",
+    "relatedSkillIds": [],
+    "documentUrl": "/images/certificates/7bc4e22a-fc25-42f5-a981-ed465a206c9c.pdf"
+  },
+  {
+    "id": "cert-software-engineering-timeframe",
+    "category": "engineering",
+    "name": "Software Engineering / Architecture",
+    "issuer": "Time Frame & GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit)",
+    "date": "2019-03",
+    "credentialId": "GIZ",
+    "credentialUrl": "https://www.giz.de/en",
+    "relatedSkillIds": [
+      "javascript",
+      "html",
+      "css",
+      "php",
+      "sql"
+    ],
+    "documentUrl": "/images/certificates/6e56fe1f-047e-4438-a5cd-7882591017c4.jpeg"
+  },
+  {
+    "id": "cert-android-app-dev-ick",
+    "category": "mobile",
+    "name": "Android App Development",
+    "issuer": "Innovation Centre Kosovo (ICK)",
+    "date": "2018-04",
+    "credentialId": "ICK0001AndroidApp2018/1",
+    "credentialUrl": "https://ickosovo.com/",
+    "relatedSkillIds": [
+      "java",
+      "android-studio"
+    ],
+    "documentUrl": "/images/certificates/db01cca9-3adb-40d2-978c-aa965a57806d.jpeg"
+  }
+]
